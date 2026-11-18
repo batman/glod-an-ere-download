@@ -2,11 +2,11 @@
   "engine": "4.3",
   "notes": [
     "Probierversion.",
-    "Himmel: Kippst du die Kamera flach, siehst du über dem Land den Himmel mit ziehenden Wolken. Tags ist er bedeckt, morgens und abends rot-orange. Sonne und Mond stehen dort, woher ihr Licht kommt, nachts funkeln Sterne.",
-    "Das Kartenfenster zeigt nur das erkundete Land. Am Anfang ist es nah herangezoomt, wird mehr aufgedeckt, zoomt es langsam heraus.",
-    "Fahnenwarte laufen natürlicher: Nach einer Lieferung gehen sie direkt zur nächsten Ware, ohne Umweg über die Fahne, und sie springen nicht mehr an ihren Warteplatz."
+    "Unerforschtes Land liegt jetzt unter einer Wolkendecke: am Tag dicht und grau-weiß, sie zieht langsam, morgens und abends ist sie leicht rötlich, nachts schwarz. Zum erkundeten Land hin franst sie weich aus.",
+    "Auch im Kartenfenster ist das Unbekannte am Tag grau und nachts schwarz.",
+    "Am Horizont geht der Himmel weich ins Dunkel über."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "208d27c8bd4bc21832afa8c086ab7b4b117e76a59e3b4524adeea0a8f62460b3",
-  "version": "0.39.0"
+  "sha256": "40974c15ec9374f16abe6d9691b4f2f60b02aaea5701adf06af86acdf9c4f2e0",
+  "version": "0.40.0"
 }
