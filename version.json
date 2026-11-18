@@ -1,13 +1,14 @@
 {
   "engine": "4.3",
   "notes": [
-    "Probierversion.",
-    "Neu im Baumenü: drei Prestigebauten. Niemand arbeitet dort, und jeden gibt es nur einmal.",
-    "Totempfahl (klein): Der Ruf des Dorfes fällt nie unter 10 und steigt schneller.",
-    "Steinkreis (mittel): Der Ruf fällt nie unter 25 und steigt noch schneller.",
-    "Ahnenhügel (groß): Der Ruf fällt nie unter 40, das Dorf ist also nie „Schlecht“."
+    "Probierversion. Neue Inseln haben jetzt Wasser: Starte ein neues Spiel, um es zu sehen.",
+    "Seen liegen auf jeder Höhe und sind bis zum Rand gefüllt, mit sanftem Glitzern.",
+    "Quellen in den Hügeln speisen Bäche. Wo Bäche zusammenfließen oder ein See überläuft, wird ein Fluss daraus, der bis zum Meer fließt. Hier und da gibt es einen Wasserfall.",
+    "Bäche und Flüsse sind eine Barriere. Hinüber kommst du an flachen Furten, dort waten die Menschen langsam durch.",
+    "Führst du einen Weg über einen schmalen Bach, wird ein Steg aus Stämmen gelegt. Er kostet 2 Stämme.",
+    "Am Ufer wachsen Schilf und Gras, etwas weiter weg wird der Wald dichter."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "a6c88fff9df0d708a926d97e1cf5d12e4200eed6eccb528e0d90884066c9fe56",
-  "version": "0.35.0"
+  "sha256": "60883f41ea321353a31cf010f2962b47939fbbbd280be6d7d686466fb0d056b8",
+  "version": "0.36.0"
 }
