@@ -2,11 +2,11 @@
   "engine": "4.3",
   "notes": [
     "Probierversion.",
-    "Tag und Nacht: Ein Tag dauert 12 Minuten. Die Sonne geht links auf, steht mittags hinter der Insel und geht rechts unter. Morgens und abends ist das Licht rot-orange, die Schatten wandern mit.",
-    "Nachts scheint der Mond kühl und bläulich, und die Feuer leuchten heller. Noch ändert die Nacht nur das Bild, gearbeitet wird weiter.",
-    "Im Ring um die runde Karte kreisen Sonne und Mond. Was über dem Horizont steht, ist am Himmel. Fährst du mit der Maus darüber, steht dort die Tageszeit."
+    "Himmel: Kippst du die Kamera flach, siehst du über dem Land den Himmel mit ziehenden Wolken. Tags ist er bedeckt, morgens und abends rot-orange. Sonne und Mond stehen dort, woher ihr Licht kommt, nachts funkeln Sterne.",
+    "Das Kartenfenster zeigt nur das erkundete Land. Am Anfang ist es nah herangezoomt, wird mehr aufgedeckt, zoomt es langsam heraus.",
+    "Fahnenwarte laufen natürlicher: Nach einer Lieferung gehen sie direkt zur nächsten Ware, ohne Umweg über die Fahne, und sie springen nicht mehr an ihren Warteplatz."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "1dbb7dd4f5eb6b4b40304f4fbfcd05e2a947950f65d0d56eedcce4d1ca8c28a3",
-  "version": "0.38.0"
+  "sha256": "208d27c8bd4bc21832afa8c086ab7b4b117e76a59e3b4524adeea0a8f62460b3",
+  "version": "0.39.0"
 }
