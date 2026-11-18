@@ -2,13 +2,13 @@
   "engine": "4.3",
   "notes": [
     "Probierversion.",
-    "Wege, Grundflächen, Ablageplätze und Weiden sind jetzt auf den Boden gemalt. Sie liegen immer genau auf dem Gelände, auch an Hängen, und verschwinden unter Dickicht.",
-    "Wege haben sanft gerundete Knicke und unregelmäßige Ränder, in der Mitte sind sie ausgetretener. An einer Fahne laufen sie weich ineinander.",
-    "Grundflächen sind sandig und festgetreten. Solange der Boden noch geebnet wird, sind sie nur blass abgesteckt. Nach einem Abriss wächst die Fläche wieder zu.",
-    "Jeder Ablageplatz hat einen passenden Boden: dunkle Erde für Stämme, Kies für Steine, Stroh für Nahrung und Felle.",
-    "Das Spiel bleibt auf dem PC kostenlos. Neue Versionen kommen ab jetzt von einer eigenen Download-Seite. Diese Version muss einmal von Hand installiert werden."
+    "Neu: die Feuerstelle. Sie ist klein und billig und verbrennt langsam Stämme. Solange sie brennt, liegt ein großer Schutzkreis um sie.",
+    "Auch das Hauptgebäude hat ein Feuer. Es nimmt sich die Stämme aus dem eigenen Vorrat.",
+    "Außerhalb der Kreise ist es gefährlich: Wer lange draußen ist, wird manchmal von einem Wolf, einer Schlange oder einer Spinne angefallen.",
+    "Im Schutzkreis ist der Boden heller, das Land wird aufgedeckt, und die Menschen sind schneller unterwegs.",
+    "Geht einem Feuer das Holz aus, gibt es vorher eine Warnung. Ist es aus, verschwindet sein Kreis."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "e9314206d91af25d957ce9ca0a385b13b2dd7ac9d9362853350884cc62098771",
-  "version": "0.30.0"
+  "sha256": "f3cd9499ad312421948047ed8e668d9b6f38d6a4bfdd0b51ef1a45c02644ba61",
+  "version": "0.31.0"
 }
