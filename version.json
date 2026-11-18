@@ -2,11 +2,11 @@
   "engine": "4.3",
   "notes": [
     "Probierversion.",
-    "Wasserwege: Eine Fahne direkt am Ufer eines Sees oder breiten Flusses ist eine Anlegestelle. Dort gibt es „Wasserweg anlegen“. Tippe eine Stelle am anderen Ufer an, und es entsteht dort eine zweite Anlegestelle.",
-    "Die Fahnenwarte paddeln die Waren im Einbaum hinüber. Auch andere Bewohner setzen dort über. Der Einbaum kostet 2 Stämme.",
-    "Ein Wasserweg wächst nie zu. Auf Bächen und auf dem Meer gibt es keine Wasserwege."
+    "Tag und Nacht: Ein Tag dauert 12 Minuten. Die Sonne geht links auf, steht mittags hinter der Insel und geht rechts unter. Morgens und abends ist das Licht rot-orange, die Schatten wandern mit.",
+    "Nachts scheint der Mond kühl und bläulich, und die Feuer leuchten heller. Noch ändert die Nacht nur das Bild, gearbeitet wird weiter.",
+    "Im Ring um die runde Karte kreisen Sonne und Mond. Was über dem Horizont steht, ist am Himmel. Fährst du mit der Maus darüber, steht dort die Tageszeit."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "9069625ced13cfb3335ebb4196f1b5531d7e500df71e90afffe7c73f1a056410",
-  "version": "0.37.0"
+  "sha256": "1dbb7dd4f5eb6b4b40304f4fbfcd05e2a947950f65d0d56eedcce4d1ca8c28a3",
+  "version": "0.38.0"
 }
