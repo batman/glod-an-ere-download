@@ -2,12 +2,12 @@
   "engine": "4.3",
   "notes": [
     "Probierversion.",
-    "Neu: der Ruf des Dorfes. Das Feuer in der Leiste zeigt ihn: Berühmt, Gut, Schlecht oder Verrufen. Je besser der Ruf, desto schneller zieht jemand in ein freies Bett (halb so lang bis viermal so lang).",
-    "Sind alle satt, steigt der Ruf langsam. Hungern Bewohner, sinkt er. Verlässt jemand das Dorf, fällt er sofort stark.",
-    "Am Ritualplatz gibt es jetzt das Opfer für die Ahnen: 10 Nahrung und 2 Felle. Die Bauhelfer bringen sie, der Schamane verbrennt sie, und der Ruf steigt.",
-    "Am Hauptgebäude kannst du ein Festmahl geben: 1 Nahrung für jeden Bewohner. Alle sind sofort satt, und der Ruf steigt."
+    "Neu im Baumenü: drei Prestigebauten. Niemand arbeitet dort, und jeden gibt es nur einmal.",
+    "Totempfahl (klein): Der Ruf des Dorfes fällt nie unter 10 und steigt schneller.",
+    "Steinkreis (mittel): Der Ruf fällt nie unter 25 und steigt noch schneller.",
+    "Ahnenhügel (groß): Der Ruf fällt nie unter 40, das Dorf ist also nie „Schlecht“."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "7ee8dd83fd596f19e624de6ff2eef3035f29823228822c8b0413b4975b92f336",
-  "version": "0.34.0"
+  "sha256": "a6c88fff9df0d708a926d97e1cf5d12e4200eed6eccb528e0d90884066c9fe56",
+  "version": "0.35.0"
 }
