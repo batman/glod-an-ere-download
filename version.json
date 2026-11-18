@@ -1,0 +1,14 @@
+{
+  "engine": "4.3",
+  "notes": [
+    "Probierversion.",
+    "Wege, Grundflächen, Ablageplätze und Weiden sind jetzt auf den Boden gemalt. Sie liegen immer genau auf dem Gelände, auch an Hängen, und verschwinden unter Dickicht.",
+    "Wege haben sanft gerundete Knicke und unregelmäßige Ränder, in der Mitte sind sie ausgetretener. An einer Fahne laufen sie weich ineinander.",
+    "Grundflächen sind sandig und festgetreten. Solange der Boden noch geebnet wird, sind sie nur blass abgesteckt. Nach einem Abriss wächst die Fläche wieder zu.",
+    "Jeder Ablageplatz hat einen passenden Boden: dunkle Erde für Stämme, Kies für Steine, Stroh für Nahrung und Felle.",
+    "Das Spiel bleibt auf dem PC kostenlos. Neue Versionen kommen ab jetzt von einer eigenen Download-Seite. Diese Version muss einmal von Hand installiert werden."
+  ],
+  "pck": "GlodAnEre.pck",
+  "sha256": "57fe2fbad74494ddc0f42f6a30c52b35918491b798b8ccba894274ff02f508b4",
+  "version": "0.30.0"
+}
