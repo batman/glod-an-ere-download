@@ -2,13 +2,15 @@
   "engine": "4.3",
   "notes": [
     "Probierversion.",
-    "Neu: die Feuerstelle. Sie ist klein und billig und verbrennt langsam Stämme. Solange sie brennt, liegt ein großer Schutzkreis um sie.",
-    "Auch das Hauptgebäude hat ein Feuer. Es nimmt sich die Stämme aus dem eigenen Vorrat.",
-    "Außerhalb der Kreise ist es gefährlich: Wer lange draußen ist, wird manchmal von einem Wolf, einer Schlange oder einer Spinne angefallen.",
-    "Im Schutzkreis ist der Boden heller, das Land wird aufgedeckt, und die Menschen sind schneller unterwegs.",
-    "Geht einem Feuer das Holz aus, gibt es vorher eine Warnung. Ist es aus, verschwindet sein Kreis."
+    "Waren gehen nur noch über Wege. Eine Fahne ohne Weg zu einer anderen Fahne ist abgeschnitten, bis du sie mit einem Weg anschließt. Gebäude an derselben Fahne tauschen aber weiter untereinander.",
+    "Neue Bewohner ziehen auch ohne Essen ein. Bekommen sie keine Nahrung, werden sie hungrig und ziehen wieder aus.",
+    "Wer das Dorf verlässt, gehört nicht mehr dazu und deckt auf dem Weg hinaus kein Land mehr auf.",
+    "Eigene Symbole im Steinzeit-Stil und gemalte Warenbilder in der Leiste.",
+    "Ein Knopf für die Geschwindigkeit: Pause, x1, x2, x4, x8.",
+    "Schönere Ablageplätze: Nahrungskörbe auf Stufen, Speere an ihrem Ständer, Steine als Pyramide. Trampelpfade führen von jedem Platz zu seiner Fahne.",
+    "Roden und Einebnen gibt es nicht mehr als eigene Aufträge. Der Förster räumt totes Holz in seinem Gebiet weg."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "f3cd9499ad312421948047ed8e668d9b6f38d6a4bfdd0b51ef1a45c02644ba61",
-  "version": "0.31.0"
+  "sha256": "ec6091ce84b6d10fdd617d6bf13662cdc099fe2ec2c92fd675c6db87d7cd5198",
+  "version": "0.32.0"
 }
