@@ -2,12 +2,12 @@
   "engine": "4.3",
   "notes": [
     "Probierversion.",
-    "Im Reiter „Ausbau“ der Gebäudekarte stehen die Knöpfe jetzt untereinander, jeder mit seinem Text daneben. Auch warum Ausbauen gerade nicht geht, steht direkt dort.",
-    "Der Förster bekommt Kästchen zum Ankreuzen: Land freiräumen (immer), Bäume pflanzen, Beerensträucher pflanzen, Wild hegen. Wild geht nur mit Bäumen.",
-    "Nur Bäume ergibt dichten Wald, nur Sträucher viele Beeren. Unter vielen Bäumen tragen Sträucher langsamer nach.",
-    "Arbeitsgebiete haben jetzt eine feste Größe. Verschieben kannst du sie weiterhin."
+    "Neu: der Ruf des Dorfes. Das Feuer in der Leiste zeigt ihn: Berühmt, Gut, Schlecht oder Verrufen. Je besser der Ruf, desto schneller zieht jemand in ein freies Bett (halb so lang bis viermal so lang).",
+    "Sind alle satt, steigt der Ruf langsam. Hungern Bewohner, sinkt er. Verlässt jemand das Dorf, fällt er sofort stark.",
+    "Am Ritualplatz gibt es jetzt das Opfer für die Ahnen: 10 Nahrung und 2 Felle. Die Bauhelfer bringen sie, der Schamane verbrennt sie, und der Ruf steigt.",
+    "Am Hauptgebäude kannst du ein Festmahl geben: 1 Nahrung für jeden Bewohner. Alle sind sofort satt, und der Ruf steigt."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "195c73b4213987d578df6f1fc2033b24b449a4c95bf7235bfb9322bfc66cb4d3",
-  "version": "0.33.0"
+  "sha256": "7ee8dd83fd596f19e624de6ff2eef3035f29823228822c8b0413b4975b92f336",
+  "version": "0.34.0"
 }
