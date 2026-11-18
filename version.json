@@ -2,11 +2,12 @@
   "engine": "4.3",
   "notes": [
     "Probierversion.",
-    "Unerforschtes Land liegt jetzt unter einer Wolkendecke: am Tag dicht und grau-weiß, sie zieht langsam, morgens und abends ist sie leicht rötlich, nachts schwarz. Zum erkundeten Land hin franst sie weich aus.",
-    "Auch im Kartenfenster ist das Unbekannte am Tag grau und nachts schwarz.",
-    "Am Horizont geht der Himmel weich ins Dunkel über."
+    "Viehzucht mit Tor: Die Weide hat einen Torbogen mit Hörnern und Fell. Fleisch und Felle liegen gleich hinter dem Tor. Vor dem Tor bleibt Platz für eine Fahne, von dort gehen Wege in jede Richtung. Das Tor zeigt zur nächsten Fahne, sonst zur Vorderseite.",
+    "Die Weide ist schon ab der Baustelle reserviert. Sie schließt keine Fahne und keinen Weg mehr ein.",
+    "Ein kurzer Rechtsklick schließt jedes offene Fenster und Menü und bricht Bauen, Wegziehen oder Verbinden ab. Rechts ziehen dreht weiter die Ansicht.",
+    "Bei offenem Baumenü öffnet ein Klick auf eine Fahne oder ein Gebäude dessen Karte."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "40974c15ec9374f16abe6d9691b4f2f60b02aaea5701adf06af86acdf9c4f2e0",
-  "version": "0.40.0"
+  "sha256": "f4b8f83a2a02db29863dfc21feaa2d32efb4b3a8d5cc3e8e1a71657246432c29",
+  "version": "0.41.0"
 }
