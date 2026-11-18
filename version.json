@@ -2,12 +2,12 @@
   "engine": "4.3",
   "notes": [
     "Probierversion.",
-    "Viehzucht mit Tor: Die Weide hat einen Torbogen mit Hörnern und Fell. Fleisch und Felle liegen gleich hinter dem Tor. Vor dem Tor bleibt Platz für eine Fahne, von dort gehen Wege in jede Richtung. Das Tor zeigt zur nächsten Fahne, sonst zur Vorderseite.",
-    "Die Weide ist schon ab der Baustelle reserviert. Sie schließt keine Fahne und keinen Weg mehr ein.",
-    "Ein kurzer Rechtsklick schließt jedes offene Fenster und Menü und bricht Bauen, Wegziehen oder Verbinden ab. Rechts ziehen dreht weiter die Ansicht.",
-    "Bei offenem Baumenü öffnet ein Klick auf eine Fahne oder ein Gebäude dessen Karte."
+    "Nachtruhe: Wenn abends das Licht rot wird, legen alle die Arbeit hin und gehen heim, jeder in sein eigenes Gebäude. Wer etwas trägt, nimmt es mit. In der Nacht ist draußen niemand.",
+    "Nachts brennt vor jedem bewohnten Wohnhaus, dem Hauptgebäude und der Kaserne ein kleines Feuer.",
+    "In der Nacht ruhen Arbeit, Hunger, Ruf, neue Bewohner, Üben und die Gefahr durch Tiere. Feuer brennen weiter, das Land wächst weiter zu, die Wartezeit für Opfer und Festmahl läuft ab.",
+    "Aufträge kann man auch nachts geben, sie werden morgens erledigt. Bei Sonnenaufgang macht jeder genau dort weiter, wo er am Abend aufgehört hat."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "f4b8f83a2a02db29863dfc21feaa2d32efb4b3a8d5cc3e8e1a71657246432c29",
-  "version": "0.41.0"
+  "sha256": "0d9e95f663d7852613b23b737f329c177704539e8add3407212665bac662c8bb",
+  "version": "0.42.0"
 }
