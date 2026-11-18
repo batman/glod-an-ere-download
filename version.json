@@ -1,14 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Probierversion. Neue Inseln haben jetzt Wasser: Starte ein neues Spiel, um es zu sehen.",
-    "Seen liegen auf jeder Höhe und sind bis zum Rand gefüllt, mit sanftem Glitzern.",
-    "Quellen in den Hügeln speisen Bäche. Wo Bäche zusammenfließen oder ein See überläuft, wird ein Fluss daraus, der bis zum Meer fließt. Hier und da gibt es einen Wasserfall.",
-    "Bäche und Flüsse sind eine Barriere. Hinüber kommst du an flachen Furten, dort waten die Menschen langsam durch.",
-    "Führst du einen Weg über einen schmalen Bach, wird ein Steg aus Stämmen gelegt. Er kostet 2 Stämme.",
-    "Am Ufer wachsen Schilf und Gras, etwas weiter weg wird der Wald dichter."
+    "Probierversion.",
+    "Wasserwege: Eine Fahne direkt am Ufer eines Sees oder breiten Flusses ist eine Anlegestelle. Dort gibt es „Wasserweg anlegen“. Tippe eine Stelle am anderen Ufer an, und es entsteht dort eine zweite Anlegestelle.",
+    "Die Fahnenwarte paddeln die Waren im Einbaum hinüber. Auch andere Bewohner setzen dort über. Der Einbaum kostet 2 Stämme.",
+    "Ein Wasserweg wächst nie zu. Auf Bächen und auf dem Meer gibt es keine Wasserwege."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "60883f41ea321353a31cf010f2962b47939fbbbd280be6d7d686466fb0d056b8",
-  "version": "0.36.0"
+  "sha256": "9069625ced13cfb3335ebb4196f1b5531d7e500df71e90afffe7c73f1a056410",
+  "version": "0.37.0"
 }
