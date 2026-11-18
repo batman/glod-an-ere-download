@@ -2,15 +2,12 @@
   "engine": "4.3",
   "notes": [
     "Probierversion.",
-    "Waren gehen nur noch über Wege. Eine Fahne ohne Weg zu einer anderen Fahne ist abgeschnitten, bis du sie mit einem Weg anschließt. Gebäude an derselben Fahne tauschen aber weiter untereinander.",
-    "Neue Bewohner ziehen auch ohne Essen ein. Bekommen sie keine Nahrung, werden sie hungrig und ziehen wieder aus.",
-    "Wer das Dorf verlässt, gehört nicht mehr dazu und deckt auf dem Weg hinaus kein Land mehr auf.",
-    "Eigene Symbole im Steinzeit-Stil und gemalte Warenbilder in der Leiste.",
-    "Ein Knopf für die Geschwindigkeit: Pause, x1, x2, x4, x8.",
-    "Schönere Ablageplätze: Nahrungskörbe auf Stufen, Speere an ihrem Ständer, Steine als Pyramide. Trampelpfade führen von jedem Platz zu seiner Fahne.",
-    "Roden und Einebnen gibt es nicht mehr als eigene Aufträge. Der Förster räumt totes Holz in seinem Gebiet weg."
+    "Im Reiter „Ausbau“ der Gebäudekarte stehen die Knöpfe jetzt untereinander, jeder mit seinem Text daneben. Auch warum Ausbauen gerade nicht geht, steht direkt dort.",
+    "Der Förster bekommt Kästchen zum Ankreuzen: Land freiräumen (immer), Bäume pflanzen, Beerensträucher pflanzen, Wild hegen. Wild geht nur mit Bäumen.",
+    "Nur Bäume ergibt dichten Wald, nur Sträucher viele Beeren. Unter vielen Bäumen tragen Sträucher langsamer nach.",
+    "Arbeitsgebiete haben jetzt eine feste Größe. Verschieben kannst du sie weiterhin."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "ec6091ce84b6d10fdd617d6bf13662cdc099fe2ec2c92fd675c6db87d7cd5198",
-  "version": "0.32.0"
+  "sha256": "195c73b4213987d578df6f1fc2033b24b449a4c95bf7235bfb9322bfc66cb4d3",
+  "version": "0.33.0"
 }
