@@ -2,13 +2,13 @@
   "engine": "4.3",
   "notes": [
     "Probierversion.",
-    "Der Anführer hat zwei Leibwachen mit Bärenkopf und Speer. Sie wohnen im Hauptgebäude und gehen überall schräg hinter ihm her.",
-    "Neben dem Hauptgebäude steht sein Thron aus Stein mit Stoßzähnen und Bärenfell. Ab und zu sitzt er dort, die Wachen stehen links und rechts daneben.",
-    "Wo der Anführer mit seinen Wachen ist, arbeiten alle schneller, und kein wildes Tier greift an.",
-    "Gegessen wird zu Hause: abends am Feuer vor dem Haus, morgens ein kleines Frühstück. Den Rest stecken sie für unterwegs in ihre neue Umhängetasche.",
-    "Die Feuerstelle vor dem Haus bleibt immer stehen. Morgens brennt sie noch etwas, glimmt dann aus und qualmt noch eine Weile."
+    "Neue Gebäude, Teil 2: Die Kaserne ist ein raues Langhaus aus Rutengeflecht mit Auerochsenschädel. Rundherum liegen Übungspfähle, Strohfigur, Pflöcke, Wurfsteine und Speere.",
+    "Die Viehzucht ist ein kleiner Hof: Sodenhütte mit Schaffelldach, Unterstand mit Heu, Hühner, zwei Hunde am Pflock und Schweine in der Suhle. Auf der Weide grasen Schafe und Kühe am gemeinsamen Trog.",
+    "Der Ritualplatz hat Feuergrube, Opferstein, einen Kreis flacher Sitzsteine mit Stümpfen, einen Altartisch, Schädelpfähle und die Fellhütte des Schamanen mit Stoßzahnbogen und Trommel.",
+    "Das Hauptgebäude ist ein großes Fellzelt mit mehreren Spitzen auf einer Stammwand, mit geschnitztem Vorbau, Speerpyramiden und aufgespannten Fellen. Nach dem Ausbau kommt eine Spitze dazu.",
+    "Der Thron steht jetzt neben der großen Feuerstelle vor dem Hauptgebäude."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "985d3d7985493edfb516acddce57c56eba397a9503d014ccb0d8c5c775e7a40a",
-  "version": "0.57.0"
+  "sha256": "56f95974ebd2868836ed12b413503b441ebb49a8a7812e1a20c15f9057430be8",
+  "version": "0.58.0"
 }
