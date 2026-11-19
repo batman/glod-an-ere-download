@@ -1,13 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Neues Aussehen, Schritt 1 von 5: Schiefer und Kreide.",
-    "Alle Schrift im Spiel ist jetzt eine raue Kreideschrift, wie mit Kreide auf Fels geschrieben, auch die Zahlen. Nur Hilfetexte und Neuigkeiten stehen in einer schlichten Schrift.",
-    "Fenster sind Schiefertafeln. Knöpfe sind keine erhabenen Steine mehr: Sie liegen flach auf dem Schiefer, unter der Maus erscheint Kreidegekritzel.",
-    "Das Hauptmenü zeigt wieder Worte neben den Bildern: Weiterspielen, Neues Spiel, Einstellungen …",
-    "Die Wahl zwischen Schiefer und Sandstein gibt es nicht mehr."
+    "Neues Aussehen, Schritt 2 von 5: die Leiste unten.",
+    "Waren, Bewohner und Ruf liegen nicht mehr in Kästen, sondern auf Feldern aus Kreidegekritzel. Die vier Knöpfe rechts liegen flach auf dem Schiefer.",
+    "Die Schieferplatte der Leiste reicht über den Rand des Fensters hinaus, wie ein Ausschnitt aus einem großen Stein.",
+    "Sonne und Mond am Kartenring sind viel größer und ragen über Stein und Karte."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "efef818e108cf30c688dea17a4fe52a3032922024274e9a9c0611a22a4d09c0c",
-  "version": "0.61.0"
+  "sha256": "ca5fb5ceaa803aa39e4cab23ec83a1f6afdbff6fa0d61e1d2302b51b6fe7b6d8",
+  "version": "0.62.0"
 }
