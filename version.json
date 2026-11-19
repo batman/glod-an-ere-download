@@ -1,10 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Kleine Reparatur.",
-    "Über dem Hauptgebäude stieg statt feinem Rauch eine riesige Kugel auf (nachts sah sie blau aus wie ein Mond). Jetzt sind es wieder kleine Rauchwölkchen."
+    "Neues Aussehen, Schritt 1 von 5: Schiefer und Kreide.",
+    "Alle Schrift im Spiel ist jetzt eine raue Kreideschrift, wie mit Kreide auf Fels geschrieben, auch die Zahlen. Nur Hilfetexte und Neuigkeiten stehen in einer schlichten Schrift.",
+    "Fenster sind Schiefertafeln. Knöpfe sind keine erhabenen Steine mehr: Sie liegen flach auf dem Schiefer, unter der Maus erscheint Kreidegekritzel.",
+    "Das Hauptmenü zeigt wieder Worte neben den Bildern: Weiterspielen, Neues Spiel, Einstellungen …",
+    "Die Wahl zwischen Schiefer und Sandstein gibt es nicht mehr."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "74845e7151c143ac0f99db9e83bbac1b2edd58635fe65bf6d2bad1762f29fbaf",
-  "version": "0.60.1"
+  "sha256": "efef818e108cf30c688dea17a4fe52a3032922024274e9a9c0611a22a4d09c0c",
+  "version": "0.61.0"
 }
