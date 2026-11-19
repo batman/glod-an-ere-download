@@ -2,12 +2,13 @@
   "engine": "4.3",
   "notes": [
     "Probierversion.",
-    "Neues Hauptmenü: links ein Steinzeitmann mit Fackel. Ihr Schein flackert über sein Gesicht und fällt warm auf die Knöpfe.",
-    "Die Rinne um die runde Karte ist mit Kreide ausgemalt: weiß für den Tag, schwarz für die Nacht. Sonne und Mond sind größer.",
-    "Der Mond hat Phasen: In acht Tagen wird er vom Vollmond zum Neumond und wieder voll. Bei Neumond ist die Nacht fast schwarz, dann leuchten nur noch die Feuer.",
-    "Ein freies Bett zeigt sich als Bett mit Kerbbalken statt als Sonne."
+    "Der Anführer hat zwei Leibwachen mit Bärenkopf und Speer. Sie wohnen im Hauptgebäude und gehen überall schräg hinter ihm her.",
+    "Neben dem Hauptgebäude steht sein Thron aus Stein mit Stoßzähnen und Bärenfell. Ab und zu sitzt er dort, die Wachen stehen links und rechts daneben.",
+    "Wo der Anführer mit seinen Wachen ist, arbeiten alle schneller, und kein wildes Tier greift an.",
+    "Gegessen wird zu Hause: abends am Feuer vor dem Haus, morgens ein kleines Frühstück. Den Rest stecken sie für unterwegs in ihre neue Umhängetasche.",
+    "Die Feuerstelle vor dem Haus bleibt immer stehen. Morgens brennt sie noch etwas, glimmt dann aus und qualmt noch eine Weile."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "e3b65293cf7f3eae1a6475f85558f77ee43c997c2c8c2b749c24a5ea44c28ff6",
-  "version": "0.56.0"
+  "sha256": "985d3d7985493edfb516acddce57c56eba397a9503d014ccb0d8c5c775e7a40a",
+  "version": "0.57.0"
 }
