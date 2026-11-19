@@ -2,12 +2,12 @@
   "engine": "4.3",
   "notes": [
     "Probierversion.",
-    "Bäume wachsen: Aus einem Setzling wird ein junger Baum, der in etwa fünf Minuten sichtbar höher und dunkler wird. Junge Bäume locken schon Wild an, gefällt werden nur große. So bleibt immer Wald für die Rehe stehen.",
-    "Der Förster setzt zwei Setzlinge auf einmal. Ist kein Land mehr frei, pflegt er die abgeernteten Beerensträucher, die dann früher wieder tragen.",
-    "Der Jäger pirscht sich geduckt etwa eine halbe Minute an ein Reh heran, das dabei ruhig weiterfrisst.",
-    "Mit Bäumen und Sträuchern angekreuzt arbeiten Förster, Holzfäller, Jäger und Sammler fast immer."
+    "Neues Hauptmenü: links ein Steinzeitmann mit Fackel. Ihr Schein flackert über sein Gesicht und fällt warm auf die Knöpfe.",
+    "Die Rinne um die runde Karte ist mit Kreide ausgemalt: weiß für den Tag, schwarz für die Nacht. Sonne und Mond sind größer.",
+    "Der Mond hat Phasen: In acht Tagen wird er vom Vollmond zum Neumond und wieder voll. Bei Neumond ist die Nacht fast schwarz, dann leuchten nur noch die Feuer.",
+    "Ein freies Bett zeigt sich als Bett mit Kerbbalken statt als Sonne."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "5c5bfbb0fc1f7b09c1293333dfb958c24f8b84ecea87102d43972285cc7b3c98",
-  "version": "0.55.0"
+  "sha256": "e3b65293cf7f3eae1a6475f85558f77ee43c997c2c8c2b749c24a5ea44c28ff6",
+  "version": "0.56.0"
 }
