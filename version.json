@@ -1,17 +1,11 @@
 {
   "engine": "4.3",
   "notes": [
-    "Probierversion. Alte Spielstände können Fehler zeigen: am besten ein neues Spiel beginnen.",
-    "Neue Baukosten: Gebäude mit Dach brauchen viele Felle (ein kleines einfaches Gebäude 5 Stämme, 2 Steinblöcke, 10 Felle). Die Feuerstelle ist nur aus Stein, das Lager kostet 10 Steinblöcke.",
-    "Jeder Ablageplatz hat jetzt seine eigene Größe, je nach Gebäude und Ware. Am Hauptgebäude: 50 Stämme, 50 Steinblöcke, 20 Nahrung, 20 Felle, 10 Speere; nach dem Ausbau anderthalbmal so viel.",
-    "Den Speermacher gibt es nur noch klein, die Kaserne und das Lager nur noch mittel.",
-    "Zu Beginn liegen 20 Felle am Hauptgebäude, genug für ein Wohnhaus und ein Forstgebäude.",
-    "Bauhelfer, Jäger und Speerträger holen ihre Waren direkt vom passenden Ablageplatz, nie aus einem Gebäude.",
-    "Einen Menschen wählt man mit einem Klick genau auf Körper oder Kopf, auch auf Gebäuden und Wegen. Ein Klick daneben trifft, was darunter liegt.",
-    "Im Kartenfenster bleibt der gelbe Kreis immer im runden Fenster, auch wenn man weit hinauszieht.",
-    "Die Uhr für freie Betten läuft nachts weiter; wer dran ist, zieht am Morgen ein."
+    "Probierversion.",
+    "Neue Steinoptik: Fenster, Leisten und Knöpfe sind jetzt aus Stein statt Holz – jede Platte mit abgeschlagenen Ecken, sichtbarer Dicke und eingemeißelter Schrift.",
+    "In den Einstellungen wählst du den Stein: Schiefer (dunkel) oder Sandstein (warm)."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "2dab8dd8a45d71fa5528f3e01367c90fc106669ee79a296081347f9f9b666a5c",
-  "version": "0.44.0"
+  "sha256": "7d975bd48c8c48a1c2e257fabcaf548b882bfe3d186390549909efeaa71bf713",
+  "version": "0.45.0"
 }
