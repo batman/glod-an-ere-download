@@ -2,12 +2,12 @@
   "engine": "4.3",
   "notes": [
     "Probierversion.",
-    "Neue Gebäude, erster Teil: Keine Zelte mehr. Das Wohnhaus ist ein großer Haufen Felle mit Fellvorhang (nachts zu) und Baumstümpfen zum Sitzen. Der Steinklopfer ist eine Hütte aus grob gestapelten Steinen mit Stämmedach. Das Forstgebäude ist ein grünes, bemoostes Dach mit Geweih, einem hängenden Reh und Körben. Die Fischer wohnen in zwei Kegeln aus Fischhaut mit Netz, Reusen und trocknenden Fischen. Der Speermacher arbeitet unter einem offenen Stämmedach mit Fellen, Speerständer und Strohfigur.",
-    "Die Bauhelfer roden Stück für Stück: Jeder geht zu seiner eigenen zugewachsenen Stelle, dort sackt das Dickicht zusammen.",
-    "Wer in ein Gebäude geht, wird auf der Grundfläche langsam durchsichtig; wer herauskommt, taucht dort langsam auf.",
-    "Um Ablageplätze laufen die Leute herum. Zum Holen und Ablegen bleiben sie am Rand stehen, drehen sich zum Platz und bücken sich."
+    "Bäume wachsen: Aus einem Setzling wird ein junger Baum, der in etwa fünf Minuten sichtbar höher und dunkler wird. Junge Bäume locken schon Wild an, gefällt werden nur große. So bleibt immer Wald für die Rehe stehen.",
+    "Der Förster setzt zwei Setzlinge auf einmal. Ist kein Land mehr frei, pflegt er die abgeernteten Beerensträucher, die dann früher wieder tragen.",
+    "Der Jäger pirscht sich geduckt etwa eine halbe Minute an ein Reh heran, das dabei ruhig weiterfrisst.",
+    "Mit Bäumen und Sträuchern angekreuzt arbeiten Förster, Holzfäller, Jäger und Sammler fast immer."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "62153b5837cb9d9060c228d19a53b4f5769e76e94d38823056114ff699cefcfa",
-  "version": "0.54.0"
+  "sha256": "5c5bfbb0fc1f7b09c1293333dfb958c24f8b84ecea87102d43972285cc7b3c98",
+  "version": "0.55.0"
 }
