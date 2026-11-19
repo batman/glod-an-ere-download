@@ -2,10 +2,11 @@
   "engine": "4.3",
   "notes": [
     "Probierversion.",
-    "Neue Steinoptik: Fenster, Leisten und Knöpfe sind jetzt aus Stein statt Holz – jede Platte mit abgeschlagenen Ecken, sichtbarer Dicke und eingemeißelter Schrift.",
-    "In den Einstellungen wählst du den Stein: Schiefer (dunkel) oder Sandstein (warm)."
+    "Die Menschen sind jetzt richtige Steinzeitmenschen: lange, verfilzte Haare bis zum Rücken, die Männer mit langem Vollbart, buschige Brauen, große Nase, behaarte und schmutzige Haut, ein Fellumhang bis zu den Knien und Fellstiefel.",
+    "Die Farbe des Umhangs zeigt den Beruf: zum Beispiel Förster grün, Träger grau, Jäger braun, Krieger rot, Fischer blaugrau. Die Haarfarbe ist bei jedem anders.",
+    "Sie gehen mit schwingenden Armen, tragen Waren vor der Brust, schwingen bei der Arbeit die Steinaxt, bücken sich zum Sammeln, hocken beim Fischen und sitzen im Einbaum."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "7d975bd48c8c48a1c2e257fabcaf548b882bfe3d186390549909efeaa71bf713",
-  "version": "0.45.0"
+  "sha256": "001883183527e1df1b582757be5c12ef8c5c572deeb145b5fe7b4e94c5f42dbd",
+  "version": "0.46.0"
 }
