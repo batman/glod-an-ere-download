@@ -2,14 +2,14 @@
   "engine": "4.3",
   "notes": [
     "Probierversion.",
-    "Du kannst etwa doppelt so nah heranzoomen und siehst die Leute dann groß, und ein Stück weiter hinaus. Neigen geht jetzt bei jeder Zoomstufe, auch ganz weit draußen, und die Neigung bleibt beim Zoomen erhalten.",
-    "Die kleinen Feuer vor den Häusern brennen erst, wenn dort jemand schläft. Wer abends schon daheim ist, legt sich nach einer eigenen kurzen Weile hin, so gehen die Feuer nach und nach an.",
-    "Neue Bilder: Die Waren sind naturnäher gemalt, und jedes Gebäude hat ein eigenes gemaltes Bild. Haken, X, Plus, Minus, Pfeile und Kästchen sind grob in den Stein geritzt.",
-    "Das Warnzeichen über Gebäuden und Plätzen ist jetzt ein kleines Dreieck aus behauenem Stein mit eingeritztem Ausrufezeichen in Ocker, das sich langsam dreht.",
-    "Die kleine Karte liegt in einer runden Ausbuchtung der Steinleiste. Sonne und Mond laufen in einer gemeißelten Rinne mit aufgemaltem Himmel.",
-    "Tippst du einen Ablageplatz an, liegt der Auswahlkreis auf dem Platz, nicht mehr auf dem Gebäude."
+    "Bäume, Sträucher und Totholz versperren keinen Bauplatz mehr: Die Bauhelfer räumen alles weg, was auf der Grundfläche wächst. Ein gefällter Baum zählt als Stamm für die Baustelle. Nur Felsen und Wasser bleiben im Weg.",
+    "In der Weide der Viehzucht bleiben Bäume und Sträucher stehen, das Vieh grast auch dazwischen.",
+    "Der Wald ist dichter: Tief drinnen stehen die Tannen zu zweit oder zu dritt, dazwischen ragen Riesentannen auf. Die meisten Tannen sind jetzt dunkler, harziger und düsterer.",
+    "Der erste Platz jedes Arbeitsgebäudes besetzt sich von selbst, etwa der Förster im Forstgebäude oder der Steinklopfer. Man muss ihn nicht rufen und kann ihn nicht abziehen.",
+    "Der letzte Reiter der Gebäudekarte heißt jetzt Aktionen. Im Forstgebäude stehen „Bäume pflanzen“ und „Beerensträucher pflanzen“ oben über den Reitern.",
+    "Wild kommt von selbst mit den Bäumen: Je mehr Bäume, desto mehr Wild. Werden sie gefällt, zieht das Wild fort."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "84d47cd122334d8f70a982cbc9aefa5524431e6b36dab2fb6f70b041837b3b3d",
-  "version": "0.50.0"
+  "sha256": "8707893e8fd3951cc43106c198d81a6dc20e3cb56449380d5227920feb6cff7a",
+  "version": "0.51.0"
 }
