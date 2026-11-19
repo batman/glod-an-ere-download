@@ -2,13 +2,14 @@
   "engine": "4.3",
   "notes": [
     "Probierversion.",
-    "Neu: der Läufer. Jeder Weg hat seinen eigenen Läufer, der nur von Fahne zu Fahne trägt und auf dem Rückweg gleich etwas mitnimmt. Er ist schneller als alle anderen und trägt einen kurzen grauen Umhang. In der Karte des Weges kannst du einen zweiten Läufer ankreuzen, dann wartet je einer an jeder Fahne.",
-    "Ohne Läufer trägt auf einem Weg niemand, und der Weg wächst langsam zu. Der Läufer schlägt neue Wege frei und pflegt die Lichtung daneben.",
-    "Der Fahnenwart trägt nur noch zwischen seiner Fahne und ihren Ablageplätzen. Hängen zwei Plätze an derselben Fahne, bringt er die Ware direkt hinüber, ohne sie erst in der Fahne abzulegen.",
-    "Die Leute werden weich schneller und langsamer, statt die Geschwindigkeit auf einen Schlag zu wechseln, laufen an Knicken einen kleinen Bogen, und ihre Schritte passen zum Tempo.",
-    "Das Forstgebäude gibt es nur noch in mittlerer Größe. Kleine und große, die schon stehen, bleiben. Damit es für das erste Wohnhaus und ein Forstgebäude reicht, liegen am Start 25 Felle bereit (der Fellplatz am Hauptgebäude fasst 25)."
+    "Du kannst etwa doppelt so nah heranzoomen und siehst die Leute dann groß, und ein Stück weiter hinaus. Neigen geht jetzt bei jeder Zoomstufe, auch ganz weit draußen, und die Neigung bleibt beim Zoomen erhalten.",
+    "Die kleinen Feuer vor den Häusern brennen erst, wenn dort jemand schläft. Wer abends schon daheim ist, legt sich nach einer eigenen kurzen Weile hin, so gehen die Feuer nach und nach an.",
+    "Neue Bilder: Die Waren sind naturnäher gemalt, und jedes Gebäude hat ein eigenes gemaltes Bild. Haken, X, Plus, Minus, Pfeile und Kästchen sind grob in den Stein geritzt.",
+    "Das Warnzeichen über Gebäuden und Plätzen ist jetzt ein kleines Dreieck aus behauenem Stein mit eingeritztem Ausrufezeichen in Ocker, das sich langsam dreht.",
+    "Die kleine Karte liegt in einer runden Ausbuchtung der Steinleiste. Sonne und Mond laufen in einer gemeißelten Rinne mit aufgemaltem Himmel.",
+    "Tippst du einen Ablageplatz an, liegt der Auswahlkreis auf dem Platz, nicht mehr auf dem Gebäude."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "2197aa8c7040d9adc731cf45bb9f1e42dd9538fec922cbf21817395bf36b1e02",
-  "version": "0.49.0"
+  "sha256": "84d47cd122334d8f70a982cbc9aefa5524431e6b36dab2fb6f70b041837b3b3d",
+  "version": "0.50.0"
 }
