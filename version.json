@@ -2,13 +2,13 @@
   "engine": "4.3",
   "notes": [
     "Probierversion.",
-    "Fast ohne Schrift, erster Teil: Damals gab es keine Schrift – also erzählen jetzt Bilder, eingeritzte Kerben, Ockerstriche und Balken, was los ist. Hält man die Maus auf ein Bild, steht ein kurzes Wort dabei.",
-    "Gebäudekarten zeigen oben das Bild des Gebäudes, die Reiter sind Bilder. Vorräte und Fortschritt sind ockergefüllte Kerbbalken, Größen und Ränge Kerben, Zeit eine Sonnenscheibe, Hunger eine leere oder zerbrochene Schale. Was fehlt oder im Weg ist, trägt ein rotes X.",
-    "Baumenü: nur Bilder, darunter Größe als Kerben und Kosten als Warenbilder mit Zahl. Die Reiter Klein, Mittel, Groß sind eine, zwei, drei Kerben.",
-    "Die Übersicht zeigt Gebäude, Waren und Bewohner als Bilder mit Zahlen.",
-    "In der Leiste ist der Ruf nur noch die Flamme, die freien Betten ein Bett mit Zahl."
+    "Fast ohne Schrift, zweiter Teil: Es gibt keine Meldungen mehr – das Dorf zeigt selbst, was nicht stimmt. Der schwebende Stein über einem Gebäude trägt das Problem als rotes Bild: Nahrung bei Hunger, die fehlende Ware mit X, eine leere Figur, wenn niemand da ist. Hunger und ein erloschenes Feuer glühen und pulsieren, mehrere Probleme wechseln sich ab.",
+    "Jeder Ort mit einem Problem blinkt als roter Punkt auf der kleinen Karte. Wo jemand getötet wurde, liegen eine Weile Knochen. Ein gelangweilter Arbeiter setzt sich vor sein Gebäude. Ändert sich der Ruf, lodert die Flamme in der Leiste auf oder sinkt zusammen.",
+    "Was jemand gerade tut, zeigt ein kleines Bild: Mond, getragene Ware, Hammer, Axt, Fahne …",
+    "Fahne, Pfad, Wasserweg, Ablageplatz, Person, freie Betten und Ruf zeigen Bilder statt Sätze. Beim Pfadlegen zeigt eine ockerrote Hand, wohin man tippt; geht etwas nicht, erscheint dort kurz ein rotes X.",
+    "Das Hauptmenü hat nur noch Bildknöpfe, die Inselgröße zeigt Kerben."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "dc90a1a5146cb711f906fe6019898f299a9b87c94db9a30da951cf63b4444975",
-  "version": "0.52.0"
+  "sha256": "4ea20fdd2d4d5b949e46f71d4e6a1e20dfc420b6dc086d69d745e837e6ef7998",
+  "version": "0.53.0"
 }
