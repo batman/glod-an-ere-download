@@ -1,11 +1,10 @@
 {
   "engine": "4.3",
   "notes": [
-    "Neues Aussehen, Schritt 3 von 5: Fenster und Baumenü.",
-    "Im Baumenü sind die Gebäude groß, zwei nebeneinander, ohne Sandhintergrund auf Kreidegekritzel, mit ihrem Namen darunter. Die Fahne steht oben über den Reitern.",
-    "Die Bewohner in den Gebäudefenstern liegen auf Feldern aus Kreidegekritzel statt in Kästen."
+    "Neues Aussehen, Schritt 4 von 5: das Wohnhaus.",
+    "Das Wohnhaus ist jetzt eine runde Kuppel, ganz belegt mit einzelnen Fellen in vielen Farben, die sich wie Schindeln überlappen. Das Bild des Wohnhauses in Leiste und Fenstern zeigt dieselbe Kuppel."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "09be44d8d62d3d7dd3887cba79632875df6ccd752c73c4a26d12da57809f0036",
-  "version": "0.63.0"
+  "sha256": "4fa328acecdf188478bb5e41934502b654e82d73e51997e3ed9942d0bd1eaaf8",
+  "version": "0.64.0"
 }
