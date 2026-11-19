@@ -2,15 +2,13 @@
   "engine": "4.3",
   "notes": [
     "Probierversion.",
-    "Neu in der Leiste: die Übersicht (Kerbholz). Sie zeigt alle Gebäudearten mit Kosten und wie viele du hast, wo deine Waren liegen und wie viel Platz frei ist, und wie es den Bewohnern geht – auch wie lange die Nahrung reicht.",
-    "Das Feld „Waren / Platz in allen Lagern“ ist weg. Ist für eine Ware jeder Platz voll, wird ihre Zahl rot. Ein Tipp auf eine Ware öffnet die Übersicht.",
-    "Jedes freie Bett hat seine eigene Uhr, die Leute ziehen verteilt ein. Handabdrücke am Haus zeigen: rot = Bett besetzt, heller Umriss = frei.",
-    "Feierabend erst bei Nacht: Durch das rote Abendlicht wird weitergearbeitet. Das Feuer vor dem Haus brennt, wenn jemand heimgekommen ist.",
-    "Auf Grundflächen läuft man nicht mehr so schnell wie auf einer Straße.",
-    "Beim Setzen einer Fahne siehst du sie blass mit ihrem Kreis, bis du bestätigst. Fahnenplätze stehen auf einer runden Sandfläche.",
-    "Größere Bilder im Baumenü. Die Schrift im Reiter Ausbau ist wieder gut lesbar."
+    "Neu: der Läufer. Jeder Weg hat seinen eigenen Läufer, der nur von Fahne zu Fahne trägt und auf dem Rückweg gleich etwas mitnimmt. Er ist schneller als alle anderen und trägt einen kurzen grauen Umhang. In der Karte des Weges kannst du einen zweiten Läufer ankreuzen, dann wartet je einer an jeder Fahne.",
+    "Ohne Läufer trägt auf einem Weg niemand, und der Weg wächst langsam zu. Der Läufer schlägt neue Wege frei und pflegt die Lichtung daneben.",
+    "Der Fahnenwart trägt nur noch zwischen seiner Fahne und ihren Ablageplätzen. Hängen zwei Plätze an derselben Fahne, bringt er die Ware direkt hinüber, ohne sie erst in der Fahne abzulegen.",
+    "Die Leute werden weich schneller und langsamer, statt die Geschwindigkeit auf einen Schlag zu wechseln, laufen an Knicken einen kleinen Bogen, und ihre Schritte passen zum Tempo.",
+    "Das Forstgebäude gibt es nur noch in mittlerer Größe. Kleine und große, die schon stehen, bleiben. Damit es für das erste Wohnhaus und ein Forstgebäude reicht, liegen am Start 25 Felle bereit (der Fellplatz am Hauptgebäude fasst 25)."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "57e268eb9988e008c6a5a2b0c3262cfacd94f3d3934b1190a273043b257cb0b1",
-  "version": "0.48.0"
+  "sha256": "2197aa8c7040d9adc731cf45bb9f1e42dd9538fec922cbf21817395bf36b1e02",
+  "version": "0.49.0"
 }
