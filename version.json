@@ -2,13 +2,13 @@
   "engine": "4.3",
   "notes": [
     "Probierversion.",
-    "Neue Gebäude, Teil 2: Die Kaserne ist ein raues Langhaus aus Rutengeflecht mit Auerochsenschädel. Rundherum liegen Übungspfähle, Strohfigur, Pflöcke, Wurfsteine und Speere.",
-    "Die Viehzucht ist ein kleiner Hof: Sodenhütte mit Schaffelldach, Unterstand mit Heu, Hühner, zwei Hunde am Pflock und Schweine in der Suhle. Auf der Weide grasen Schafe und Kühe am gemeinsamen Trog.",
-    "Der Ritualplatz hat Feuergrube, Opferstein, einen Kreis flacher Sitzsteine mit Stümpfen, einen Altartisch, Schädelpfähle und die Fellhütte des Schamanen mit Stoßzahnbogen und Trommel.",
-    "Das Hauptgebäude ist ein großes Fellzelt mit mehreren Spitzen auf einer Stammwand, mit geschnitztem Vorbau, Speerpyramiden und aufgespannten Fellen. Nach dem Ausbau kommt eine Spitze dazu.",
-    "Der Thron steht jetzt neben der großen Feuerstelle vor dem Hauptgebäude."
+    "Fahnen dürfen jetzt auch auf Bäumen, Sträuchern und Totholz stehen. Bis ein Bauhelfer kommt und fällt, was dort steht, ist die Fahne nur blass zu sehen.",
+    "Wege führen auch durch den Wald, wenn es sonst keinen oder nur einen großen Umweg gibt. Die Bauhelfer fällen die Bäume darauf, jeder gibt einen Stamm.",
+    "Wege dürfen über den äußeren Rand der Sandfläche eines Gebäudes führen, an Seiten und Rückseite, nie über das Gebäude oder seine Ablageplätze. So kommt man auch zwischen dicht stehenden Gebäuden durch.",
+    "Die ganze Sandfläche eines Gebäudes ist jetzt eben bis zum Rand, auch unter den Ablageplätzen. Felsen, Bäume und Sträucher daneben ragen nicht mehr auf den Sand.",
+    "Neue Einstellung „Felder zeigen“: Sechsecke um jedes Gebäude zeigen Gebäude, Grundfläche, die mit geebneten Felder rundherum und die Ablageplätze."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "56f95974ebd2868836ed12b413503b441ebb49a8a7812e1a20c15f9057430be8",
-  "version": "0.58.0"
+  "sha256": "113eafe6b67a21a65ee30df9c041ca8a60a0739017f8b5caf1c560bc0f86471c",
+  "version": "0.59.0"
 }
