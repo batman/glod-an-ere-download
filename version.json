@@ -2,12 +2,14 @@
   "engine": "4.3",
   "notes": [
     "Probierversion.",
-    "Nachtruhe: Wenn abends das Licht rot wird, legen alle die Arbeit hin und gehen heim, jeder in sein eigenes Gebäude. Wer etwas trägt, nimmt es mit. In der Nacht ist draußen niemand.",
-    "Nachts brennt vor jedem bewohnten Wohnhaus, dem Hauptgebäude und der Kaserne ein kleines Feuer.",
-    "In der Nacht ruhen Arbeit, Hunger, Ruf, neue Bewohner, Üben und die Gefahr durch Tiere. Feuer brennen weiter, das Land wächst weiter zu, die Wartezeit für Opfer und Festmahl läuft ab.",
-    "Aufträge kann man auch nachts geben, sie werden morgens erledigt. Bei Sonnenaufgang macht jeder genau dort weiter, wo er am Abend aufgehört hat."
+    "Eine Fahne verbindet sich nur noch mit Ablageplätzen, die wirklich in ihrem Kreis liegen. Falsche alte Verbindungen fallen beim Laden weg.",
+    "Niemand läuft mehr durch Gebäude, alle gehen außen herum.",
+    "Auf die Grundfläche eines Gebäudes kommen keine Wege, Fahnen, Felsen oder Wasser mehr, auch nicht beim Ausbau. Alte Wege über eine Grundfläche werden beim Laden außen herumgelegt.",
+    "Trampelpfade beginnen am Rand der Grundfläche, auf dem Sand gibt es keine. Wird ein Platz gelöst, wächst sein Pfad langsam zu.",
+    "Leute, die zusammen losgehen, laufen nicht mehr genau aufeinander, sondern weichen sich ein Stück aus.",
+    "Neues Spiel: Die Inselgrößen passen wieder auf den Bildschirm."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "0d9e95f663d7852613b23b737f329c177704539e8add3407212665bac662c8bb",
-  "version": "0.42.0"
+  "sha256": "64eac57a8792828faae565a832994cf1ce5fcb19c3a482d0431b93a499a7d3b7",
+  "version": "0.43.0"
 }
