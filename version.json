@@ -2,11 +2,11 @@
   "engine": "4.3",
   "notes": [
     "Probierversion.",
-    "Die Menschen sind jetzt richtige Steinzeitmenschen: lange, verfilzte Haare bis zum Rücken, die Männer mit langem Vollbart, buschige Brauen, große Nase, behaarte und schmutzige Haut, ein Fellumhang bis zu den Knien und Fellstiefel.",
-    "Die Farbe des Umhangs zeigt den Beruf: zum Beispiel Förster grün, Träger grau, Jäger braun, Krieger rot, Fischer blaugrau. Die Haarfarbe ist bei jedem anders.",
-    "Sie gehen mit schwingenden Armen, tragen Waren vor der Brust, schwingen bei der Arbeit die Steinaxt, bücken sich zum Sammeln, hocken beim Fischen und sitzen im Einbaum."
+    "Die Tannen sind lebendiger: gestufte, hängende Äste mit Nadeln, Stämme mit Rinde, schlanke, breite alte, junge und windschiefe Bäume, verschieden groß – mitten im Wald die großen, am Rand die jungen.",
+    "Etwa jede zehnte Tanne ist kränklich: gelblich, rostbraun oder graugrün, mit lichter Krone und kahlen Ästen.",
+    "Beerensträucher wachsen locker aus holzigen Trieben, mit Blattbüscheln und dunkelroten Beerentrauben."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "001883183527e1df1b582757be5c12ef8c5c572deeb145b5fe7b4e94c5f42dbd",
-  "version": "0.46.0"
+  "sha256": "63c9338f2d274eb3999ae957dac92a06d50b257ea58bb46c2ff065ea101f9684",
+  "version": "0.47.0"
 }
