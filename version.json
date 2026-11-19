@@ -1,12 +1,11 @@
 {
   "engine": "4.3",
   "notes": [
-    "Neues Aussehen, Schritt 2 von 5: die Leiste unten.",
-    "Waren, Bewohner und Ruf liegen nicht mehr in Kästen, sondern auf Feldern aus Kreidegekritzel. Die vier Knöpfe rechts liegen flach auf dem Schiefer.",
-    "Die Schieferplatte der Leiste reicht über den Rand des Fensters hinaus, wie ein Ausschnitt aus einem großen Stein.",
-    "Sonne und Mond am Kartenring sind viel größer und ragen über Stein und Karte."
+    "Neues Aussehen, Schritt 3 von 5: Fenster und Baumenü.",
+    "Im Baumenü sind die Gebäude groß, zwei nebeneinander, ohne Sandhintergrund auf Kreidegekritzel, mit ihrem Namen darunter. Die Fahne steht oben über den Reitern.",
+    "Die Bewohner in den Gebäudefenstern liegen auf Feldern aus Kreidegekritzel statt in Kästen."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "ca5fb5ceaa803aa39e4cab23ec83a1f6afdbff6fa0d61e1d2302b51b6fe7b6d8",
-  "version": "0.62.0"
+  "sha256": "09be44d8d62d3d7dd3887cba79632875df6ccd752c73c4a26d12da57809f0036",
+  "version": "0.63.0"
 }
