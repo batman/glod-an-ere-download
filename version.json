@@ -1,15 +1,17 @@
 {
   "engine": "4.3",
   "notes": [
-    "Probierversion.",
-    "Eine Fahne verbindet sich nur noch mit Ablageplätzen, die wirklich in ihrem Kreis liegen. Falsche alte Verbindungen fallen beim Laden weg.",
-    "Niemand läuft mehr durch Gebäude, alle gehen außen herum.",
-    "Auf die Grundfläche eines Gebäudes kommen keine Wege, Fahnen, Felsen oder Wasser mehr, auch nicht beim Ausbau. Alte Wege über eine Grundfläche werden beim Laden außen herumgelegt.",
-    "Trampelpfade beginnen am Rand der Grundfläche, auf dem Sand gibt es keine. Wird ein Platz gelöst, wächst sein Pfad langsam zu.",
-    "Leute, die zusammen losgehen, laufen nicht mehr genau aufeinander, sondern weichen sich ein Stück aus.",
-    "Neues Spiel: Die Inselgrößen passen wieder auf den Bildschirm."
+    "Probierversion. Alte Spielstände können Fehler zeigen: am besten ein neues Spiel beginnen.",
+    "Neue Baukosten: Gebäude mit Dach brauchen viele Felle (ein kleines einfaches Gebäude 5 Stämme, 2 Steinblöcke, 10 Felle). Die Feuerstelle ist nur aus Stein, das Lager kostet 10 Steinblöcke.",
+    "Jeder Ablageplatz hat jetzt seine eigene Größe, je nach Gebäude und Ware. Am Hauptgebäude: 50 Stämme, 50 Steinblöcke, 20 Nahrung, 20 Felle, 10 Speere; nach dem Ausbau anderthalbmal so viel.",
+    "Den Speermacher gibt es nur noch klein, die Kaserne und das Lager nur noch mittel.",
+    "Zu Beginn liegen 20 Felle am Hauptgebäude, genug für ein Wohnhaus und ein Forstgebäude.",
+    "Bauhelfer, Jäger und Speerträger holen ihre Waren direkt vom passenden Ablageplatz, nie aus einem Gebäude.",
+    "Einen Menschen wählt man mit einem Klick genau auf Körper oder Kopf, auch auf Gebäuden und Wegen. Ein Klick daneben trifft, was darunter liegt.",
+    "Im Kartenfenster bleibt der gelbe Kreis immer im runden Fenster, auch wenn man weit hinauszieht.",
+    "Die Uhr für freie Betten läuft nachts weiter; wer dran ist, zieht am Morgen ein."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "64eac57a8792828faae565a832994cf1ce5fcb19c3a482d0431b93a499a7d3b7",
-  "version": "0.43.0"
+  "sha256": "2dab8dd8a45d71fa5528f3e01367c90fc106669ee79a296081347f9f9b666a5c",
+  "version": "0.44.0"
 }
