@@ -1,15 +1,10 @@
 {
   "engine": "4.3",
   "notes": [
-    "Probierversion: Familien.",
-    "Niemand zieht mehr von selbst ein. Neuankömmlinge kommen aus dem Dunkel zum Hauptgebäude und warten am Feuer. Der Anführer setzt sich auf seinen Thron, und du sagst in der Karte des Hauptgebäudes Ja oder Nein: Junggesellen kommen oft und bringen etwas mit, Frauen selten, Paare ab und zu. Ein Nein zu einer Frau oder einem Paar kostet Ruf.",
-    "In jeder Hütte wohnt ein Paar mit bis zu zwei Kindern. Alle wohnen zu Hause und gehen nur zum Arbeiten fort, auch die Krieger. Hütten sind jetzt viel billiger, Arbeitsgebäude brauchen keine Felle mehr. Am Start wartet schon ein Paar auf die erste Hütte.",
-    "Manche Berufe machen nur Männer (Holzfäller, Jäger, Steinklopfer, Krieger, Schamane), manche nur Frauen (Försterin, Sammlerin, Speermacherin, Fischerin, Hirtin). Auf jedem Weg läuft eine ganze Familie.",
-    "Kinder: Ein sattes Paar bekommt Kinder. Sie holen Essen nach Hause, gehen mit der Mutter zur Arbeit, tragen auf dem Weg etwas mit und spielen um die Hütte. Groß geworden arbeiten sie mit und ziehen irgendwann mit einem Partner in eine eigene Hütte.",
-    "Arbeitsplätze gehen vor: Fehlt für einen Platz ein Mann oder eine Frau, gibt ein Fahnenwart oder Läufer seinen Posten dafür ab. Tipp: Gebäude dicht an eine gemeinsame Fahne bauen spart am Anfang Läufer.",
-    "Niemand stirbt mehr. Statt tödlicher Tiere tauchen draußen manchmal Wölfe oder ein Bär auf: Alle laufen in Sicherheit, die Krieger vertreiben das Tier, und das Dorf jubelt. Das bringt Ruf."
+    "Kleine Reparatur.",
+    "Über dem Hauptgebäude stieg statt feinem Rauch eine riesige Kugel auf (nachts sah sie blau aus wie ein Mond). Jetzt sind es wieder kleine Rauchwölkchen."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "e3877565122ad8f43ae56e6d7f3e5a663a1153a3ece488874b571dab0fd8b092",
-  "version": "0.60.0"
+  "sha256": "74845e7151c143ac0f99db9e83bbac1b2edd58635fe65bf6d2bad1762f29fbaf",
+  "version": "0.60.1"
 }
