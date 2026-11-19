@@ -2,11 +2,15 @@
   "engine": "4.3",
   "notes": [
     "Probierversion.",
-    "Die Tannen sind lebendiger: gestufte, hängende Äste mit Nadeln, Stämme mit Rinde, schlanke, breite alte, junge und windschiefe Bäume, verschieden groß – mitten im Wald die großen, am Rand die jungen.",
-    "Etwa jede zehnte Tanne ist kränklich: gelblich, rostbraun oder graugrün, mit lichter Krone und kahlen Ästen.",
-    "Beerensträucher wachsen locker aus holzigen Trieben, mit Blattbüscheln und dunkelroten Beerentrauben."
+    "Neu in der Leiste: die Übersicht (Kerbholz). Sie zeigt alle Gebäudearten mit Kosten und wie viele du hast, wo deine Waren liegen und wie viel Platz frei ist, und wie es den Bewohnern geht – auch wie lange die Nahrung reicht.",
+    "Das Feld „Waren / Platz in allen Lagern“ ist weg. Ist für eine Ware jeder Platz voll, wird ihre Zahl rot. Ein Tipp auf eine Ware öffnet die Übersicht.",
+    "Jedes freie Bett hat seine eigene Uhr, die Leute ziehen verteilt ein. Handabdrücke am Haus zeigen: rot = Bett besetzt, heller Umriss = frei.",
+    "Feierabend erst bei Nacht: Durch das rote Abendlicht wird weitergearbeitet. Das Feuer vor dem Haus brennt, wenn jemand heimgekommen ist.",
+    "Auf Grundflächen läuft man nicht mehr so schnell wie auf einer Straße.",
+    "Beim Setzen einer Fahne siehst du sie blass mit ihrem Kreis, bis du bestätigst. Fahnenplätze stehen auf einer runden Sandfläche.",
+    "Größere Bilder im Baumenü. Die Schrift im Reiter Ausbau ist wieder gut lesbar."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "63c9338f2d274eb3999ae957dac92a06d50b257ea58bb46c2ff065ea101f9684",
-  "version": "0.47.0"
+  "sha256": "57e268eb9988e008c6a5a2b0c3262cfacd94f3d3934b1190a273043b257cb0b1",
+  "version": "0.48.0"
 }
