@@ -2,13 +2,12 @@
   "engine": "4.3",
   "notes": [
     "Probierversion.",
-    "Fast ohne Schrift, zweiter Teil: Es gibt keine Meldungen mehr – das Dorf zeigt selbst, was nicht stimmt. Der schwebende Stein über einem Gebäude trägt das Problem als rotes Bild: Nahrung bei Hunger, die fehlende Ware mit X, eine leere Figur, wenn niemand da ist. Hunger und ein erloschenes Feuer glühen und pulsieren, mehrere Probleme wechseln sich ab.",
-    "Jeder Ort mit einem Problem blinkt als roter Punkt auf der kleinen Karte. Wo jemand getötet wurde, liegen eine Weile Knochen. Ein gelangweilter Arbeiter setzt sich vor sein Gebäude. Ändert sich der Ruf, lodert die Flamme in der Leiste auf oder sinkt zusammen.",
-    "Was jemand gerade tut, zeigt ein kleines Bild: Mond, getragene Ware, Hammer, Axt, Fahne …",
-    "Fahne, Pfad, Wasserweg, Ablageplatz, Person, freie Betten und Ruf zeigen Bilder statt Sätze. Beim Pfadlegen zeigt eine ockerrote Hand, wohin man tippt; geht etwas nicht, erscheint dort kurz ein rotes X.",
-    "Das Hauptmenü hat nur noch Bildknöpfe, die Inselgröße zeigt Kerben."
+    "Neue Gebäude, erster Teil: Keine Zelte mehr. Das Wohnhaus ist ein großer Haufen Felle mit Fellvorhang (nachts zu) und Baumstümpfen zum Sitzen. Der Steinklopfer ist eine Hütte aus grob gestapelten Steinen mit Stämmedach. Das Forstgebäude ist ein grünes, bemoostes Dach mit Geweih, einem hängenden Reh und Körben. Die Fischer wohnen in zwei Kegeln aus Fischhaut mit Netz, Reusen und trocknenden Fischen. Der Speermacher arbeitet unter einem offenen Stämmedach mit Fellen, Speerständer und Strohfigur.",
+    "Die Bauhelfer roden Stück für Stück: Jeder geht zu seiner eigenen zugewachsenen Stelle, dort sackt das Dickicht zusammen.",
+    "Wer in ein Gebäude geht, wird auf der Grundfläche langsam durchsichtig; wer herauskommt, taucht dort langsam auf.",
+    "Um Ablageplätze laufen die Leute herum. Zum Holen und Ablegen bleiben sie am Rand stehen, drehen sich zum Platz und bücken sich."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "4ea20fdd2d4d5b949e46f71d4e6a1e20dfc420b6dc086d69d745e837e6ef7998",
-  "version": "0.53.0"
+  "sha256": "62153b5837cb9d9060c228d19a53b4f5769e76e94d38823056114ff699cefcfa",
+  "version": "0.54.0"
 }
