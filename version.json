@@ -1,11 +1,11 @@
 {
   "engine": "4.3",
   "notes": [
-    "Neues Bauen: Ein Klick stellt das fertige Gebäude an den Ort, als stünde es schon, mit Grundplatte und Ablageplätzen, das Dickicht darunter ist weg. Passt es nicht hin, ist es rötlich.",
-    "Um das Gebäude liegt ein Kompass aus Stein: Fass den ockerroten Pfeil an und dreh ihn, er rastet an den sechs Seiten ein. Ein zweiter Klick auf das Gebäude oder den Haken in der Mitte baut es, ein Doppelklick baut sofort. Rechtsklick bricht ab. Die Knöpfe zum Drehen gibt es nicht mehr.",
-    "Fahnen: Der erste Klick zeigt die Fahne blass mit ihrem Kreis, ein zweiter Klick setzt sie. Dabei siehst du auch die Kreise aller anderen Fahnen und erkennst Überlappungen."
+    "Der Mond hat seinen eigenen Lauf: Er ist etwas langsamer als die Sonne und geht jeden Abend ein Stück später auf. Seine Phase kommt daher, wo er zur Sonne steht: gegenüber voll, im rechten Winkel halb, dicht neben ihr neu. Die helle Seite zeigt immer zur Sonne, auf dem Ring um die Karte und am Himmel.",
+    "Tagsüber steht der Mond oft blass am Himmel. Nachts leuchtet er nur, solange er über dem Horizont steht: Bei Halbmond ist ein Teil der Nacht hell, ein Teil dunkel.",
+    "Aufschauen: Ganz nah herangezoomt kannst du weiter flach kippen, dann bleibt der Blick in Kopfhöhe und hebt sich bis hoch in den Himmel zu Sonne, Mond, Wolken und Sternen."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "02ae776b81440770e627045f182600a8124a3ff534f813e52e5a1f4a8c1047ce",
-  "version": "0.72.0"
+  "sha256": "261660bf71782c5e35abb8fdafb5bcf6958a36b2e5504f2eb3af950aa5d6a4e0",
+  "version": "0.73.0"
 }
