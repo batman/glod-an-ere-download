@@ -1,12 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Eine neue Fahne verbindet sich mit allen Ablageplätzen in ihrem Kreis, auch mit Plätzen, die schon an einer anderen Fahne hängen. Die alten Verbindungen bleiben.",
-    "Die Sonne läuft auf einer eigenen, weiteren Bahn um die Karte, als glühende Kugel ohne Strahlen. Abends sinkt sie hinter die Leiste, nachts ist sie weg, morgens steigt sie wieder heraus. Die Karte steht dafür höher.",
-    "Der Mond läuft in der leeren Rinne um die Karte und ist überall gleich hell. Die Kreide in der Rinne ist weg.",
-    "Neues Bild im Hauptmenü: der Anführer und seine Frau. Der Titel steht auf ihren Schultern, darunter eine Steinleiste mit Weiterspielen, Neues Spiel, Einstellungen und Spiel beenden. Updates und Neuigkeiten findest du jetzt in den Einstellungen."
+    "Jagd ohne Anschleichen: Der Jäger sucht sich ein Reh, es wartet grasend auf ihn, und er erlegt es jedes Mal. Er bringt 1 Fell und 3 Fleisch, etwa 8 bis 10 Rehe am Tag.",
+    "Ist kein Platz für Fleisch, jagt der Jäger trotzdem und bringt nur das Fell heim. Das Reh bleibt im Wald liegen, bis es nach 3 Minuten weg ist. Solange es dort liegt, kommen in der Nähe eher Wölfe oder ein Bär.",
+    "Kein Stau mehr an den Gebäuden: Kann eine Ware nirgends hin (zum Beispiel Stämme, weil der Holzplatz am Hauptgebäude voll ist), bleibt nur sie liegen. Nahrung und Felle dahinter gehen trotzdem los.",
+    "Die Hütte sagt jetzt, warum ihre Leute hungern: bei welcher Mahlzeit und wo es nichts gab."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "70335289e7525900b500f6c8efd72c5ba9e1442aba7a7cbf2ff8ac50e08dae6e",
-  "version": "0.78.0"
+  "sha256": "fc6498974c92f10d57e0bbc1e2df41f84bddac804a7170a66ea1bb7ae9a86352",
+  "version": "0.79.0"
 }
