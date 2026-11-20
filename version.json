@@ -1,10 +1,11 @@
 {
   "engine": "4.3",
   "notes": [
-    "Baustellen sehen anders aus: Statt der Pfähle steht das fertige Gebäude gleich blass und durchsichtig da und wird beim Bauen immer fester, bis es fertig ist. Bis dahin gehen die Leute einfach hindurch.",
-    "Statt des grünen Balkens zeigt ein Baustellenschild aus Schiefer, wie weit es ist: ein Kreidekasten füllt sich mit Kreide, mit einer Axt beim Roden und einem Hammer beim Bauen. Ist das Gebäude fertig, ist das Schild weg."
+    "Neues Bauen: Ein Klick stellt das fertige Gebäude an den Ort, als stünde es schon, mit Grundplatte und Ablageplätzen, das Dickicht darunter ist weg. Passt es nicht hin, ist es rötlich.",
+    "Um das Gebäude liegt ein Kompass aus Stein: Fass den ockerroten Pfeil an und dreh ihn, er rastet an den sechs Seiten ein. Ein zweiter Klick auf das Gebäude oder den Haken in der Mitte baut es, ein Doppelklick baut sofort. Rechtsklick bricht ab. Die Knöpfe zum Drehen gibt es nicht mehr.",
+    "Fahnen: Der erste Klick zeigt die Fahne blass mit ihrem Kreis, ein zweiter Klick setzt sie. Dabei siehst du auch die Kreise aller anderen Fahnen und erkennst Überlappungen."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "0aeb6e1ea5b90ac0c5188e119575daa577fbff2d6fb7815ec6e198852301edf4",
-  "version": "0.71.0"
+  "sha256": "02ae776b81440770e627045f182600a8124a3ff534f813e52e5a1f4a8c1047ce",
+  "version": "0.72.0"
 }
