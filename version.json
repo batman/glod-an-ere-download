@@ -1,15 +1,10 @@
 {
   "engine": "4.3",
   "notes": [
-    "Alle Fenster im Spiel sehen jetzt gleich aus: Oben steht der Name in Kreideschrift direkt auf dem Schiefer, ohne Steinschild, bei einem Gebäude also z. B. „Hütte“ statt eines Bildes.",
-    "Fährst du mit der Maus über das X eines Fensters, zieht die Hand nur einen schwarzen Kohlestrich darunter.",
-    "Die Reiter eines Fensters stehen auf einer weißen Kreidelinie. Beim offenen Reiter und unter der Maus ist das Stück darunter mit Kohle nachgezogen.",
-    "Ein Reiter erscheint nur noch, wenn er etwas zeigt. Eine Wohnhütte zeigt nur Bewohner und Aktionen und öffnet gleich bei den Bewohnern. Im Reiter Ablage standen vorher manchmal die Balken des zuvor geöffneten Gebäudes, das ist behoben.",
-    "Die Fenster sind aufgeräumt, jede Angabe steht nur noch an einer Stelle: Lager ohne Gesamtbalken, Feuer ohne doppelte Stammzahl, Kultplatz und Kaserne ohne den Satz zu den Plätzen, Werkstätten ohne „arbeitet“, Baustelle ohne die Stern-Zeile, Person ohne das doppelte Berufsbild, Ablageplatz mit jeder Fahne und ihrem Wart in einer Zeile.",
-    "Der Knopf unten rechts öffnet jetzt das Spielmenü, das Spiel läuft dabei weiter: Ziel (noch freies Spiel), Übersicht, Statistik mit deiner Spielzeit, Spiel speichern und Zurück zum Hauptmenü. Der Knopf für die Übersicht ist aus der Leiste verschwunden.",
-    "Im Hauptmenü heißt der Knopf zum Schließen jetzt „Spiel beenden“."
+    "Wo das Dorf steht, verschwindet das Dickicht: Die Bewohner eines Hauses räumen 3 Felder rund um ihr Haus frei, wenn sie nichts zu tun haben, der Fahnenwart rund um seine Fahne, solange nichts zu tragen ist. Was sie freigeräumt haben, wächst nicht wieder zu.",
+    "Weniger Ruckeln: Wird ein Baum gefällt, gepflanzt oder wächst er ein Stück, wird nur noch das Stück Wald drumherum neu gezeichnet, nicht mehr der Wald der ganzen Insel."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "76a6c5859c463da073b2dc97f7116445afc11b2cf88143793943c3cab5bc2bc1",
-  "version": "0.76.0"
+  "sha256": "73b27450aa256a8e79744c6245aacc1f2a7cdbd8482f20794a2856b6e2b2612c",
+  "version": "0.77.0"
 }
