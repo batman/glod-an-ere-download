@@ -1,12 +1,15 @@
 {
   "engine": "4.3",
   "notes": [
-    "Alle Berufe sind gleich wichtig: Arbeitsplätze, Fahnenwarte und Läufer. Der nächste freie Bewohner geht zu dem Posten, der am längsten wartet.",
-    "Wer einen Posten hat, behält ihn. Ein Fahnenwart oder Läufer wird nicht mehr für einen Arbeitsplatz abgezogen.",
-    "Jeder Weg hat einen Läufer, ob Mann oder Frau. Eine gepflasterte Straße bekommt einen zweiten; die beiden warten je an einem Ende.",
-    "Kinder arbeiten nicht mehr mit: Sie gehen nicht mit zur Arbeit, tragen nichts und spielen um die Hütte."
+    "Niemand streikt mehr: Wer hungert, arbeitet langsamer, verärgert halb so schnell, auch der Bautrupp. Erst nach drei Tagen Hunger fragt man noch einmal am Hauptgebäude und geht fort, wenn es dort nichts gibt.",
+    "Hungert der Bautrupp, zeigt der Warnstein über der Baustelle die Schale statt des Hammers.",
+    "Niemand läuft mehr durch Gebäude, die Mauer oder Ablageplätze. In ein Gebäude geht man nur durch den Eingang.",
+    "Überall dieselbe Hinweisplatte beim Drüberhalten, auch im Baumenü.",
+    "Das Hauptgebäude zeigt nur noch Aktionen.",
+    "Die Entscheidung geht auch nachts und ist ein Bild: freie Hütten, wer gesucht wird, jeder Bewerber mit seinen Gaben, Haken und X. Die Gaben sind größer und gemischt.",
+    "Rechtsklick schließt jedes Fenster wieder, auch über dem Fenster."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "bebd7245b38c9b6b807d89653a811d34dad1c7851cd6ecfaaf20d48be0bf7a99",
-  "version": "0.91.0"
+  "sha256": "130816906656c237f5e3d90c45fd9fb47ae0a836ed12d3203fb64cc2ccaf38ee",
+  "version": "0.92.0"
 }
