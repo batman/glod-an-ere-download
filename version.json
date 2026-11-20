@@ -1,14 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Das Hauptgebäude ist neu aufgeteilt. Vorne sitzt der Anführer auf seinem Thron links neben dem Eingang, mit Blick aufs Dorf, die vier Klötze der Bewerber im Bogen davor. Rechts neben dem Eingang brennt das große Feuer.",
-    "Die Ablageplätze des Hauptgebäudes stehen jetzt frei links und rechts neben dem Haus und zeigen nach außen: Stämme und Steine auf der Seite des Feuers, Felle, Speere und Nahrung auf der Seite des Throns. Setz dort deine Fahnen. Fahnen von vorher erreichen sie vielleicht nicht mehr.",
-    "Hinter dem Haus liegt das Lager jetzt als Rechteck. Die Stapel stehen in einer Reihe, in Gruppen: Stämme und Steine, Felle und Speere, Beeren, Fisch und Fleisch.",
-    "Die Trockenmauer umschließt das Lager ohne Durchgang. Sie steigt an den Seiten nach hinten an, ist hinten höher und hat runde Ecken. Auf jeder Ecke steht eine Fackel, die nachts brennt.",
-    "In allen Lagern sieht das jetzt so aus: Der Holzstoß hat an beiden Seiten Pflöcke, die Fellbündel stehen hochkant, die Speere lehnen an einem Gestell, die Beerenkörbe stehen auf einem Tisch, Fisch und Fleisch hängen. Nahrung steht nicht mehr auf dem Boden.",
-    "Nichts liegt mehr auf etwas anderem: Thron, Klötze, Feuer, Ablagen, Stapel und Mauer haben alle ihren eigenen Platz."
+    "Alle Berufe sind gleich wichtig: Arbeitsplätze, Fahnenwarte und Läufer. Der nächste freie Bewohner geht zu dem Posten, der am längsten wartet.",
+    "Wer einen Posten hat, behält ihn. Ein Fahnenwart oder Läufer wird nicht mehr für einen Arbeitsplatz abgezogen.",
+    "Jeder Weg hat einen Läufer, ob Mann oder Frau. Eine gepflasterte Straße bekommt einen zweiten; die beiden warten je an einem Ende.",
+    "Kinder arbeiten nicht mehr mit: Sie gehen nicht mit zur Arbeit, tragen nichts und spielen um die Hütte."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "0b7e61a9de7df21f73fa9addd3fea42c849bb1c03728a05b812370b925458de4",
-  "version": "0.90.0"
+  "sha256": "bebd7245b38c9b6b807d89653a811d34dad1c7851cd6ecfaaf20d48be0bf7a99",
+  "version": "0.91.0"
 }
