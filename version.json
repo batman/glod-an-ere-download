@@ -1,12 +1,11 @@
 {
   "engine": "4.3",
   "notes": [
-    "Das Baumenü ist kein Fenster mehr: Tippst du auf den Hammer, dreht sich eine dunkle Schieferplatte um ihn ein, und weiße Steinstücke marschieren nacheinander darauf, die Fahne und fünf Gruppen in zwei Reihen.",
-    "Die Gruppen sind Wohnen, Nahrung, Handwerk, Lager und Dorf. Tippst du eine an, dreht sich weiter außen eine weiße Platte mit schwarzen Stücken für ihre Gebäude ein.",
-    "Das gewählte Gebäude hat einen Goldrand. Seine Kosten stehen im Hammerkreis auf einer weißen Schiefertafel, rot, wo zu wenig da ist.",
-    "Ein kleines X rechts am Rand nimmt eine Platte wieder weg. Hammer, Rechtsklick und Esc schließen alles."
+    "Bauhelfer nehmen ihr Material jetzt von überall, auch Stämme und Steine, die schon auf dem Weg ins Lager sind. Eine Baustelle bekommt so ihr Holz, auch wenn gerade niemand frei ist, um es zum Hauptgebäude zu tragen.",
+    "Im Ring einer Fahne liegen höchstens 3 Stück derselben Ware, bei Nahrung je Sorte. Staut sich eine Ware, kommen die anderen trotzdem durch.",
+    "Der Bautrupp steht beim Bauen außen um das Gebäude, jeder auf einer anderen Seite, mit dem Gesicht zum Gebäude."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "f16e436581e0c96518ecf269aea127f79ee8f91be3d7231d24401f85f5325b8c",
-  "version": "0.84.0"
+  "sha256": "0f2f569b8561a098c8d37c86d821bdf57746c6fd2b8ea825ea21aea1163a0621",
+  "version": "0.85.0"
 }
