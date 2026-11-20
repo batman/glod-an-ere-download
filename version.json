@@ -1,19 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Essensausgabe: Am Hauptgebäude und an jedem Nahrungslager gibt es eine Theke aus Stein. Abends holt der Mann jeder Hütte dort Abendessen und Frühstück für alle, die Familie wartet am Feuer. Man steht geduldig an, solange es Essen gibt. Morgens frühstückt die Familie gemeinsam daheim.",
-    "Das Hauptgebäude hat 2 Lagermeister (nach dem Ausbau 4), jedes Lager 2. Lager bekommen ihre Lagermeister jetzt wirklich. Freie Bauhelfer helfen am Hauptgebäude beim Räumen.",
-    "Ein voller Ablageplatz nimmt nichts mehr an. Ein Lager ohne Lagermeister zeigt das am Warnstein.",
-    "Das Hauptgebäude fasst 30 je Ware, Nahrung 30 zusammen, ein Lager deutlich mehr.",
-    "Der Jäger überfüllt keinen Platz mehr. Die Försterin wartet still, wenn sie nichts zu pflanzen findet.",
-    "Zwischen zwei Gebäuden liegt immer ein Pufferfeld. Wege und Fahnen liegen nie auf der Grundfläche eines Gebäudes. Grundfläche und Puffer werden freigeräumt. Das Hauptgebäude hat weniger Grundfläche.",
-    "Die Fischerhütte steht direkt am Ufer.",
-    "Beim Bauen: die Kreise aller Fahnen, über jedem Ablageplatz ein Haken oder ein X. Der Kompass ist aus Stein.",
-    "Planansicht (Knopf neben dem Hammer): Gebäude weiß, Puffer hellblau, Wege mittelblau, Fahnen dunkelblau, Fahnenkreise, farbige Ablageplätze und gestrichelte Verbindungen.",
-    "Die Leiste: Waren links, Bewohner und freie Hütten auf einer hellen Tafel in der Mitte, Ansehen und Tempo rechts, Spielmenü ganz rechts. Neben der Karte ist sie wieder flach.",
-    "Die Feuer vor den Hütten brennen die halbe Nacht und schützen die Hütte. Nachts kommen Tiere zu dunklen Hütten, das Horn weckt das Dorf."
+    "Hauptmenü: Neuigkeiten und Nach Updates suchen stehen untereinander. Unter der Maus zieht sich ein Kreidestrich unter die Worte der Steinleiste.",
+    "Über jedem Knopf wird der Mauszeiger zur Hand.",
+    "Warten Bewerber, öffnet ein Klick auf den Thron oder den Anführer darauf gleich die Entscheidung.",
+    "Jeder Bewerber behält seinen Klotz vor dem Thron, bis er eine Antwort hat, und seine Gaben liegen vor ihm. Wer von seinem Klotz abkommt, geht wieder hin."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "c3c5af4284094dfea9cf3072b8d5544ab2e9d9df1ae2990568592009b5063905",
-  "version": "0.93.0"
+  "sha256": "559333a5fca115ea5d003a2210af0e64f0dd1ec82bc5131ed89e54566fcf2fe4",
+  "version": "0.94.0"
 }
