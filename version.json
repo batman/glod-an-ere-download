@@ -1,12 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Alarm! Taucht ein Wolf oder Bär auf, schwingt oben eine rot glühende Glocke. Ein Antippen bringt dich zum Kampf.",
-    "Das ganze Dorf zieht los: Krieger und Jäger mit Speeren, alle anderen werfen Steine, die sie vom Boden aufheben. Über dem Tier zeigen zehn Kerben seine Kraft. Ab und zu greift es an, dann weichen alle zurück und rücken wieder vor.",
-    "Wölfe vertreibt das Dorf auch allein, einen Bären nur mit Kriegern. Nach dem Sieg jubeln alle, und der Anführer gibt ein Festessen: Alle Kämpfer essen sich satt, der Ruf steigt.",
-    "Wilde Tiere kommen seltener als bisher, etwa ein- bis zweimal pro Spielstunde, dafür ist es jedes Mal ein richtiger Kampf."
+    "Baustellen: Zuerst räumen die Bauhelfer die Fläche, dann tragen sie alles Material heran und legen es in Haufen auf den Sand.",
+    "Der Bautrupp kommt erst, wenn alles daliegt. Dann verschwinden die Haufen, und das Gebäude wächst, bis es fertig ist. So steht der Trupp nie mehr wartend herum, während eine andere Baustelle schon fertig werden könnte.",
+    "Sind mehrere Baustellen bereit, kommt zuerst die dran, die zuerst beliefert wird, sonst die, die zuerst bereit war.",
+    "Reißt du eine Baustelle ab, bevor der Bautrupp angefangen hat, tragen die Bauhelfer das Material zurück ins Lager. Danach ist es verloren."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "e7667b30635eaf2b3c573f8b2d6d1fd48449b686accb4065d77e195e62841f90",
-  "version": "0.81.0"
+  "sha256": "2d644e3bc2f70e6b9ef18b137c8576997828567adeddbe69ac6d6e92263bfbc1",
+  "version": "0.82.0"
 }
