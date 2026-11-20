@@ -1,14 +1,14 @@
 {
   "engine": "4.3",
   "notes": [
-    "Wilde Tiere neu: Das Tier nimmt Reißaus, sobald genug Leute um es herumstehen, 10 bei Wölfen und 20 beim Bären. Ein Krieger zählt wie drei Dorfbewohner. Die Kerben mit der Kraft des Tieres gibt es nicht mehr, Steine werfen sie weiter.",
-    "Ist ein Jäger oder ein Krieger dabei, lässt das Tier Fleisch und Fell liegen. Die Bauhelfer tragen es ins nächste Lager.",
-    "Beim Horn bricht der Anführer mit seinen beiden Leibwachen auf. Er geht langsamer als alle anderen, aber wo er ankommt, weicht jedes Tier, immer mit Fleisch und Fell. So schafft auch ein kleines Dorf jedes Tier.",
-    "Fackeln: Beim Alarm läuft jeder zuerst zum nächsten Feuer, zündet sich eine Fackel an und zieht mit ihr zum Tier. Die Feuer vor den Hütten flammen dafür auf.",
-    "Die Nacht beendet keinen Kampf mehr: Das Tier zieht nicht mehr von selbst ab, und wer draußen gegen es steht, bleibt mit der Fackel im Dunkeln, bis es vertrieben ist.",
-    "Statt der Glocke oben liegt beim Alarm jetzt ein großes Horn unten rechts auf der Leiste, neben dem Hammer. Antippen fährt zum Tier."
+    "Das Hauptgebäude ist neu aufgeteilt. Vorne sitzt der Anführer auf seinem Thron links neben dem Eingang, mit Blick aufs Dorf, die vier Klötze der Bewerber im Bogen davor. Rechts neben dem Eingang brennt das große Feuer.",
+    "Die Ablageplätze des Hauptgebäudes stehen jetzt frei links und rechts neben dem Haus und zeigen nach außen: Stämme und Steine auf der Seite des Feuers, Felle, Speere und Nahrung auf der Seite des Throns. Setz dort deine Fahnen. Fahnen von vorher erreichen sie vielleicht nicht mehr.",
+    "Hinter dem Haus liegt das Lager jetzt als Rechteck. Die Stapel stehen in einer Reihe, in Gruppen: Stämme und Steine, Felle und Speere, Beeren, Fisch und Fleisch.",
+    "Die Trockenmauer umschließt das Lager ohne Durchgang. Sie steigt an den Seiten nach hinten an, ist hinten höher und hat runde Ecken. Auf jeder Ecke steht eine Fackel, die nachts brennt.",
+    "In allen Lagern sieht das jetzt so aus: Der Holzstoß hat an beiden Seiten Pflöcke, die Fellbündel stehen hochkant, die Speere lehnen an einem Gestell, die Beerenkörbe stehen auf einem Tisch, Fisch und Fleisch hängen. Nahrung steht nicht mehr auf dem Boden.",
+    "Nichts liegt mehr auf etwas anderem: Thron, Klötze, Feuer, Ablagen, Stapel und Mauer haben alle ihren eigenen Platz."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "b888980bb37aabff113e1258717cb3fa4cd8441bdce48b2a6785f964db0b93bf",
-  "version": "0.89.0"
+  "sha256": "0b7e61a9de7df21f73fa9addd3fea42c849bb1c03728a05b812370b925458de4",
+  "version": "0.90.0"
 }
