@@ -1,13 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Das Hauptgebäude ist jetzt auch ein Lager: vorne kleine Ablageplätze (je 6), die mit Fahnen verbunden werden, hinten im Halbkreis die Lagerfläche mit 60 Plätzen je Ware. Seine Grundfläche ist dafür größer.",
-    "Neuer Bewohner im Hauptgebäude: der Lagermeister. Er trägt, was auf die Ablage kommt, auf die Lagerfläche und holt von dort, was über die Fahnen hinaus soll. Auch jedes Lager braucht einen Lagermeister, sonst fasst es nur, was auf seine Ablageplätze passt.",
-    "Jede Ware ist zu sehen, ein Stück für jede: Holzstöße, Steinhaufen, gerollte Felle, Speere in Reihen, Körbe mit Früchten, Fisch und Fleisch an Trockengestellen.",
-    "Die Bewerber sitzen auf Holzklötzen vor dem Thron, ihr Mitbringsel liegt vor ihnen. Ein Antippen öffnet die Karte „Entscheidung“: jeder Bewerber auf einem eigenen Reiter, mit Aufnehmen und Abweisen.",
-    "Der Thron steht jetzt auf der Grundfläche des Hauptgebäudes."
+    "Alarm! Taucht ein Wolf oder Bär auf, schwingt oben eine rot glühende Glocke. Ein Antippen bringt dich zum Kampf.",
+    "Das ganze Dorf zieht los: Krieger und Jäger mit Speeren, alle anderen werfen Steine, die sie vom Boden aufheben. Über dem Tier zeigen zehn Kerben seine Kraft. Ab und zu greift es an, dann weichen alle zurück und rücken wieder vor.",
+    "Wölfe vertreibt das Dorf auch allein, einen Bären nur mit Kriegern. Nach dem Sieg jubeln alle, und der Anführer gibt ein Festessen: Alle Kämpfer essen sich satt, der Ruf steigt.",
+    "Wilde Tiere kommen seltener als bisher, etwa ein- bis zweimal pro Spielstunde, dafür ist es jedes Mal ein richtiger Kampf."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "5f8a72a8cf9747a5bc717a3ae244128dcd9d9e0883481a1f8834e5038f658bad",
-  "version": "0.80.0"
+  "sha256": "e7667b30635eaf2b3c573f8b2d6d1fd48449b686accb4065d77e195e62841f90",
+  "version": "0.81.0"
 }
