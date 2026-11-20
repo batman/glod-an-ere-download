@@ -1,13 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Auf jeden Ablageplatz passen jetzt 6 Waren, an jedem Gebäude. Ist er voll, wartet die Arbeit, bis jemand etwas abholt. Hauptgebäude und Lager haben dahinter weiter ihre große Lagerfläche.",
-    "Der Ritualplatz hat einen Ablageplatz für Nahrung. Ein Opfer nimmt zuerst, was dort liegt.",
-    "Die Lagerfläche hinter dem Hauptgebäude ist von einer niedrigen Steinmauer umgeben. Die Leute gehen außen herum und kommen neben dem Haus hinein.",
-    "Über dem Thron spannt sich ein großes Fell auf vier Stangen und gibt dem Anführer Schatten.",
-    "Das Feuer am Hauptgebäude ist größer, hat einen Holzstoß und brennt sichtbar Tag und Nacht, solange Stämme da sind. Nur dieses Feuer schützt, die Feuer vor den Hütten sind Kochfeuer."
+    "Jede Hütte hat jetzt einen kleinen Hof. Das Feuer liegt etwas weiter vor dem Eingang, und rundherum steht für jeden Bewohner ein Sitzklotz: ein großer für Erwachsene, ein kleiner für Kinder. Abends sitzt jeder auf seinem.",
+    "An jeder Hütte sieht man, was ihre Bewohner arbeiten, zum Beispiel ein Geweih beim Jäger, eine Axt im Hackklotz beim Holzfäller, eine Reuse bei der Fischerin, eine Strohfigur beim Speerträger oder eine Zielscheibe beim Steineschmeißer.",
+    "Jäger und Försterin haben einen Hund. Der Hund des Jägers läuft den ganzen Tag mit ihm mit, der Hund der Försterin bewacht die Hütte.",
+    "Neben jeder Hütte trocknet ein aufgespanntes Fell, und jede Hütte hat eine eigene Nutzpflanze: Holzapfel, Wildbirne, Hasel, Holunder oder ein Beet mit Erbsen, Mohn, Lein oder Bärlauch. Wo Kinder wohnen, liegt Spielzeug herum. Keine Hütte gleicht ganz der anderen.",
+    "In der Landschaft liegen Findlinge, Steine, Blumen, bemooste Stämme, Pilze und Farn, ab und zu ein altes Gerippe, am Strand Treibholz und Muscheln."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "f26e4767e89bae618b6886bbf6c20c8347aacdc7f9fa458a876f447e48a7171e",
-  "version": "0.86.0"
+  "sha256": "561a6c1f01f3d8033ca9ff1f042bcc666abe0725276ef44010b1e8faa6e6f447",
+  "version": "0.87.0"
 }
