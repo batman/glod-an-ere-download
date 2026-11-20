@@ -1,12 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Hauptmenü: Neuigkeiten und Nach Updates suchen stehen untereinander. Unter der Maus zieht sich ein Kreidestrich unter die Worte der Steinleiste.",
-    "Über jedem Knopf wird der Mauszeiger zur Hand.",
-    "Warten Bewerber, öffnet ein Klick auf den Thron oder den Anführer darauf gleich die Entscheidung.",
-    "Jeder Bewerber behält seinen Klotz vor dem Thron, bis er eine Antwort hat, und seine Gaben liegen vor ihm. Wer von seinem Klotz abkommt, geht wieder hin."
+    "Jede Nahrungssorte hat ihren eigenen Ablageplatz: Früchte, Fisch und Fleisch, an jedem Gebäude, am Hauptgebäude und in den Lagern. Jeder wird für sich mit Fahnen verbunden. Das Nahrungslager fasst 60 von jeder Sorte.",
+    "Fisch kommt nicht mehr im Korb: drei Fische an einer Schnur durch die Kiemen.",
+    "Die Körbe am Forstgebäude sind leer und sehen aus wie die Nahrungskörbe.",
+    "Lager haben 4 Lagermeister-Plätze wie die Arbeitsplätze: 2 feste, 2 weitere besetzt man selbst.",
+    "Das Fell- und Speerlager liegt in einer Trockenmauer mit Fackeln, das Holz- und Steinlager hinter einer Wand aus Stämmen, das Nahrungslager ist offen. Nur die Lagermeister kommen hinein."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "559333a5fca115ea5d003a2210af0e64f0dd1ec82bc5131ed89e54566fcf2fe4",
-  "version": "0.94.0"
+  "sha256": "c70dddf88c661e988f830c911abe0c3b080f452cea64592b4d7e73a39730eb7b",
+  "version": "0.95.0"
 }
