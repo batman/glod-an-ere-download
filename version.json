@@ -1,14 +1,15 @@
 {
   "engine": "4.3",
   "notes": [
-    "Eine Baustelle ist jetzt fast unsichtbar: Das Gebäude steht nur ganz blass da und wird mit dem Bauen immer fester, bis es fertig dasteht. Vorher stand es sofort ganz da.",
-    "Jedes Gebäude lässt sich in alle sechs Richtungen drehen. Ein Baum oder Strauch vor dem Eingang macht es nicht mehr rot.",
-    "Setzt du eine Hütte oder eine Feuerstelle, siehst du die Schutzkreise aller Feuer. So weißt du, wo es vor Wölfen und Bären sicher ist.",
-    "In der Leiste unten liegen Waren, Bewohner und Ruf jetzt ohne Kreidefeld direkt auf dem Stein, die Zahlen in Kreide. Der Stein der Leiste läuft auch links aus dem Bild.",
-    "Nachts liegt ganz unten links ein kleiner Knopf mit Mond: Er lässt die Nacht schnell durchlaufen, bis es Morgen ist.",
-    "Der Hinweis beim Drüberhalten kommt erst nach gut zwei Sekunden. Fährst du gleich weiter zum nächsten Knopf, ist dessen Hinweis sofort da."
+    "Alle Fenster im Spiel sehen jetzt gleich aus: Oben steht der Name in Kreideschrift direkt auf dem Schiefer, ohne Steinschild, bei einem Gebäude also z. B. „Hütte“ statt eines Bildes.",
+    "Fährst du mit der Maus über das X eines Fensters, zieht die Hand nur einen schwarzen Kohlestrich darunter.",
+    "Die Reiter eines Fensters stehen auf einer weißen Kreidelinie. Beim offenen Reiter und unter der Maus ist das Stück darunter mit Kohle nachgezogen.",
+    "Ein Reiter erscheint nur noch, wenn er etwas zeigt. Eine Wohnhütte zeigt nur Bewohner und Aktionen und öffnet gleich bei den Bewohnern. Im Reiter Ablage standen vorher manchmal die Balken des zuvor geöffneten Gebäudes, das ist behoben.",
+    "Die Fenster sind aufgeräumt, jede Angabe steht nur noch an einer Stelle: Lager ohne Gesamtbalken, Feuer ohne doppelte Stammzahl, Kultplatz und Kaserne ohne den Satz zu den Plätzen, Werkstätten ohne „arbeitet“, Baustelle ohne die Stern-Zeile, Person ohne das doppelte Berufsbild, Ablageplatz mit jeder Fahne und ihrem Wart in einer Zeile.",
+    "Der Knopf unten rechts öffnet jetzt das Spielmenü, das Spiel läuft dabei weiter: Ziel (noch freies Spiel), Übersicht, Statistik mit deiner Spielzeit, Spiel speichern und Zurück zum Hauptmenü. Der Knopf für die Übersicht ist aus der Leiste verschwunden.",
+    "Im Hauptmenü heißt der Knopf zum Schließen jetzt „Spiel beenden“."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "a5bd288b7faf647e15cc0a514c1d75270776c38efca5f03410742abb9d8f8167",
-  "version": "0.75.0"
+  "sha256": "76a6c5859c463da073b2dc97f7116445afc11b2cf88143793943c3cab5bc2bc1",
+  "version": "0.76.0"
 }
