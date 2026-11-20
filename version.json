@@ -1,10 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Wo das Dorf steht, verschwindet das Dickicht: Die Bewohner eines Hauses räumen 3 Felder rund um ihr Haus frei, wenn sie nichts zu tun haben, der Fahnenwart rund um seine Fahne, solange nichts zu tragen ist. Was sie freigeräumt haben, wächst nicht wieder zu.",
-    "Weniger Ruckeln: Wird ein Baum gefällt, gepflanzt oder wächst er ein Stück, wird nur noch das Stück Wald drumherum neu gezeichnet, nicht mehr der Wald der ganzen Insel."
+    "Eine neue Fahne verbindet sich mit allen Ablageplätzen in ihrem Kreis, auch mit Plätzen, die schon an einer anderen Fahne hängen. Die alten Verbindungen bleiben.",
+    "Die Sonne läuft auf einer eigenen, weiteren Bahn um die Karte, als glühende Kugel ohne Strahlen. Abends sinkt sie hinter die Leiste, nachts ist sie weg, morgens steigt sie wieder heraus. Die Karte steht dafür höher.",
+    "Der Mond läuft in der leeren Rinne um die Karte und ist überall gleich hell. Die Kreide in der Rinne ist weg.",
+    "Neues Bild im Hauptmenü: der Anführer und seine Frau. Der Titel steht auf ihren Schultern, darunter eine Steinleiste mit Weiterspielen, Neues Spiel, Einstellungen und Spiel beenden. Updates und Neuigkeiten findest du jetzt in den Einstellungen."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "73b27450aa256a8e79744c6245aacc1f2a7cdbd8482f20794a2856b6e2b2612c",
-  "version": "0.77.0"
+  "sha256": "70335289e7525900b500f6c8efd72c5ba9e1442aba7a7cbf2ff8ac50e08dae6e",
+  "version": "0.78.0"
 }
