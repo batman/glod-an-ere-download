@@ -1,13 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Neues Aussehen, Schritt 5 von 5: verstehen, was los ist.",
-    "Hungern Bewohner, sagt das Fenster des Hauses in Worten, wie viele es sind und warum: Beim Essen war der Vorrat am eigenen Haus leer.",
-    "Das Fenster zum Ruf sagt, warum er sinkt oder steigt, zum Beispiel „sinkt: 7 Bewohner hungern“.",
-    "Am Hauptgebäude zählt „Nahrung pro Stunde“ jetzt auch die verpassten Mahlzeiten mit. So sieht man, wenn zu wenig Nahrung gemacht wird.",
-    "Ein vorgemerkter, noch leerer Arbeitsplatz sagt „noch leer: wartet auf einen freien Bewohner“ und sieht nicht mehr aus wie ein besetzter."
+    "Das Hauptgebäude in neuem Fell: Seine große Haut ist jetzt mit gemalten Fellen belegt wie das Wohnhaus, viele einzelne Felle in verschiedenen Farben, wie Schindeln übereinander.",
+    "Auch die Kaserne, das Dach der Viehzucht (helle Schaffelle) und die Hütte des Schamanen haben die gemalten Felle bekommen.",
+    "Über dem Eingang des Hauptgebäudes hängt ein richtiger Elchschädel mit breiten Geweihschaufeln und Zacken, mit Riemen an den Balken gebunden.",
+    "Rauch steigt als weiche, durchscheinende Schwaden auf und löst sich auf, am Hauptgebäude und an den Feuerstellen.",
+    "Vor dem Hauptgebäude ist aufgeräumt: nur noch eine große Feuerstelle, dort wo die Bewohner sitzen, mit Abstand zu Thron und Ablageplätzen. Die beiden Holzgestelle hinter dem Haus sind weg."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "b6d50952180e0ddf92e2574179ce51461b10536525cc52df86bc58f32905b334",
-  "version": "0.65.0"
+  "sha256": "c8ec49c3bc0f96fc027b3037abda908747e58c497df2d4539416db9c40960220",
+  "version": "0.66.0"
 }
