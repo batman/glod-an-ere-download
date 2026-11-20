@@ -1,15 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Drei Lager statt einem: das Nahrungslager (180 Nahrung, je Sorte 60), das Holz- und Steinlager und das Fell- und Speerlager (je 60 Stämme und Steine oder Felle und Speere).",
-    "Essen am Nahrungslager: Abends holt jeder auf dem Heimweg das Abendessen für sich und seine Kinder am nächsten Nahrungslager und isst daheim am Feuer. Morgens frühstückt er direkt am Nahrungslager. Das Hauptgebäude zählt als Nahrungslager.",
-    "Die Hütte hat keinen Nahrungsplatz mehr und braucht deshalb keine Fahne und keinen Weg.",
-    "Nahrung wird im Korb getragen: bis zu 3 Portionen auf einmal.",
-    "Am Forstgebäude passen 20 Nahrung auf den Platz statt 6.",
-    "Verärgerte bitten am Nahrungslager um Essen statt am Hauptgebäude.",
-    "Alte Spielstände gehen mit dieser Version nicht mehr."
+    "Neuer Kreidestil, Schritt 1: Alles Weiße wird jetzt wie von Hand mit Kreide gemalt – erst ein dünner Rahmen ringsherum, dann Runde um Runde nachgezogen, dann die Fläche Strich für Strich hin und her, waagerecht, senkrecht und schräg, bis sie weiß ist. Keine Linie ist gerade.",
+    "Leiste unten: Waren, Bewohner und Ruf liegen je auf einem langen weißen Kreidefeld, das sich bei Spielbeginn selbst malt. Die Waren haben einen kleinen Schatten, die Zahlen sind mit Kohle geschrieben; unter der Maus unterstreicht ein Kohlestrich die Ware.",
+    "Knöpfe: Unter der Maus malt die Hand den Knopf weiß aus, Zeichen und Wort werden dann zu Kohle. Eingeschaltete Knöpfe bleiben ausgemalt.",
+    "Gebäudebilder im Baumenü: immer waagerecht und senkrecht ausgemalt, der Name in Kohle; das gewählte bekommt die schrägen Striche dazu. Unter der Maus wird der Name unterstrichen.",
+    "Bewohner in den Gebäudefenstern, freie Plätze, Namensfelder und Lagerplätze haben nur einen gemalten Kreiderahmen."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "16cf94749bdcb1e1ec940f097dd2da1f725140ad3553ad3823420a6570b29a3d",
-  "version": "0.67.0"
+  "sha256": "ab8b6ac5e1152f8ea1160597a16aab17536546c556d34feecf1ff74c93f130c5",
+  "version": "0.68.0"
 }
