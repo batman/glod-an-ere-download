@@ -1,11 +1,14 @@
 {
   "engine": "4.3",
   "notes": [
-    "Der Kompass beim Bauen ist jetzt ein goldener Kompass: ein polierter Goldring mit sechs goldenen Spitzen an den Seiten, in die das Gebäude schauen kann, und eine goldene Nadel mit einem Bernstein. Die Nadel drehst du ganz frei, das Gebäude rastet an der nächsten Seite ein.",
-    "Setzt du ein Gebäude in den Wald, bleiben die Bäume und Sträucher stehen, bis die Bauhelfer sie gefällt haben.",
-    "Reißt du eine Baustelle ab, an der die Bauhelfer gerade arbeiten, sind sie sofort wieder frei. Vorher blieben sie dort für immer stehen, und keine andere Baustelle kam mehr voran."
+    "Eine Baustelle ist jetzt fast unsichtbar: Das Gebäude steht nur ganz blass da und wird mit dem Bauen immer fester, bis es fertig dasteht. Vorher stand es sofort ganz da.",
+    "Jedes Gebäude lässt sich in alle sechs Richtungen drehen. Ein Baum oder Strauch vor dem Eingang macht es nicht mehr rot.",
+    "Setzt du eine Hütte oder eine Feuerstelle, siehst du die Schutzkreise aller Feuer. So weißt du, wo es vor Wölfen und Bären sicher ist.",
+    "In der Leiste unten liegen Waren, Bewohner und Ruf jetzt ohne Kreidefeld direkt auf dem Stein, die Zahlen in Kreide. Der Stein der Leiste läuft auch links aus dem Bild.",
+    "Nachts liegt ganz unten links ein kleiner Knopf mit Mond: Er lässt die Nacht schnell durchlaufen, bis es Morgen ist.",
+    "Der Hinweis beim Drüberhalten kommt erst nach gut zwei Sekunden. Fährst du gleich weiter zum nächsten Knopf, ist dessen Hinweis sofort da."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "48fa961ff1e44a5a902e528fd38a7572817bc904b9cf5634568a882625b6573b",
-  "version": "0.74.0"
+  "sha256": "a5bd288b7faf647e15cc0a514c1d75270776c38efca5f03410742abb9d8f8167",
+  "version": "0.75.0"
 }
