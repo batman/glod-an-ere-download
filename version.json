@@ -1,11 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Bauhelfer nehmen ihr Material jetzt von überall, auch Stämme und Steine, die schon auf dem Weg ins Lager sind. Eine Baustelle bekommt so ihr Holz, auch wenn gerade niemand frei ist, um es zum Hauptgebäude zu tragen.",
-    "Im Ring einer Fahne liegen höchstens 3 Stück derselben Ware, bei Nahrung je Sorte. Staut sich eine Ware, kommen die anderen trotzdem durch.",
-    "Der Bautrupp steht beim Bauen außen um das Gebäude, jeder auf einer anderen Seite, mit dem Gesicht zum Gebäude."
+    "Auf jeden Ablageplatz passen jetzt 6 Waren, an jedem Gebäude. Ist er voll, wartet die Arbeit, bis jemand etwas abholt. Hauptgebäude und Lager haben dahinter weiter ihre große Lagerfläche.",
+    "Der Ritualplatz hat einen Ablageplatz für Nahrung. Ein Opfer nimmt zuerst, was dort liegt.",
+    "Die Lagerfläche hinter dem Hauptgebäude ist von einer niedrigen Steinmauer umgeben. Die Leute gehen außen herum und kommen neben dem Haus hinein.",
+    "Über dem Thron spannt sich ein großes Fell auf vier Stangen und gibt dem Anführer Schatten.",
+    "Das Feuer am Hauptgebäude ist größer, hat einen Holzstoß und brennt sichtbar Tag und Nacht, solange Stämme da sind. Nur dieses Feuer schützt, die Feuer vor den Hütten sind Kochfeuer."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "0f2f569b8561a098c8d37c86d821bdf57746c6fd2b8ea825ea21aea1163a0621",
-  "version": "0.85.0"
+  "sha256": "f26e4767e89bae618b6886bbf6c20c8347aacdc7f9fa458a876f447e48a7171e",
+  "version": "0.86.0"
 }
