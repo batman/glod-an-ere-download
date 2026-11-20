@@ -1,13 +1,14 @@
 {
   "engine": "4.3",
   "notes": [
-    "Fehler behoben: Zog ein wildes Tier erst in der Nacht ab, blieben alle, die gekämpft hatten, am nächsten Morgen auf dem Kampfplatz stehen, auch die Bauhelfer. Dann bekam keine Baustelle mehr Material und keine neue Fahne wurde frei gemacht. Jetzt gehen alle am Morgen wieder an ihre Arbeit, auch in einem Spielstand, in dem sie schon festhängen.",
-    "Ziehen in einer Hungersnot mehrere Familien kurz nacheinander fort, kostet nur die erste 25 Ansehen, jede weitere innerhalb von 10 Minuten nur noch 5.",
-    "Die Meldungen „Die Bewohner hungern“ und „Die Bewohner sind verärgert“ gibt es nicht mehr. Dafür steht in der Leiste unten die Zahl einer Nahrung rot, sobald nichts mehr davon da ist: Früchte, Fisch und Fleisch je für sich.",
-    "Das Fenster „Entscheidung“ ist neu: Alle Wartenden stehen untereinander, ohne Reiter, und alles steht in Worten da: wer es ist, was er mitbringt, wo er wohnen würde (zu jemandem, der allein wohnt, in eine leere Hütte, oder warten am Feuer) und was ein Nein kostet. Darunter zwei gleich große Knöpfe: Aufnehmen und Abweisen.",
-    "Ein Paar kommt nur noch, wenn eine Hütte leer steht oder eine Wohnhütte gebaut wird. Und ein Nein kostet kein Ansehen mehr, wenn für den Bewerber sowieso kein Platz frei ist."
+    "Wilde Tiere neu: Das Tier nimmt Reißaus, sobald genug Leute um es herumstehen, 10 bei Wölfen und 20 beim Bären. Ein Krieger zählt wie drei Dorfbewohner. Die Kerben mit der Kraft des Tieres gibt es nicht mehr, Steine werfen sie weiter.",
+    "Ist ein Jäger oder ein Krieger dabei, lässt das Tier Fleisch und Fell liegen. Die Bauhelfer tragen es ins nächste Lager.",
+    "Beim Horn bricht der Anführer mit seinen beiden Leibwachen auf. Er geht langsamer als alle anderen, aber wo er ankommt, weicht jedes Tier, immer mit Fleisch und Fell. So schafft auch ein kleines Dorf jedes Tier.",
+    "Fackeln: Beim Alarm läuft jeder zuerst zum nächsten Feuer, zündet sich eine Fackel an und zieht mit ihr zum Tier. Die Feuer vor den Hütten flammen dafür auf.",
+    "Die Nacht beendet keinen Kampf mehr: Das Tier zieht nicht mehr von selbst ab, und wer draußen gegen es steht, bleibt mit der Fackel im Dunkeln, bis es vertrieben ist.",
+    "Statt der Glocke oben liegt beim Alarm jetzt ein großes Horn unten rechts auf der Leiste, neben dem Hammer. Antippen fährt zum Tier."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "41bcd3484c99d3e458107a252c7b3b7c5d4045a38faee0e415c5fd2cafb4e247",
-  "version": "0.88.0"
+  "sha256": "b888980bb37aabff113e1258717cb3fa4cd8441bdce48b2a6785f964db0b93bf",
+  "version": "0.89.0"
 }
