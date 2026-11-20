@@ -1,12 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Jagd ohne Anschleichen: Der Jäger sucht sich ein Reh, es wartet grasend auf ihn, und er erlegt es jedes Mal. Er bringt 1 Fell und 3 Fleisch, etwa 8 bis 10 Rehe am Tag.",
-    "Ist kein Platz für Fleisch, jagt der Jäger trotzdem und bringt nur das Fell heim. Das Reh bleibt im Wald liegen, bis es nach 3 Minuten weg ist. Solange es dort liegt, kommen in der Nähe eher Wölfe oder ein Bär.",
-    "Kein Stau mehr an den Gebäuden: Kann eine Ware nirgends hin (zum Beispiel Stämme, weil der Holzplatz am Hauptgebäude voll ist), bleibt nur sie liegen. Nahrung und Felle dahinter gehen trotzdem los.",
-    "Die Hütte sagt jetzt, warum ihre Leute hungern: bei welcher Mahlzeit und wo es nichts gab."
+    "Das Hauptgebäude ist jetzt auch ein Lager: vorne kleine Ablageplätze (je 6), die mit Fahnen verbunden werden, hinten im Halbkreis die Lagerfläche mit 60 Plätzen je Ware. Seine Grundfläche ist dafür größer.",
+    "Neuer Bewohner im Hauptgebäude: der Lagermeister. Er trägt, was auf die Ablage kommt, auf die Lagerfläche und holt von dort, was über die Fahnen hinaus soll. Auch jedes Lager braucht einen Lagermeister, sonst fasst es nur, was auf seine Ablageplätze passt.",
+    "Jede Ware ist zu sehen, ein Stück für jede: Holzstöße, Steinhaufen, gerollte Felle, Speere in Reihen, Körbe mit Früchten, Fisch und Fleisch an Trockengestellen.",
+    "Die Bewerber sitzen auf Holzklötzen vor dem Thron, ihr Mitbringsel liegt vor ihnen. Ein Antippen öffnet die Karte „Entscheidung“: jeder Bewerber auf einem eigenen Reiter, mit Aufnehmen und Abweisen.",
+    "Der Thron steht jetzt auf der Grundfläche des Hauptgebäudes."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "fc6498974c92f10d57e0bbc1e2df41f84bddac804a7170a66ea1bb7ae9a86352",
-  "version": "0.79.0"
+  "sha256": "5f8a72a8cf9747a5bc717a3ae244128dcd9d9e0883481a1f8834e5038f658bad",
+  "version": "0.80.0"
 }
