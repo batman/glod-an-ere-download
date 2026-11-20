@@ -1,15 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Die Leiste unten ist neu: ein unförmiges Stück dunkler Schiefer, das sich um jede Ware, die Bewohner und die freien Hütten ausbeult. Kreidestriche trennen die Gruppen.",
-    "Jede Ware liegt als kleiner Stapel da, die Zahl steht darunter.",
-    "Bewohner: Männer und Frauen in den Hütten getrennt (ohne Kinder und ohne die Leute im Hauptgebäude). Freie Plätze: leere Hütten, Hütten, in denen ein Mann fehlt, und Hütten, in denen eine Frau fehlt.",
-    "Aus „Ruf“ wird überall „Ansehen“. Es steht als Rinne mit Zeiger in der Leiste. Das Tempo stellst du mit einem Kiesel in einer Mulde ein.",
-    "Bauen: ein runder Knopf rechts mit einem großen Steinhammer.",
-    "Aller Schiefer im Spiel ist dunkler und echter: fast schwarz, mit Spaltflächen und abgeplatzten Schichten am Rand.",
-    "„Felder zeigen“ und die Leistungsanzeige schaltest du jetzt im Spielmenü. Die Leistungsanzeige steht in normaler Schrift."
+    "Das Baumenü ist kein Fenster mehr: Tippst du auf den Hammer, dreht sich eine dunkle Schieferplatte um ihn ein, und weiße Steinstücke marschieren nacheinander darauf, die Fahne und fünf Gruppen in zwei Reihen.",
+    "Die Gruppen sind Wohnen, Nahrung, Handwerk, Lager und Dorf. Tippst du eine an, dreht sich weiter außen eine weiße Platte mit schwarzen Stücken für ihre Gebäude ein.",
+    "Das gewählte Gebäude hat einen Goldrand. Seine Kosten stehen im Hammerkreis auf einer weißen Schiefertafel, rot, wo zu wenig da ist.",
+    "Ein kleines X rechts am Rand nimmt eine Platte wieder weg. Hammer, Rechtsklick und Esc schließen alles."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "133223690087369563ced1cfe28ebea5e6af9864bcdf16d8f31dc7cee42091b7",
-  "version": "0.83.0"
+  "sha256": "f16e436581e0c96518ecf269aea127f79ee8f91be3d7231d24401f85f5325b8c",
+  "version": "0.84.0"
 }
