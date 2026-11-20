@@ -1,15 +1,19 @@
 {
   "engine": "4.3",
   "notes": [
-    "Niemand streikt mehr: Wer hungert, arbeitet langsamer, verärgert halb so schnell, auch der Bautrupp. Erst nach drei Tagen Hunger fragt man noch einmal am Hauptgebäude und geht fort, wenn es dort nichts gibt.",
-    "Hungert der Bautrupp, zeigt der Warnstein über der Baustelle die Schale statt des Hammers.",
-    "Niemand läuft mehr durch Gebäude, die Mauer oder Ablageplätze. In ein Gebäude geht man nur durch den Eingang.",
-    "Überall dieselbe Hinweisplatte beim Drüberhalten, auch im Baumenü.",
-    "Das Hauptgebäude zeigt nur noch Aktionen.",
-    "Die Entscheidung geht auch nachts und ist ein Bild: freie Hütten, wer gesucht wird, jeder Bewerber mit seinen Gaben, Haken und X. Die Gaben sind größer und gemischt.",
-    "Rechtsklick schließt jedes Fenster wieder, auch über dem Fenster."
+    "Essensausgabe: Am Hauptgebäude und an jedem Nahrungslager gibt es eine Theke aus Stein. Abends holt der Mann jeder Hütte dort Abendessen und Frühstück für alle, die Familie wartet am Feuer. Man steht geduldig an, solange es Essen gibt. Morgens frühstückt die Familie gemeinsam daheim.",
+    "Das Hauptgebäude hat 2 Lagermeister (nach dem Ausbau 4), jedes Lager 2. Lager bekommen ihre Lagermeister jetzt wirklich. Freie Bauhelfer helfen am Hauptgebäude beim Räumen.",
+    "Ein voller Ablageplatz nimmt nichts mehr an. Ein Lager ohne Lagermeister zeigt das am Warnstein.",
+    "Das Hauptgebäude fasst 30 je Ware, Nahrung 30 zusammen, ein Lager deutlich mehr.",
+    "Der Jäger überfüllt keinen Platz mehr. Die Försterin wartet still, wenn sie nichts zu pflanzen findet.",
+    "Zwischen zwei Gebäuden liegt immer ein Pufferfeld. Wege und Fahnen liegen nie auf der Grundfläche eines Gebäudes. Grundfläche und Puffer werden freigeräumt. Das Hauptgebäude hat weniger Grundfläche.",
+    "Die Fischerhütte steht direkt am Ufer.",
+    "Beim Bauen: die Kreise aller Fahnen, über jedem Ablageplatz ein Haken oder ein X. Der Kompass ist aus Stein.",
+    "Planansicht (Knopf neben dem Hammer): Gebäude weiß, Puffer hellblau, Wege mittelblau, Fahnen dunkelblau, Fahnenkreise, farbige Ablageplätze und gestrichelte Verbindungen.",
+    "Die Leiste: Waren links, Bewohner und freie Hütten auf einer hellen Tafel in der Mitte, Ansehen und Tempo rechts, Spielmenü ganz rechts. Neben der Karte ist sie wieder flach.",
+    "Die Feuer vor den Hütten brennen die halbe Nacht und schützen die Hütte. Nachts kommen Tiere zu dunklen Hütten, das Horn weckt das Dorf."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "130816906656c237f5e3d90c45fd9fb47ae0a836ed12d3203fb64cc2ccaf38ee",
-  "version": "0.92.0"
+  "sha256": "c3c5af4284094dfea9cf3072b8d5544ab2e9d9df1ae2990568592009b5063905",
+  "version": "0.93.0"
 }
