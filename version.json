@@ -1,13 +1,15 @@
 {
   "engine": "4.3",
   "notes": [
-    "Das Hauptgebäude in neuem Fell: Seine große Haut ist jetzt mit gemalten Fellen belegt wie das Wohnhaus, viele einzelne Felle in verschiedenen Farben, wie Schindeln übereinander.",
-    "Auch die Kaserne, das Dach der Viehzucht (helle Schaffelle) und die Hütte des Schamanen haben die gemalten Felle bekommen.",
-    "Über dem Eingang des Hauptgebäudes hängt ein richtiger Elchschädel mit breiten Geweihschaufeln und Zacken, mit Riemen an den Balken gebunden.",
-    "Rauch steigt als weiche, durchscheinende Schwaden auf und löst sich auf, am Hauptgebäude und an den Feuerstellen.",
-    "Vor dem Hauptgebäude ist aufgeräumt: nur noch eine große Feuerstelle, dort wo die Bewohner sitzen, mit Abstand zu Thron und Ablageplätzen. Die beiden Holzgestelle hinter dem Haus sind weg."
+    "Drei Lager statt einem: das Nahrungslager (180 Nahrung, je Sorte 60), das Holz- und Steinlager und das Fell- und Speerlager (je 60 Stämme und Steine oder Felle und Speere).",
+    "Essen am Nahrungslager: Abends holt jeder auf dem Heimweg das Abendessen für sich und seine Kinder am nächsten Nahrungslager und isst daheim am Feuer. Morgens frühstückt er direkt am Nahrungslager. Das Hauptgebäude zählt als Nahrungslager.",
+    "Die Hütte hat keinen Nahrungsplatz mehr und braucht deshalb keine Fahne und keinen Weg.",
+    "Nahrung wird im Korb getragen: bis zu 3 Portionen auf einmal.",
+    "Am Forstgebäude passen 20 Nahrung auf den Platz statt 6.",
+    "Verärgerte bitten am Nahrungslager um Essen statt am Hauptgebäude.",
+    "Alte Spielstände gehen mit dieser Version nicht mehr."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "c8ec49c3bc0f96fc027b3037abda908747e58c497df2d4539416db9c40960220",
-  "version": "0.66.0"
+  "sha256": "16cf94749bdcb1e1ec940f097dd2da1f725140ad3553ad3823420a6570b29a3d",
+  "version": "0.67.0"
 }
