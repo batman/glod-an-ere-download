@@ -1,11 +1,10 @@
 {
   "engine": "4.3",
   "notes": [
-    "Das Festmahl am Hauptgebäude gibt es nicht mehr. Der Ruf steigt nur noch, wenn alle satt sind. Feiern am Ritualplatz kommen später.",
-    "Das Spiel läuft etwa doppelt so flüssig: Die Kreide in Leiste und Fenstern wird jetzt in einem Zug gezeichnet statt Strich für Strich.",
-    "Der Problemstein über den Gebäuden ist größer, hat sanft abgerundete Ecken und dreht sich nur noch ruhig. Er wippt und pulsiert nicht mehr. Hunger, Ärger und ein erloschenes Feuer leuchten ruhig heller."
+    "Baustellen sehen anders aus: Statt der Pfähle steht das fertige Gebäude gleich blass und durchsichtig da und wird beim Bauen immer fester, bis es fertig ist. Bis dahin gehen die Leute einfach hindurch.",
+    "Statt des grünen Balkens zeigt ein Baustellenschild aus Schiefer, wie weit es ist: ein Kreidekasten füllt sich mit Kreide, mit einer Axt beim Roden und einem Hammer beim Bauen. Ist das Gebäude fertig, ist das Schild weg."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "d240ffb3875d5a38fcd3e1ad0ce08d1024b344b15b9f442bcf89277c45f43531",
-  "version": "0.70.0"
+  "sha256": "0aeb6e1ea5b90ac0c5188e119575daa577fbff2d6fb7815ec6e198852301edf4",
+  "version": "0.71.0"
 }
