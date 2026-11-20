@@ -1,13 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Jede Hütte hat jetzt einen kleinen Hof. Das Feuer liegt etwas weiter vor dem Eingang, und rundherum steht für jeden Bewohner ein Sitzklotz: ein großer für Erwachsene, ein kleiner für Kinder. Abends sitzt jeder auf seinem.",
-    "An jeder Hütte sieht man, was ihre Bewohner arbeiten, zum Beispiel ein Geweih beim Jäger, eine Axt im Hackklotz beim Holzfäller, eine Reuse bei der Fischerin, eine Strohfigur beim Speerträger oder eine Zielscheibe beim Steineschmeißer.",
-    "Jäger und Försterin haben einen Hund. Der Hund des Jägers läuft den ganzen Tag mit ihm mit, der Hund der Försterin bewacht die Hütte.",
-    "Neben jeder Hütte trocknet ein aufgespanntes Fell, und jede Hütte hat eine eigene Nutzpflanze: Holzapfel, Wildbirne, Hasel, Holunder oder ein Beet mit Erbsen, Mohn, Lein oder Bärlauch. Wo Kinder wohnen, liegt Spielzeug herum. Keine Hütte gleicht ganz der anderen.",
-    "In der Landschaft liegen Findlinge, Steine, Blumen, bemooste Stämme, Pilze und Farn, ab und zu ein altes Gerippe, am Strand Treibholz und Muscheln."
+    "Fehler behoben: Zog ein wildes Tier erst in der Nacht ab, blieben alle, die gekämpft hatten, am nächsten Morgen auf dem Kampfplatz stehen, auch die Bauhelfer. Dann bekam keine Baustelle mehr Material und keine neue Fahne wurde frei gemacht. Jetzt gehen alle am Morgen wieder an ihre Arbeit, auch in einem Spielstand, in dem sie schon festhängen.",
+    "Ziehen in einer Hungersnot mehrere Familien kurz nacheinander fort, kostet nur die erste 25 Ansehen, jede weitere innerhalb von 10 Minuten nur noch 5.",
+    "Die Meldungen „Die Bewohner hungern“ und „Die Bewohner sind verärgert“ gibt es nicht mehr. Dafür steht in der Leiste unten die Zahl einer Nahrung rot, sobald nichts mehr davon da ist: Früchte, Fisch und Fleisch je für sich.",
+    "Das Fenster „Entscheidung“ ist neu: Alle Wartenden stehen untereinander, ohne Reiter, und alles steht in Worten da: wer es ist, was er mitbringt, wo er wohnen würde (zu jemandem, der allein wohnt, in eine leere Hütte, oder warten am Feuer) und was ein Nein kostet. Darunter zwei gleich große Knöpfe: Aufnehmen und Abweisen.",
+    "Ein Paar kommt nur noch, wenn eine Hütte leer steht oder eine Wohnhütte gebaut wird. Und ein Nein kostet kein Ansehen mehr, wenn für den Bewerber sowieso kein Platz frei ist."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "561a6c1f01f3d8033ca9ff1f042bcc666abe0725276ef44010b1e8faa6e6f447",
-  "version": "0.87.0"
+  "sha256": "41bcd3484c99d3e458107a252c7b3b7c5d4045a38faee0e415c5fd2cafb4e247",
+  "version": "0.88.0"
 }
