@@ -1,13 +1,10 @@
 {
   "engine": "4.3",
   "notes": [
-    "Neuer Kreidestil, Schritt 1: Alles Weiße wird jetzt wie von Hand mit Kreide gemalt – erst ein dünner Rahmen ringsherum, dann Runde um Runde nachgezogen, dann die Fläche Strich für Strich hin und her, waagerecht, senkrecht und schräg, bis sie weiß ist. Keine Linie ist gerade.",
-    "Leiste unten: Waren, Bewohner und Ruf liegen je auf einem langen weißen Kreidefeld, das sich bei Spielbeginn selbst malt. Die Waren haben einen kleinen Schatten, die Zahlen sind mit Kohle geschrieben; unter der Maus unterstreicht ein Kohlestrich die Ware.",
-    "Knöpfe: Unter der Maus malt die Hand den Knopf weiß aus, Zeichen und Wort werden dann zu Kohle. Eingeschaltete Knöpfe bleiben ausgemalt.",
-    "Gebäudebilder im Baumenü: immer waagerecht und senkrecht ausgemalt, der Name in Kohle; das gewählte bekommt die schrägen Striche dazu. Unter der Maus wird der Name unterstrichen.",
-    "Bewohner in den Gebäudefenstern, freie Plätze, Namensfelder und Lagerplätze haben nur einen gemalten Kreiderahmen."
+    "Neuer Kreidestil, Schritt 2: Der Hinweis beim Drüberhalten ist eine flache Schieferplatte mit deutlichem Schatten und mehr Platz um die Schrift. Er steht immer über der Maus, nie darunter, und eine kleine Steinspitze zeigt auf das, worauf du zeigst.",
+    "Sonne und Mond am Kartenring sind jetzt gemalt: eine glühende Sonne mit weichem Strahlenkranz, ein Mond mit Kratern in seiner Phase. Beide liegen über der Karte statt darunter."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "ab8b6ac5e1152f8ea1160597a16aab17536546c556d34feecf1ff74c93f130c5",
-  "version": "0.68.0"
+  "sha256": "3ff9167c5d67c9d2bc0b6dc0772b6c869bab52b252248acf2061138da0cf3cb3",
+  "version": "0.69.0"
 }
