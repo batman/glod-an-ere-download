@@ -1,12 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Große Kinder ziehen nicht mehr von selbst aus. Sie setzen sich vor den Thron und bitten, allein oder als Paar aus zwei Hütten. Geschwister sind nie ein Paar.",
-    "Gibt es eine Hütte, bitten sie darum. Sonst bitten sie um Reisewaren und verlassen nach dem Ja das Dorf: +5 Ansehen je Person.",
-    "Jedes Nein kostet 3 Ansehen. Der Wunsch allein kostet nichts mehr.",
-    "Was Bewerber mitbringen und große Kinder verlangen, wächst mit dem Reichtum des Dorfes."
+    "Beim Setzen eines Gebäudes verschwindet kein Dickicht mehr von selbst, auch nicht auf der Weide der Viehzucht: Die Bauhelfer roden es.",
+    "Ein Paar bekommt ein Kind erst nach etwa 40 Minuten, das nächste wieder 40 Minuten danach, und im Leben höchstens 4 Kinder.",
+    "Im Hauptgebäude wohnen ein Lagermeister und eine Lagermeisterin als Paar.",
+    "Ein Nein zu einem großen Kind am Thron kostet nichts mehr.",
+    "Försterin, Sammlerin und Hirtin heißen in allen Texten so."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "ec622418ade6726834211c2d861d2d17d8368ea0548bbdf1cfdf936738fe1ad0",
-  "version": "0.97.0"
+  "sha256": "5745e8b62a7c3c1b75ae3557c03b69bebb4804eb5be5b25518b7493307382a1d",
+  "version": "0.98.0"
 }
