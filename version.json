@@ -1,13 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Jede Nahrungssorte hat ihren eigenen Ablageplatz: Früchte, Fisch und Fleisch, an jedem Gebäude, am Hauptgebäude und in den Lagern. Jeder wird für sich mit Fahnen verbunden. Das Nahrungslager fasst 60 von jeder Sorte.",
-    "Fisch kommt nicht mehr im Korb: drei Fische an einer Schnur durch die Kiemen.",
-    "Die Körbe am Forstgebäude sind leer und sehen aus wie die Nahrungskörbe.",
-    "Lager haben 4 Lagermeister-Plätze wie die Arbeitsplätze: 2 feste, 2 weitere besetzt man selbst.",
-    "Das Fell- und Speerlager liegt in einer Trockenmauer mit Fackeln, das Holz- und Steinlager hinter einer Wand aus Stämmen, das Nahrungslager ist offen. Nur die Lagermeister kommen hinein."
+    "Das Hauptgebäude ist neu aufgeteilt, genau nach dem Plan: 25 Kacheln, das ovale Haus in der Mitte, Felle und Speere in einem U aus Steinmauer mit zwei Fackeln, Stämme und Steine in einem U aus Stämmen, die Nahrung hinten offen.",
+    "Die Theke steht beim großen Feuer, der Thron seitlich mit drei Holzklötzen davor, die Speere frei auf dem Boden.",
+    "Hinter dem Haus steht eine feste Fahne mit allen Ablageplätzen verbunden. Sie lässt sich nicht abreißen, ein Weg nach hinten genügt.",
+    "Ihr fester Fahnenwart wohnt im Hauptgebäude und kündigt nie.",
+    "Nur der Sitz des Throns sperrt; um die Leibwachen und die Speere herum darf man gehen."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "c70dddf88c661e988f830c911abe0c3b080f452cea64592b4d7e73a39730eb7b",
-  "version": "0.95.0"
+  "sha256": "d6427a6ca9e7b3ce071426dce1a5ab64e3c7b8eebf43504be56ded092e40b008",
+  "version": "0.96.0"
 }
