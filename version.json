@@ -1,10 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Fischen und Schamane werden dürfen jetzt Männer und Frauen.",
-    "Jeder Beruf heißt so, wie es zu dem passt, der ihn hat: Fischerin, Schamanin, Lagermeisterin, Läuferin, Fahnenwartin."
+    "Neu im Baumenü: Männerhaus und Frauenhaus, mittlere Langhäuser mit je 6 Kammern für Alleinstehende.",
+    "Einziehen dürfen große Kinder, die am Thron um eine Kammer bitten, und einzelne Bewerber, wenn keine Hütte frei ist.",
+    "Das Haus versorgt sich selbst: Im Frauenhaus pflückt eine Sammlerin Beeren und setzt neue Sträucher, im Männerhaus jagt ein Jäger. Wer nichts anderes zu tun hat, hilft mit.",
+    "Die Bewohner essen zuerst, was ihr Haus gemacht hat, sind etwas traurig und übernehmen nur einfache Berufe.",
+    "Ist eine Hütte frei, bittet jemand aus dem Haus am Thron darum, allein oder als verliebtes Paar, und bietet Beeren, Fleisch oder Felle an. Ein Nein kostet nichts."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "b61006171dbbf1f2eadad2bdbc13f439d91a755b76ab5b1e5f8e856b8e9b06b4",
-  "version": "0.99.0"
+  "sha256": "6c792f444a730b2c1c2d5aa3e89870db042aaf97b5e8b85b5ac29fda209a614c",
+  "version": "0.99.1"
 }
