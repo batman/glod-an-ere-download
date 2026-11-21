@@ -1,15 +1,11 @@
 {
   "engine": "4.3",
   "notes": [
-    "Alle Fenster neu: Jedes Fenster ist eine einzige Seite ohne Reiter (nur das Hauptgebäude hat noch drei: „Meinung des Volkes“, Leute, Aktionen). Das Fenster ist nur so hoch wie das, was darin steht.",
-    "Knöpfe sagen in Worten, was sie tun, und haben einen dünnen Kreiderahmen. Abreißen fragt in einem kleinen Fenster nach: Ja oder Nein.",
-    "Leute als Medaillen: Ein freier Platz ist die Medaille mit einem Plus, wer da ist, hat ein Minus zum Abziehen. Im Forstgebäude ruft man jeden Beruf mit einem eigenen Knopf, eine Försterin gibt es höchstens einmal.",
-    "Baustellen zeigen „Die Baustelle wartet auf Rohstoffe.“ und jede Ware als 0/4. Lager, Fahnen, Ablageplätze und Stapel zeigen ihre Waren als Zahl, zum Beispiel 20/60.",
-    "Das Fenster lässt sich am Namen verschieben und mit dem Strich neben dem X einklappen. Es bleibt immer zu einem Drittel im Bild und liegt hinter der Leiste. Es ist immer nur ein Fenster offen.",
-    "Umbauen gibt es nicht mehr. Ein Warndreieck gibt es nur noch bei echten Problemen; das Fenster des Gebäudes sagt oben in Worten, was los ist.",
-    "Das Fenster einer Person hat „Hingehen“ und sagt, was sie tut, seit wann und was danach kommt. Das Fenster „Freie Hütten“ gibt es nicht mehr."
+    "Fotos der Bewohner: Jeder Bewohner hat jetzt ein Bild, wie er im Spiel aussieht – Kopf und Schultern, mit seinen Haaren, seinem Bart, der Farbe seines Umhangs, der Krone des Anführers und dem Bärenfell der Leibwachen.",
+    "Die Fotos stehen in allen Fenstern statt der gezeichneten Köpfe: in der Hütte, im Hauptgebäude, an den Arbeitsplätzen, im Fenster der Person und bei der Entscheidung am Thron. Ein Klick auf ein Foto öffnet das Fenster dieser Person.",
+    "Freie Plätze zeigen weiter die gezeichnete Medaille mit dem Plus."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "0dab93d81f42bf35d67927bc8742f80a60e3e9e328265aa7a80687f88542632a",
-  "version": "0.99.13"
+  "sha256": "4111d840f97b3b9ccefd97387133998f2b660f644469722dc0384700a69b93bd",
+  "version": "0.99.14"
 }
