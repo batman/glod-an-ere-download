@@ -1,11 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Das Hauptgebäude hat einen eigenen Reiter für Roderinnen und Kundschafter.",
-    "Roderin: Mit dem Plus kommt ein Platz dazu. Sie rodet das Dickicht in den Feuerkreisen, zuerst nah am Hauptgebäude; solange eine da ist, wächst dort nichts wieder zu.",
-    "Kundschafter: Der Knopf schickt einen freien Mann mit 1 Speer, 1 Fell und 1 Nahrung los. Er erkundet das Land rund um das Dorf und ist bei Einbruch der Nacht für immer fort."
+    "Neue Schrift: Alles im Spiel steht jetzt in einer altertümlichen, aber gut lesbaren Schrift, auch Zahlen und Hilfen.",
+    "Begrüßung: Beim Start und beim Weiterspielen begrüßt dich ein Fenster mit deinem Namen, dem Ziel der Karte und den ersten Schritten. Das Spiel steht still, bis du „Los geht's“ drückst.",
+    "Das Spiel merkt sich die gewählte Geschwindigkeit und läuft nach dem Laden darin weiter.",
+    "Im Spielmenü öffnet das Ziel die Begrüßung noch einmal."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "5fd4764a2ca0a4c13cab2600c33f5a9548facf0609a6f63fd1197e3e4d74f337",
-  "version": "0.99.2"
+  "sha256": "ffb4b135b52be6d0c5895a40e27d037f20b0b7b67bb1ac11e7fc6f87b7034f27",
+  "version": "0.99.3"
 }
