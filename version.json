@@ -1,13 +1,11 @@
 {
   "engine": "4.3",
   "notes": [
-    "Neu im Baumenü: Männerhaus und Frauenhaus, mittlere Langhäuser mit je 6 Kammern für Alleinstehende.",
-    "Einziehen dürfen große Kinder, die am Thron um eine Kammer bitten, und einzelne Bewerber, wenn keine Hütte frei ist.",
-    "Das Haus versorgt sich selbst: Im Frauenhaus pflückt eine Sammlerin Beeren und setzt neue Sträucher, im Männerhaus jagt ein Jäger. Wer nichts anderes zu tun hat, hilft mit.",
-    "Die Bewohner essen zuerst, was ihr Haus gemacht hat, sind etwas traurig und übernehmen nur einfache Berufe.",
-    "Ist eine Hütte frei, bittet jemand aus dem Haus am Thron darum, allein oder als verliebtes Paar, und bietet Beeren, Fleisch oder Felle an. Ein Nein kostet nichts."
+    "Das Hauptgebäude hat einen eigenen Reiter für Roderinnen und Kundschafter.",
+    "Roderin: Mit dem Plus kommt ein Platz dazu. Sie rodet das Dickicht in den Feuerkreisen, zuerst nah am Hauptgebäude; solange eine da ist, wächst dort nichts wieder zu.",
+    "Kundschafter: Der Knopf schickt einen freien Mann mit 1 Speer, 1 Fell und 1 Nahrung los. Er erkundet das Land rund um das Dorf und ist bei Einbruch der Nacht für immer fort."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "6c792f444a730b2c1c2d5aa3e89870db042aaf97b5e8b85b5ac29fda209a614c",
-  "version": "0.99.1"
+  "sha256": "5fd4764a2ca0a4c13cab2600c33f5a9548facf0609a6f63fd1197e3e4d74f337",
+  "version": "0.99.2"
 }
