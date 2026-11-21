@@ -1,14 +1,15 @@
 {
   "engine": "4.3",
   "notes": [
-    "Feierabend erst nach dem Wegbringen: Wer bei Einbruch der Nacht eine Ware trägt, bringt sie noch an ihr Ziel und geht dann heim. Niemand steht mehr mit Waren in den Armen an der Essensausgabe.",
-    "Ein Fehler ist behoben: Wen die Nacht beim Bücken zu einem Platz erwischte, stand danach jeden Tag mit seiner Ware davor und legte sie nie ab (so ging zum Beispiel eine Feuerstelle aus).",
-    "Neu ist der Wächter: Er schaut alle paar Sekunden nach, ob jemand feststeckt oder sinnlos herumsteht, und schickt ihn zurück an seine Arbeit. Was er trägt, legt er als freie Ware ab, die Bauhelfer holen sie. Jeder Eingriff steht im Protokoll.",
-    "König oder Königin: Bei einem neuen Spiel wählst du, ob du ein Mann oder eine Frau bist. Eine Königin bekommt mit dem Ausbau ihren Mann dazu. Nur wer das Dorf führt, trägt die Krone, der Partner ein goldenes Band.",
-    "Ein Reh, das im Wald liegen bleibt, weil das Fleisch keinen Platz hat, sieht man nicht mehr. Es lockt aber weiter Wölfe und Bären an.",
-    "Die Meldung, dass sich jemand langweilt, sagt bei Frauen jetzt richtig „Eine … Sie …“."
+    "Alle Fenster neu: Jedes Fenster ist eine einzige Seite ohne Reiter (nur das Hauptgebäude hat noch drei: „Meinung des Volkes“, Leute, Aktionen). Das Fenster ist nur so hoch wie das, was darin steht.",
+    "Knöpfe sagen in Worten, was sie tun, und haben einen dünnen Kreiderahmen. Abreißen fragt in einem kleinen Fenster nach: Ja oder Nein.",
+    "Leute als Medaillen: Ein freier Platz ist die Medaille mit einem Plus, wer da ist, hat ein Minus zum Abziehen. Im Forstgebäude ruft man jeden Beruf mit einem eigenen Knopf, eine Försterin gibt es höchstens einmal.",
+    "Baustellen zeigen „Die Baustelle wartet auf Rohstoffe.“ und jede Ware als 0/4. Lager, Fahnen, Ablageplätze und Stapel zeigen ihre Waren als Zahl, zum Beispiel 20/60.",
+    "Das Fenster lässt sich am Namen verschieben und mit dem Strich neben dem X einklappen. Es bleibt immer zu einem Drittel im Bild und liegt hinter der Leiste. Es ist immer nur ein Fenster offen.",
+    "Umbauen gibt es nicht mehr. Ein Warndreieck gibt es nur noch bei echten Problemen; das Fenster des Gebäudes sagt oben in Worten, was los ist.",
+    "Das Fenster einer Person hat „Hingehen“ und sagt, was sie tut, seit wann und was danach kommt. Das Fenster „Freie Hütten“ gibt es nicht mehr."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "9ba4baa00f7741c1efb941295cb0c826003fc2c2e073a422d9d04657299eeee3",
-  "version": "0.99.12"
+  "sha256": "0dab93d81f42bf35d67927bc8742f80a60e3e9e328265aa7a80687f88542632a",
+  "version": "0.99.13"
 }
