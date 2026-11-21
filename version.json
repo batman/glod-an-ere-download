@@ -1,12 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Man hilft sich: Ist der Platz eines Arbeiters voll und holt niemand die Ware ab, bringt er sie selbst zur nächsten Fahne, von der aus sie ihr Ziel erreicht, und arbeitet dann weiter.",
-    "Hat ein Pfad noch keinen Läufer, springt der Fahnenwart an seinem Ende ein. Er schlägt den Pfad frei, bringt Waren zur anderen Fahne und holt sich welche von dort.",
-    "Hat eine Fahne keinen Fahnenwart, hilft ein Läufer von einem ihrer Pfade aus, wenn er gerade nichts zu tragen hat.",
-    "Pfade wachsen nicht mehr zu. Ohne Läufer wächst nur das Dickicht neben dem Pfad heran."
+    "Überall, wo ein Mann, eine Frau, ein Paar oder ein Kind gezeigt wird, stehen jetzt die gezeichneten Köpfe auf einer hellen Steinscheibe, ein Paar als Mann und Frau nebeneinander.",
+    "Hinter dem Thron steht ein hoher Mast mit einem Fellbanner. In der Karte des Hauptgebäudes kannst du es hissen, wenn eine Hütte frei ist. Ist die letzte freie Hütte vergeben, wird es von selbst eingeholt.",
+    "Banner gehisst: Junggesellen, Paare und selten eine Frau folgen ihm ohne Gaben und wollen eine Hütte, keine Kammer. Ein Nein kostet nichts. Finden sie nach dem Ja keine Hütte, ziehen sie weiter und das kostet Ansehen.",
+    "Banner eingeholt: Es kommen nur Bewerber, die um Aufnahme bitten und dafür Gaben mitbringen.",
+    "Selten flieht eine Familie mit Kindern aus einem überfallenen Dorf und bittet um Zuflucht, auch wenn keine Hütte frei ist. Sie bringt nichts mit, und sie abzuweisen kostet viel Ansehen. Nach dem Ja wartet sie, bis eine Hütte leer ist."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "fbc5c54c06839676b828e0deb621673c6f206b96dbd54c2ba8e1629d7b6ce20b",
-  "version": "0.99.7"
+  "sha256": "bbb5ed35254d5ba6c4ded7f1a5b9b0e404a83dc8eebf7f8b89b5817085ea0a46",
+  "version": "0.99.8"
 }
