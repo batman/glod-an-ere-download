@@ -1,13 +1,10 @@
 {
   "engine": "4.3",
   "notes": [
-    "Beim Setzen eines Gebäudes verschwindet kein Dickicht mehr von selbst, auch nicht auf der Weide der Viehzucht: Die Bauhelfer roden es.",
-    "Ein Paar bekommt ein Kind erst nach etwa 40 Minuten, das nächste wieder 40 Minuten danach, und im Leben höchstens 4 Kinder.",
-    "Im Hauptgebäude wohnen ein Lagermeister und eine Lagermeisterin als Paar.",
-    "Ein Nein zu einem großen Kind am Thron kostet nichts mehr.",
-    "Försterin, Sammlerin und Hirtin heißen in allen Texten so."
+    "Fischen und Schamane werden dürfen jetzt Männer und Frauen.",
+    "Jeder Beruf heißt so, wie es zu dem passt, der ihn hat: Fischerin, Schamanin, Lagermeisterin, Läuferin, Fahnenwartin."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "5745e8b62a7c3c1b75ae3557c03b69bebb4804eb5be5b25518b7493307382a1d",
-  "version": "0.98.0"
+  "sha256": "b61006171dbbf1f2eadad2bdbc13f439d91a755b76ab5b1e5f8e856b8e9b06b4",
+  "version": "0.99.0"
 }
