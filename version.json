@@ -1,12 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Neue Tafel in der Leiste: oben gezeichnete Köpfe von Mann, Frau, Junge und Mädchen, darunter wie viele davon im Dorf leben.",
-    "Offene Hand: in Rot, wie viele Männer und Frauen für wartende Arbeit fehlen. Fehlt niemand, fällt die Zeile weg.",
-    "Hütte: wie viele Männer und Frauen das Dorf noch aufnehmen kann – in leere Hütten, zu Alleinwohnenden und in freie Kammern.",
-    "Beim Drüberhalten sagt die Tafel, was jede Stelle zählt; antippen zeigt wie bisher die Hütten."
+    "Auf den Ablageplätzen liegt jede Ware richtig auf ihrem Platz, auch wenn alle 6 da sind: Körbe und Fisch auf den Stufen, Holz und Felle als kleiner Stoß, Steine und Speere mittig.",
+    "Ein Tipp auf einen Stapel im Lager zeigt die Ware, wie viel daliegt und wie viel höchstens passt.",
+    "Alle Lagerfeuer: runde Steine dicht an dicht, die Flamme aus mehreren Zungen, die jede für sich flackern.",
+    "Die Theke: Der Lagermeister legt höchstens 2 Portionen hin, der Erste in der Schlange nimmt sie und trägt das Essen sichtbar heim.",
+    "Der Stein für Bewerber schwebt über dem Thron. Bewerber kommen viel seltener, bei gutem Ansehen etwa alle 5 Minuten."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "2cd4785c6ac2ae64e040324a92e27bac2a1500a1e41fc31efd88f5d35d8acf56",
-  "version": "0.99.4"
+  "sha256": "235a272c65e6e2db1d97c89ab0ae7859e6ec4e85e922aa94de4428f9c432ea5a",
+  "version": "0.99.5"
 }
