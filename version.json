@@ -1,12 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Neue Schrift: Alles im Spiel steht jetzt in einer altertümlichen, aber gut lesbaren Schrift, auch Zahlen und Hilfen.",
-    "Begrüßung: Beim Start und beim Weiterspielen begrüßt dich ein Fenster mit deinem Namen, dem Ziel der Karte und den ersten Schritten. Das Spiel steht still, bis du „Los geht's“ drückst.",
-    "Das Spiel merkt sich die gewählte Geschwindigkeit und läuft nach dem Laden darin weiter.",
-    "Im Spielmenü öffnet das Ziel die Begrüßung noch einmal."
+    "Neue Tafel in der Leiste: oben gezeichnete Köpfe von Mann, Frau, Junge und Mädchen, darunter wie viele davon im Dorf leben.",
+    "Offene Hand: in Rot, wie viele Männer und Frauen für wartende Arbeit fehlen. Fehlt niemand, fällt die Zeile weg.",
+    "Hütte: wie viele Männer und Frauen das Dorf noch aufnehmen kann – in leere Hütten, zu Alleinwohnenden und in freie Kammern.",
+    "Beim Drüberhalten sagt die Tafel, was jede Stelle zählt; antippen zeigt wie bisher die Hütten."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "ffb4b135b52be6d0c5895a40e27d037f20b0b7b67bb1ac11e7fc6f87b7034f27",
-  "version": "0.99.3"
+  "sha256": "2cd4785c6ac2ae64e040324a92e27bac2a1500a1e41fc31efd88f5d35d8acf56",
+  "version": "0.99.4"
 }
