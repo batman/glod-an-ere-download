@@ -1,11 +1,14 @@
 {
   "engine": "4.3",
   "notes": [
-    "Fotos der Bewohner: Jeder Bewohner hat jetzt ein Bild, wie er im Spiel aussieht – Kopf und Schultern, mit seinen Haaren, seinem Bart, der Farbe seines Umhangs, der Krone des Anführers und dem Bärenfell der Leibwachen.",
-    "Die Fotos stehen in allen Fenstern statt der gezeichneten Köpfe: in der Hütte, im Hauptgebäude, an den Arbeitsplätzen, im Fenster der Person und bei der Entscheidung am Thron. Ein Klick auf ein Foto öffnet das Fenster dieser Person.",
-    "Freie Plätze zeigen weiter die gezeichnete Medaille mit dem Plus."
+    "Das Fest am Ritualplatz ersetzt das Opfer für die Ahnen: „Kleines Fest“ (10 Fleisch, 2 Stämme, +10 Ansehen, es kommen die Leute aus den Hütten) oder „Großes Fest“ (20 Fleisch, 4 Stämme, +25 Ansehen, es kommt das ganze Dorf). Die Bauhelfer bringen Fleisch und Stämme, gefeiert wird bei Einbruch der Nacht am hohen Feuer.",
+    "Wer beim Fest war, ist satt, Hunger und Ärger sind weg, und er arbeitet einen Tag lang etwas schneller. Das nächste Fest geht erst in der dritten Nacht danach. Der Ritualplatz nimmt nur noch Fleisch an.",
+    "Viehzucht: bis zu 4 Hirtinnen. Je mehr dort arbeiten, desto mehr Tiere stehen auf der Weide und desto mehr Fleisch und Felle gibt sie. Die Weide bleibt gleich groß.",
+    "Das Fenster „Ansehen“ sagt in Worten, wie es um das Dorf steht, zeigt dieselbe Anzeige wie die Leiste und hat Knöpfe: „Fest feiern“ und „Prestigebau errichten“. Unten steht, wofür das Ansehen wichtig ist.",
+    "Im Fenster einer Person steht ihre Ehre mit derselben Anzeige wie das Ansehen.",
+    "Männer- und Frauenhaus haben kein festes Gebiet mehr: Jäger und Sammlerin gehen so weit, wie sie müssen."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "4111d840f97b3b9ccefd97387133998f2b660f644469722dc0384700a69b93bd",
-  "version": "0.99.14"
+  "sha256": "fe1e8de4bd4e980e83a6da56aae85b40aa01b1138a4f11c9e1c676ead9e9efec",
+  "version": "0.99.15"
 }
