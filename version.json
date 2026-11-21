@@ -1,13 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Das Hauptgebäude ist neu aufgeteilt, genau nach dem Plan: 25 Kacheln, das ovale Haus in der Mitte, Felle und Speere in einem U aus Steinmauer mit zwei Fackeln, Stämme und Steine in einem U aus Stämmen, die Nahrung hinten offen.",
-    "Die Theke steht beim großen Feuer, der Thron seitlich mit drei Holzklötzen davor, die Speere frei auf dem Boden.",
-    "Hinter dem Haus steht eine feste Fahne mit allen Ablageplätzen verbunden. Sie lässt sich nicht abreißen, ein Weg nach hinten genügt.",
-    "Ihr fester Fahnenwart wohnt im Hauptgebäude und kündigt nie.",
-    "Nur der Sitz des Throns sperrt; um die Leibwachen und die Speere herum darf man gehen."
+    "Große Kinder ziehen nicht mehr von selbst aus. Sie setzen sich vor den Thron und bitten, allein oder als Paar aus zwei Hütten. Geschwister sind nie ein Paar.",
+    "Gibt es eine Hütte, bitten sie darum. Sonst bitten sie um Reisewaren und verlassen nach dem Ja das Dorf: +5 Ansehen je Person.",
+    "Jedes Nein kostet 3 Ansehen. Der Wunsch allein kostet nichts mehr.",
+    "Was Bewerber mitbringen und große Kinder verlangen, wächst mit dem Reichtum des Dorfes."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "d6427a6ca9e7b3ce071426dce1a5ab64e3c7b8eebf43504be56ded092e40b008",
-  "version": "0.96.0"
+  "sha256": "ec622418ade6726834211c2d861d2d17d8368ea0548bbdf1cfdf936738fe1ad0",
+  "version": "0.97.0"
 }
