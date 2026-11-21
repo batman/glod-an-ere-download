@@ -1,11 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Beim Bauen sind die Kacheln, wo ein Gebäude hinpasst, jetzt kalkweiß statt gelb.",
-    "Neu: rötel-rote Kacheln – dort steht das Gebäude ohne Puffer direkt Grundplatte an Grundplatte neben einem anderen, z. B. Hütten dicht an dicht.",
-    "An eine Fahne passen beliebig viele Pfade, auch mehrere von derselben Seite, auch an die feste Fahne am Hauptgebäude. Zwischen denselben zwei Fahnen gibt es nur einen Pfad."
+    "Man hilft sich: Ist der Platz eines Arbeiters voll und holt niemand die Ware ab, bringt er sie selbst zur nächsten Fahne, von der aus sie ihr Ziel erreicht, und arbeitet dann weiter.",
+    "Hat ein Pfad noch keinen Läufer, springt der Fahnenwart an seinem Ende ein. Er schlägt den Pfad frei, bringt Waren zur anderen Fahne und holt sich welche von dort.",
+    "Hat eine Fahne keinen Fahnenwart, hilft ein Läufer von einem ihrer Pfade aus, wenn er gerade nichts zu tragen hat.",
+    "Pfade wachsen nicht mehr zu. Ohne Läufer wächst nur das Dickicht neben dem Pfad heran."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "dff56c11833730b05106146a76f8c0aa87af110083ce38dce552cc4fbc63ae31",
-  "version": "0.99.6"
+  "sha256": "fbc5c54c06839676b828e0deb621673c6f206b96dbd54c2ba8e1629d7b6ce20b",
+  "version": "0.99.7"
 }
