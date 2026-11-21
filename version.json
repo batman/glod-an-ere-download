@@ -1,13 +1,14 @@
 {
   "engine": "4.3",
   "notes": [
-    "Fällen die Bauhelfer einen großen Baum, trägt der Helfer den Stamm selbst weg: auf einer Baustelle zum Stamm-Haufen, solange sie noch Stämme braucht (sonst ist er weg), an einem neuen Weg oder einer neuen Fahne zur nächsten Fahne. Totholz, junge Bäume und Sträucher geben nie einen Stamm.",
-    "Einfache Berufe gehen zuerst an Männer- und Frauenhaus: Wer dort frei ist (alle außer dem auf Platz 1), löst einen Hüttenbewohner gleichen Geschlechts in einem einfachen Beruf ab. Der arbeitet weiter, bis der Neue da ist, und ist dann frei für einen anderen Posten – oder bleibt einfach daheim.",
-    "Kundschafter gehen zuerst aus dem Männerhaus los.",
-    "Männerhaus und Frauenhaus stehen im Baumenü jetzt unter Wohnen.",
-    "Ebnen die Bauhelfer den Boden, gehen Fahne, Steinring, Ablageplätze, Haufen, Bäume und Kleinzeug mit nach oben oder unten und schweben nicht mehr."
+    "Feierabend erst nach dem Wegbringen: Wer bei Einbruch der Nacht eine Ware trägt, bringt sie noch an ihr Ziel und geht dann heim. Niemand steht mehr mit Waren in den Armen an der Essensausgabe.",
+    "Ein Fehler ist behoben: Wen die Nacht beim Bücken zu einem Platz erwischte, stand danach jeden Tag mit seiner Ware davor und legte sie nie ab (so ging zum Beispiel eine Feuerstelle aus).",
+    "Neu ist der Wächter: Er schaut alle paar Sekunden nach, ob jemand feststeckt oder sinnlos herumsteht, und schickt ihn zurück an seine Arbeit. Was er trägt, legt er als freie Ware ab, die Bauhelfer holen sie. Jeder Eingriff steht im Protokoll.",
+    "König oder Königin: Bei einem neuen Spiel wählst du, ob du ein Mann oder eine Frau bist. Eine Königin bekommt mit dem Ausbau ihren Mann dazu. Nur wer das Dorf führt, trägt die Krone, der Partner ein goldenes Band.",
+    "Ein Reh, das im Wald liegen bleibt, weil das Fleisch keinen Platz hat, sieht man nicht mehr. Es lockt aber weiter Wölfe und Bären an.",
+    "Die Meldung, dass sich jemand langweilt, sagt bei Frauen jetzt richtig „Eine … Sie …“."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "c2ac8005a098a9569df1a61f1388113cdb2474626e34132db2b27f6cb3cee6cc",
-  "version": "0.99.10"
+  "sha256": "9ba4baa00f7741c1efb941295cb0c826003fc2c2e073a422d9d04657299eeee3",
+  "version": "0.99.12"
 }
