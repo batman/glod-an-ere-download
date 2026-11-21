@@ -1,13 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Überall, wo ein Mann, eine Frau, ein Paar oder ein Kind gezeigt wird, stehen jetzt die gezeichneten Köpfe auf einer hellen Steinscheibe, ein Paar als Mann und Frau nebeneinander.",
-    "Hinter dem Thron steht ein hoher Mast mit einem Fellbanner. In der Karte des Hauptgebäudes kannst du es hissen, wenn eine Hütte frei ist. Ist die letzte freie Hütte vergeben, wird es von selbst eingeholt.",
-    "Banner gehisst: Junggesellen, Paare und selten eine Frau folgen ihm ohne Gaben und wollen eine Hütte, keine Kammer. Ein Nein kostet nichts. Finden sie nach dem Ja keine Hütte, ziehen sie weiter und das kostet Ansehen.",
-    "Banner eingeholt: Es kommen nur Bewerber, die um Aufnahme bitten und dafür Gaben mitbringen.",
-    "Selten flieht eine Familie mit Kindern aus einem überfallenen Dorf und bittet um Zuflucht, auch wenn keine Hütte frei ist. Sie bringt nichts mit, und sie abzuweisen kostet viel Ansehen. Nach dem Ja wartet sie, bis eine Hütte leer ist."
+    "Nichts besetzt sich mehr von selbst: Arbeitsplätze, Försterin, Fischer, Lagerhelfer, die Plätze im Männer- und Frauenhaus, Fahnenwarte und Läufer setzt du selbst ein und kannst sie wieder abziehen. Nur der Fahnenwart hinter dem Hauptgebäude bleibt immer.",
+    "Jeder Bewohner hat einen Charakter: standhaft, genügsam oder fordernd. Bei ihm siehst du auch, was er heute gearbeitet hat und wie viel davon Sonderleistung war.",
+    "Ehre: Wer mehr tut als seinen Posten (für andere tragen, auf einem Weg einspringen, im eigenen Haus helfen) oder hungrig weiterarbeitet, sammelt Ehre. Hungert einer lange, entscheidet sein Charakter, ob er geht oder bleibt.",
+    "Mit jeder Stufe der Ehre bittet er am Thron um einen Lohn: eine eigene Hütte, die doppelte Fleischration und zuletzt das Ehrenfell, das er dann um die Schultern trägt. Zweimal Nein kostet nichts, ab dem dritten Mal Ansehen, und er ist traurig.",
+    "Rat am Feuer: In der Karte des Hauptgebäudes gibt dir der Rat aus Leibwache und Lagerhelfern einen Rat, den wichtigsten. Wenn alles im Lot ist, sagt er das auch."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "bbb5ed35254d5ba6c4ded7f1a5b9b0e404a83dc8eebf7f8b89b5817085ea0a46",
-  "version": "0.99.8"
+  "sha256": "fcf9da57d0e82def018fbce3f29f5f0f3aacc1c12a5ba4d778ad52198e6942ad",
+  "version": "0.99.9"
 }
