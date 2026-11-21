@@ -1,13 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Nichts besetzt sich mehr von selbst: Arbeitsplätze, Försterin, Fischer, Lagerhelfer, die Plätze im Männer- und Frauenhaus, Fahnenwarte und Läufer setzt du selbst ein und kannst sie wieder abziehen. Nur der Fahnenwart hinter dem Hauptgebäude bleibt immer.",
-    "Jeder Bewohner hat einen Charakter: standhaft, genügsam oder fordernd. Bei ihm siehst du auch, was er heute gearbeitet hat und wie viel davon Sonderleistung war.",
-    "Ehre: Wer mehr tut als seinen Posten (für andere tragen, auf einem Weg einspringen, im eigenen Haus helfen) oder hungrig weiterarbeitet, sammelt Ehre. Hungert einer lange, entscheidet sein Charakter, ob er geht oder bleibt.",
-    "Mit jeder Stufe der Ehre bittet er am Thron um einen Lohn: eine eigene Hütte, die doppelte Fleischration und zuletzt das Ehrenfell, das er dann um die Schultern trägt. Zweimal Nein kostet nichts, ab dem dritten Mal Ansehen, und er ist traurig.",
-    "Rat am Feuer: In der Karte des Hauptgebäudes gibt dir der Rat aus Leibwache und Lagerhelfern einen Rat, den wichtigsten. Wenn alles im Lot ist, sagt er das auch."
+    "Fällen die Bauhelfer einen großen Baum, trägt der Helfer den Stamm selbst weg: auf einer Baustelle zum Stamm-Haufen, solange sie noch Stämme braucht (sonst ist er weg), an einem neuen Weg oder einer neuen Fahne zur nächsten Fahne. Totholz, junge Bäume und Sträucher geben nie einen Stamm.",
+    "Einfache Berufe gehen zuerst an Männer- und Frauenhaus: Wer dort frei ist (alle außer dem auf Platz 1), löst einen Hüttenbewohner gleichen Geschlechts in einem einfachen Beruf ab. Der arbeitet weiter, bis der Neue da ist, und ist dann frei für einen anderen Posten – oder bleibt einfach daheim.",
+    "Kundschafter gehen zuerst aus dem Männerhaus los.",
+    "Männerhaus und Frauenhaus stehen im Baumenü jetzt unter Wohnen.",
+    "Ebnen die Bauhelfer den Boden, gehen Fahne, Steinring, Ablageplätze, Haufen, Bäume und Kleinzeug mit nach oben oder unten und schweben nicht mehr."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "fcf9da57d0e82def018fbce3f29f5f0f3aacc1c12a5ba4d778ad52198e6942ad",
-  "version": "0.99.9"
+  "sha256": "c2ac8005a098a9569df1a61f1388113cdb2474626e34132db2b27f6cb3cee6cc",
+  "version": "0.99.10"
 }
