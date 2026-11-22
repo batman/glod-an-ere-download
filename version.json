@@ -1,10 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Tiere gehen jetzt genau wie die Menschen um Gebäude, Mauern und Ablageplätze herum, nie mehr hindurch: Rehe, Wölfe, Bären und die Hunde.",
-    "Rehe bleiben im Wald: Sie ziehen zwischen den Bäumen ihres Gebiets umher und grasen dicht bei ihnen, nicht mehr auf freiem Feld oder zwischen den Gebäuden."
+    "Die Leiste unten ist neu: ein flacher dunkler Stein ohne Ausbuchtungen. Karte und Hammer liegen auf runden hellen Schieferscheiben, der Knopf der Planansicht liegt über dem Spielmenü.",
+    "Die Bewohner-Tafel liegt in der Mitte auf der Leiste, oben mit einem weichen Bogen, und wird unten vom Fensterrand abgeschnitten. Ein Klick schiebt sie hoch, ein weiterer wieder herunter: eingeklappt sieht man die Köpfe von Junge, Mann, Frau und Mädchen mit ihren Zahlen, ausgeklappt alles.",
+    "Neu auf der Tafel: wie viele Posten warten, die ein Mann oder eine Frau nehmen kann, und wie viele Paare noch einziehen können (leere Hütten). Mann und Frau zählen nur noch, was nur ein Mann oder nur eine Frau nehmen kann.",
+    "Die Leiste wird nach einem Bauplan gebaut, der dir gehört: Strg + Umschalt + L öffnet den Gestaltungsmodus. Dort ziehst du jedes Teil der Leiste und alles auf der Tafel an seinen Platz, änderst mit dem Mausrad die Größe (mit Umschalt die Scheibe von Karte und Hammer) und stellst die Form der Tafel ein. „Speichern“ behält ihn, auch nach dem Neustart."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "680706858bdb37bc177b29ab8278cf9e3c79f4b101713904ff59a70342407d30",
-  "version": "0.99.16"
+  "sha256": "2a91d050023c531330c4f2e6ad63e055d0ac654ef4a5322849befb1bef96d69a",
+  "version": "0.99.17"
 }
