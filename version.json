@@ -1,13 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Schiefer bricht jetzt wie echter Schiefer: zerklüftete Kanten, an denen dünne Schichten stufig abgebrochen und heller sind. Die Zähne der Waren und die Tafel der Bewohner werfen jetzt auch einen Schatten, und der helle Bogen oben an den Zähnen ist weg.",
-    "Links an der Karte steht jetzt eine Tanne wie auf dem Land. Das Gras liegt nicht mehr auf dem Rand der Karte oder auf einem Zahn und hängt ein wenig über die Kante der Leiste.",
-    "Die Karte zeigt statt des Lichtpunkts den Umriss dessen, was du gerade siehst. So erkennst du Blickrichtung und Zoom.",
-    "Beim Bauen sind die Fahnenkreise blau und die Schutzkreise der Feuer glutorange. Die Fahnenkreise in der Planansicht sind jetzt auch blau.",
-    "Wird gerade niemand gebraucht, verschwindet auf der Tafel der Bewohner auch die Hand."
+    "Der Gebäudedesigner steht jetzt unter „Einstellungen“ und nicht mehr im Hauptmenü. Darin steht nur noch das Gebäude, das du bearbeitest, allein auf einer kleinen Insel. Das Hauptgebäude ist nur da, wenn du es selbst bearbeitest.",
+    "Im Designer bleibt das Gebäude immer in der Mitte: Drehen und Zoomen gehen um das Gebäude herum, verschieben lässt sich die Ansicht nicht mehr. Eine Maustaste, die neben der Karte losgelassen wird, hält nichts mehr fest.",
+    "Der Haken „3D-Gebäude“ blendet die Gebäude aus, dann siehst du nur die Zeichnung mit Kacheln, Plätzen und Umrissen.",
+    "Den Hof der Hütte stellst du jetzt selbst ein: Nachtfeuer, vier Sitzklötze, Fellgestell, Spielzeug und die Zeichen der Berufe lassen sich verschieben. Unter „Wer in der Hütte arbeitet“ wählst du für Mann, Frau, Kind 1 und Kind 2 den Beruf. Im Spiel liegt alles an diesen Stellen, das Fellgestell steht bei jeder Hütte am selben Platz.",
+    "Zwei große Söhne oder zwei große Töchter mit Beruf haben ihr Zeichen nicht mehr übereinander, jedes hat seinen eigenen Platz."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "feedbbcef636f2b91f6c314015bd21d486d153352ec351bcb1f06382ecba191d",
-  "version": "0.99.28"
+  "sha256": "59a06fe721b55a48db16fe632eace4d2fbd265d5e2291a44b97a382f60853c50",
+  "version": "0.99.29"
 }
