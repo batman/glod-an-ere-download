@@ -1,12 +1,10 @@
 {
   "engine": "4.3",
   "notes": [
-    "Baustellen gehen vor: Die Bauhelfer holen das Material dort, wohin der Weg am kürzesten ist – der Weg, den sie wirklich gehen, nicht die Luftlinie.",
-    "Sie nehmen von jedem Ablageplatz, von der Lagerfläche, aus dem Ring einer Fahne und vom Boden, auch was schon für jemand anderen bestimmt war, und auch die Stämme einer Feuerstelle oder den Vorrat einer Werkstatt.",
-    "In die Buchten des Hauptgebäudes und in die Lager gehen sie wie der Lagermeister durch die offene Seite, die Theke oder ein Tor. Behoben: Die Bauhelfer kamen nicht an die Felle hinter der Mauer und die Baustelle wartete.",
-    "Behoben: Am Ablageplatz für Steine und Stämme des Hauptgebäudes blieben Lagermeister, Helfer und Träger stecken; wer an einen eingeschlossenen Punkt will, geht jetzt zum nächsten freien daneben und bückt sich vom Rand aus zur Ablage."
+    "Behoben: Das Spiel stockte alle paar Sekunden für eine halbe Sekunde, solange gebaut wurde. Die Baustellen suchten jede Sekunde neu nach dem kürzesten Weg zum Material, obwohl sich nichts geändert hatte.",
+    "Jetzt wird nur gesucht, wenn ein Bauhelfer frei ist, und die Suche hört auf, sobald alle Fundorte erreicht sind."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "057d7293e90953e0ceb0ddf5614667fb128c3867483f2a34bf6ba7fccb79232d",
-  "version": "0.99.23"
+  "sha256": "e46bed1f4c2febe17a8ec3606f096c523fa8d05e6fadf1821e6c60befcb4fee4",
+  "version": "0.99.24"
 }
