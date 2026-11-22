@@ -1,12 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Die Leiste unten ist neu: ein flacher dunkler Stein ohne Ausbuchtungen. Karte und Hammer liegen auf runden hellen Schieferscheiben, der Knopf der Planansicht liegt über dem Spielmenü.",
-    "Die Bewohner-Tafel liegt in der Mitte auf der Leiste, oben mit einem weichen Bogen, und wird unten vom Fensterrand abgeschnitten. Ein Klick schiebt sie hoch, ein weiterer wieder herunter: eingeklappt sieht man die Köpfe von Junge, Mann, Frau und Mädchen mit ihren Zahlen, ausgeklappt alles.",
-    "Neu auf der Tafel: wie viele Posten warten, die ein Mann oder eine Frau nehmen kann, und wie viele Paare noch einziehen können (leere Hütten). Mann und Frau zählen nur noch, was nur ein Mann oder nur eine Frau nehmen kann.",
-    "Die Leiste wird nach einem Bauplan gebaut, der dir gehört: Strg + Umschalt + L öffnet den Gestaltungsmodus. Dort ziehst du jedes Teil der Leiste und alles auf der Tafel an seinen Platz, änderst mit dem Mausrad die Größe (mit Umschalt die Scheibe von Karte und Hammer) und stellst die Form der Tafel ein. „Speichern“ behält ihn, auch nach dem Neustart."
+    "Hunger trotz voller Lager behoben: Der Mann holt das Essen an der Ausgabe, die seiner Hütte am nächsten liegt. Liegt dort zu wenig für ihn oder wird sie leer, geht er gleich zur nächsten Ausgabe mit Essen weiter.",
+    "Wer im Hauptgebäude wohnt, holt sich sein Essen am Nahrungslager, wenn im Hauptgebäude nichts mehr liegt. Ist der Mann Lagermeister am Nahrungslager, holt seine Frau. Die doppelte Fleischration wird mitgebracht, und wer ansteht oder Essen heimträgt, wird nicht mehr zum Tragen weggeholt.",
+    "Die Lager sind neu aufgeteilt, so wie du sie im Planer gelegt hast: kleiner, auf eigenen Kacheln, alle Ablageplätze vorne nebeneinander in der Linie der Einfassung, die Stapel in einer Reihe dahinter.",
+    "Das Nahrungslager hat einen Zaun, hinten die Theke und links und rechts daneben zwei hohe Fackeln. Die Fackeln der Lager halten nachts Wölfe und Bären fern.",
+    "Ablageplätze: Stämme liegen als Pyramide 3-2-1 zwischen kurzen Pfosten mit Schrägstützen, Steine ebenso mittig als 3-2-1, Fellbündel stehen aufrecht, drei vorne und drei dahinter."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "2a91d050023c531330c4f2e6ad63e055d0ac654ef4a5322849befb1bef96d69a",
-  "version": "0.99.17"
+  "sha256": "a75e2fa53a54ed51fe4bd69dd5d43c78f14a07a5c3bfe0491e2c0c1da6bf47a8",
+  "version": "0.99.18"
 }
