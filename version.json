@@ -1,10 +1,16 @@
 {
   "engine": "4.3",
   "notes": [
-    "Der Gestaltungsmodus der Leiste (Strg + Umschalt + L) ist aufgeräumt: Das Einstellfeld ist ein kleines Schieferfenster, das du an seiner Kopfzeile verschieben und zusammenklappen kannst. Lage und Zustand bleiben gespeichert.",
-    "Oben im Feld wählst du aus einer Liste das Teil, das du bearbeiten willst. Darunter steht nur, was zu diesem Teil gehört. Klickst du ein Teil auf der Leiste an, springt die Liste mit."
+    "Knöpfe sind jetzt Stücke aus weißem Schiefer mit dicker, dunkler Schrift, überall im Spiel und im Hauptmenü. Abreißen ist roter Schiefer. Kosten stehen im Knopf, warum ein Knopf gesperrt ist, nur noch beim Drüberhalten.",
+    "Neues Bauteil für An/Aus und Ja/Nein: ein Kiesel in einer Rinne, rechts füllt sich die Rinne weiß. Im Forstgebäude (Bäume und Sträucher pflanzen), an der Baustelle (Zuerst beliefern), bei Grafik und Leistungsanzeige.",
+    "Jedes Fenster hat eine feste Größe und springt nicht mehr, liegt vor der Leiste und lässt sich verschieben, auch die Übersicht. Einklappen gibt es nicht mehr.",
+    "Das Hauptgebäude ist eine Seite: oben Ausbauen (Kosten im Knopf) und Banner, darunter die Leute in Gruppen: Hof (mit der Meinung des Volkes), Bau, Lager, Vorhut mit je 2 Plätzen für Roderinnen und Kundschafter.",
+    "Die Hütte zeigt immer ihre vier Plätze, leere als Mulde im Stein. Im Pfad-Fenster ist das Beil weg. Auf der Bewohner-Tafel steht neu, wie viele ohne Arbeit sind.",
+    "Schiefer franst am Rand nur noch fein aus, ohne tiefe Ausbrüche. Die Scheiben unter Karte und Hammer werfen ihren Schatten ganz.",
+    "Fahnen sind waidblau und wehen. Den Steinring legt erst ein Fahnenwart. Ein Pfad ohne eigenen Läufer ist schmaler und blasser. Staut sich eine Ware an einer Fahne lange, schwebt dort ein Warndreieck.",
+    "Wer das Dorf verlässt, geht ein paar Schritte weg, wird blasser und verschwindet. Niemand bleibt mehr vor dem Thron stehen."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "8144577ab886068d53d5b827f1d9ab56f34ceafebafa322f5327c6f68ee1d5ab",
-  "version": "0.99.30"
+  "sha256": "ae579b1a661b2ff67c5fe314b83d23322cffaaa20ce5162fdc311a58a2c07c2a",
+  "version": "0.99.31"
 }
