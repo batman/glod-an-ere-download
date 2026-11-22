@@ -1,15 +1,11 @@
 {
   "engine": "4.3",
   "notes": [
-    "Die Waren liegen als Zähne aus dunklem Schiefer auf der Leiste: jede Ware auf ihrem eigenen Zahn, darunter, wie viel da ist. Zeigt die Maus darauf, fährt der Zahn ein Stück heraus und zeigt, wie viel Platz für diese Ware ist („/ 40“).",
-    "Passen die sieben Zähne nicht zwischen Karte und Tafel, werden sie zu dreien: Baumaterial, Nahrung, Felle und Speere („16 | 20“). Ein Klick fährt einen solchen Zahn hoch und zeigt jede Ware darin mit „vorhanden / Platz“.",
-    "Ordnung der Leiste: die Karte immer links, die Tafel immer in der Mitte, Hammer, Planansicht und Spielmenü immer rechts; die Waren mittig zwischen Karte und Tafel, Ansehen und Tempo mit gleichen Abständen zwischen Tafel und Hammer. Im Gestaltungsmodus verschiebst du sie von dort aus.",
-    "Das Ansehen ist ein Halbbogen im Schiefer, der sich hell füllt, mit einem Lorbeerkranz darüber: bei gutem Ansehen dicht und grün, ganz oben mit goldener Bindung und Blüten, bei schlechtem dürr und braun. So sieht es auch im Fenster „Ansehen“ und bei der Ehre aus.",
-    "Das Tempo liegt quer: links Pause, rechts ×8, ein runder Kiesel in einer abgerundeten Laufbahn.",
-    "Planansicht und Spielmenü reagieren nur noch auf ihr Bild, ohne Rand drumherum.",
-    "Tafel und Baumenü gleiten flüssig: Die Tafel wird nicht mehr beim Schieben neu gemalt, das Baumenü öffnet sich schneller."
+    "Die Leiste wird zum Baukasten: Im Gestaltungsmodus (Strg + Umschalt + L) stellst du ihre Höhe ein und legst dunkle und helle Schieferstücke darauf, wo es höher sein soll – gerade, mit Bogen oder rund, größer und kleiner, nach vorn oder hinten, an welcher Seite sie hängen, und wieder weg.",
+    "Links und rechts neben der Karte wächst Gras auf der Kante der Leiste, ganz links steht ein Baum, dessen Krone über die Karte ragt; morgens geht die Sonne hinter ihm auf. Gras und Baum verschiebst du im Gestaltungsmodus wie alles andere.",
+    "Ein gespeicherter Bauplan bleibt: Neue Teile der Leiste kommen hinzu, ohne dass sich an deinem etwas ändert."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "1e309cce7410ede4eeca38cc6147bcf17141d43ba9820eca364f185d2a5e364a",
-  "version": "0.99.19"
+  "sha256": "54cdec22a4eba986d6f8ef64aef1bc689c92647719f519d35537af032d504ffc",
+  "version": "0.99.20"
 }
