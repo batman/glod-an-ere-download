@@ -1,13 +1,15 @@
 {
   "engine": "4.3",
   "notes": [
-    "Hunger trotz voller Lager behoben: Der Mann holt das Essen an der Ausgabe, die seiner Hütte am nächsten liegt. Liegt dort zu wenig für ihn oder wird sie leer, geht er gleich zur nächsten Ausgabe mit Essen weiter.",
-    "Wer im Hauptgebäude wohnt, holt sich sein Essen am Nahrungslager, wenn im Hauptgebäude nichts mehr liegt. Ist der Mann Lagermeister am Nahrungslager, holt seine Frau. Die doppelte Fleischration wird mitgebracht, und wer ansteht oder Essen heimträgt, wird nicht mehr zum Tragen weggeholt.",
-    "Die Lager sind neu aufgeteilt, so wie du sie im Planer gelegt hast: kleiner, auf eigenen Kacheln, alle Ablageplätze vorne nebeneinander in der Linie der Einfassung, die Stapel in einer Reihe dahinter.",
-    "Das Nahrungslager hat einen Zaun, hinten die Theke und links und rechts daneben zwei hohe Fackeln. Die Fackeln der Lager halten nachts Wölfe und Bären fern.",
-    "Ablageplätze: Stämme liegen als Pyramide 3-2-1 zwischen kurzen Pfosten mit Schrägstützen, Steine ebenso mittig als 3-2-1, Fellbündel stehen aufrecht, drei vorne und drei dahinter."
+    "Die Waren liegen als Zähne aus dunklem Schiefer auf der Leiste: jede Ware auf ihrem eigenen Zahn, darunter, wie viel da ist. Zeigt die Maus darauf, fährt der Zahn ein Stück heraus und zeigt, wie viel Platz für diese Ware ist („/ 40“).",
+    "Passen die sieben Zähne nicht zwischen Karte und Tafel, werden sie zu dreien: Baumaterial, Nahrung, Felle und Speere („16 | 20“). Ein Klick fährt einen solchen Zahn hoch und zeigt jede Ware darin mit „vorhanden / Platz“.",
+    "Ordnung der Leiste: die Karte immer links, die Tafel immer in der Mitte, Hammer, Planansicht und Spielmenü immer rechts; die Waren mittig zwischen Karte und Tafel, Ansehen und Tempo mit gleichen Abständen zwischen Tafel und Hammer. Im Gestaltungsmodus verschiebst du sie von dort aus.",
+    "Das Ansehen ist ein Halbbogen im Schiefer, der sich hell füllt, mit einem Lorbeerkranz darüber: bei gutem Ansehen dicht und grün, ganz oben mit goldener Bindung und Blüten, bei schlechtem dürr und braun. So sieht es auch im Fenster „Ansehen“ und bei der Ehre aus.",
+    "Das Tempo liegt quer: links Pause, rechts ×8, ein runder Kiesel in einer abgerundeten Laufbahn.",
+    "Planansicht und Spielmenü reagieren nur noch auf ihr Bild, ohne Rand drumherum.",
+    "Tafel und Baumenü gleiten flüssig: Die Tafel wird nicht mehr beim Schieben neu gemalt, das Baumenü öffnet sich schneller."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "a75e2fa53a54ed51fe4bd69dd5d43c78f14a07a5c3bfe0491e2c0c1da6bf47a8",
-  "version": "0.99.18"
+  "sha256": "1e309cce7410ede4eeca38cc6147bcf17141d43ba9820eca364f185d2a5e364a",
+  "version": "0.99.19"
 }
