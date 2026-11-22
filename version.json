@@ -1,16 +1,10 @@
 {
   "engine": "4.3",
   "notes": [
-    "Knöpfe sind jetzt Stücke aus weißem Schiefer mit dicker, dunkler Schrift, überall im Spiel und im Hauptmenü. Abreißen ist roter Schiefer. Kosten stehen im Knopf, warum ein Knopf gesperrt ist, nur noch beim Drüberhalten.",
-    "Neues Bauteil für An/Aus und Ja/Nein: ein Kiesel in einer Rinne, rechts füllt sich die Rinne weiß. Im Forstgebäude (Bäume und Sträucher pflanzen), an der Baustelle (Zuerst beliefern), bei Grafik und Leistungsanzeige.",
-    "Jedes Fenster hat eine feste Größe und springt nicht mehr, liegt vor der Leiste und lässt sich verschieben, auch die Übersicht. Einklappen gibt es nicht mehr.",
-    "Das Hauptgebäude ist eine Seite: oben Ausbauen (Kosten im Knopf) und Banner, darunter die Leute in Gruppen: Hof (mit der Meinung des Volkes), Bau, Lager, Vorhut mit je 2 Plätzen für Roderinnen und Kundschafter.",
-    "Die Hütte zeigt immer ihre vier Plätze, leere als Mulde im Stein. Im Pfad-Fenster ist das Beil weg. Auf der Bewohner-Tafel steht neu, wie viele ohne Arbeit sind.",
-    "Schiefer franst am Rand nur noch fein aus, ohne tiefe Ausbrüche. Die Scheiben unter Karte und Hammer werfen ihren Schatten ganz.",
-    "Fahnen sind waidblau und wehen. Den Steinring legt erst ein Fahnenwart. Ein Pfad ohne eigenen Läufer ist schmaler und blasser. Staut sich eine Ware an einer Fahne lange, schwebt dort ein Warndreieck.",
-    "Wer das Dorf verlässt, geht ein paar Schritte weg, wird blasser und verschwindet. Niemand bleibt mehr vor dem Thron stehen."
+    "Das Hauptmenü hat ein Logo: Steinschrift mit Glut in den Rissen. Beim Start ist es kalter Stein, dann glimmt die Glut ganz langsam Stelle für Stelle auf und schimmert.",
+    "Weiterspielen, Neues Spiel, Einstellungen und Spiel beenden sind Knöpfe aus weißem Schiefer unter dem Logo, rechts im Bild, bei schmalem Fenster in der Mitte. Die Seiten wie Einstellungen stehen an ihrer Stelle."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "ae579b1a661b2ff67c5fe314b83d23322cffaaa20ce5162fdc311a58a2c07c2a",
-  "version": "0.99.31"
+  "sha256": "85e76bb085506022fd0230e3ab9988e756e457b29a1fa57835408a8cebe4baa8",
+  "version": "0.99.32"
 }
