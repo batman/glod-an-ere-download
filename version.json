@@ -1,14 +1,10 @@
 {
   "engine": "4.3",
   "notes": [
-    "Das Fest am Ritualplatz ersetzt das Opfer für die Ahnen: „Kleines Fest“ (10 Fleisch, 2 Stämme, +10 Ansehen, es kommen die Leute aus den Hütten) oder „Großes Fest“ (20 Fleisch, 4 Stämme, +25 Ansehen, es kommt das ganze Dorf). Die Bauhelfer bringen Fleisch und Stämme, gefeiert wird bei Einbruch der Nacht am hohen Feuer.",
-    "Wer beim Fest war, ist satt, Hunger und Ärger sind weg, und er arbeitet einen Tag lang etwas schneller. Das nächste Fest geht erst in der dritten Nacht danach. Der Ritualplatz nimmt nur noch Fleisch an.",
-    "Viehzucht: bis zu 4 Hirtinnen. Je mehr dort arbeiten, desto mehr Tiere stehen auf der Weide und desto mehr Fleisch und Felle gibt sie. Die Weide bleibt gleich groß.",
-    "Das Fenster „Ansehen“ sagt in Worten, wie es um das Dorf steht, zeigt dieselbe Anzeige wie die Leiste und hat Knöpfe: „Fest feiern“ und „Prestigebau errichten“. Unten steht, wofür das Ansehen wichtig ist.",
-    "Im Fenster einer Person steht ihre Ehre mit derselben Anzeige wie das Ansehen.",
-    "Männer- und Frauenhaus haben kein festes Gebiet mehr: Jäger und Sammlerin gehen so weit, wie sie müssen."
+    "Tiere gehen jetzt genau wie die Menschen um Gebäude, Mauern und Ablageplätze herum, nie mehr hindurch: Rehe, Wölfe, Bären und die Hunde.",
+    "Rehe bleiben im Wald: Sie ziehen zwischen den Bäumen ihres Gebiets umher und grasen dicht bei ihnen, nicht mehr auf freiem Feld oder zwischen den Gebäuden."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "fe1e8de4bd4e980e83a6da56aae85b40aa01b1138a4f11c9e1c676ead9e9efec",
-  "version": "0.99.15"
+  "sha256": "680706858bdb37bc177b29ab8278cf9e3c79f4b101713904ff59a70342407d30",
+  "version": "0.99.16"
 }
