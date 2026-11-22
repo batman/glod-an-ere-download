@@ -1,10 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Behoben: Das Spiel stockte alle paar Sekunden für eine halbe Sekunde, solange gebaut wurde. Die Baustellen suchten jede Sekunde neu nach dem kürzesten Weg zum Material, obwohl sich nichts geändert hatte.",
-    "Jetzt wird nur gesucht, wenn ein Bauhelfer frei ist, und die Suche hört auf, sobald alle Fundorte erreicht sind."
+    "Der Gebäudedesigner zeigt jedes Gebäude so, wie es im Spiel aussieht: in 3D auf ebenem Land, mit Ablageplätzen, Stapeln, Mauer, Stammwand, Zaun und Fackeln. Rechts ziehen dreht und kippt die Ansicht, das Mausrad zoomt.",
+    "Teile fasst du mit links an und schiebst sie über den Boden. Rechts unter „Gewählt“ drehst du sie und machst Einfassung oder Bucht breiter, schmaler, tiefer oder flacher. Kacheln schaltest du nur mit dem Häkchen „Kacheln an- und ausschalten“.",
+    "„Prüfen“ zeigt jede Prüfung mit grünem Haken oder rotem Kreuz: Kommen Träger, Bauhelfer und Lagermeister überall hin und wieder hinaus?",
+    "Ein Tor in der Seitenwand eines Lagers lässt jetzt wirklich hinein und hinaus.",
+    "Gebäude haben keine Fahne mehr, auch nicht versteckt im Spiel: Was zu einem Gebäude gehört, heißt Vorderseite. Alte Spielstände lassen sich deshalb nicht mehr laden."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "e46bed1f4c2febe17a8ec3606f096c523fa8d05e6fadf1821e6c60befcb4fee4",
-  "version": "0.99.24"
+  "sha256": "91eb7bb6261e0a86fddc194cf6fdd7870fbe2bb0f5119d1b3fa41fae81ac1257",
+  "version": "0.99.25"
 }
