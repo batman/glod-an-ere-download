@@ -1,12 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Neu im Hauptmenü (nur Windows): der Gebäudedesigner. Er zeigt jedes Gebäude von oben auf seinen Kacheln. Ein Klick auf einen freien Platz setzt oder nimmt eine Kachel, Teile (Ablagen, Stapel, Theke, Einfassung, Tore, Thron, Feuer, Fahne) ziehst du an ihren Platz, das Mausrad dreht sie oder macht Einfassung und Buchten breiter und schmaler (mit Umschalt tiefer).",
-    "„Prüfen“ stellt das Gebäude in allen sechs Richtungen auf flaches Land und sagt in Worten, was nicht geht: zu eng zum Durchgehen, eine Ablage oder ein Stapel nicht zu erreichen, Lagermeister kommen nicht hinein. Rote Kreise zeigen die Stelle.",
-    "Lager bekommen Tore: eine Lücke in der Einfassung ohne Ablage, durch die die Lagermeister gehen. „Speichern“ legt deinen Plan ab; das Spiel baut die Gebäude dann so.",
-    "Die Weide der Viehzucht wird geprüft, lässt sich aber noch nicht verstellen."
+    "Baustellen gehen vor: Die Bauhelfer holen das Material dort, wohin der Weg am kürzesten ist – der Weg, den sie wirklich gehen, nicht die Luftlinie.",
+    "Sie nehmen von jedem Ablageplatz, von der Lagerfläche, aus dem Ring einer Fahne und vom Boden, auch was schon für jemand anderen bestimmt war, und auch die Stämme einer Feuerstelle oder den Vorrat einer Werkstatt.",
+    "In die Buchten des Hauptgebäudes und in die Lager gehen sie wie der Lagermeister durch die offene Seite, die Theke oder ein Tor. Behoben: Die Bauhelfer kamen nicht an die Felle hinter der Mauer und die Baustelle wartete.",
+    "Behoben: Am Ablageplatz für Steine und Stämme des Hauptgebäudes blieben Lagermeister, Helfer und Träger stecken; wer an einen eingeschlossenen Punkt will, geht jetzt zum nächsten freien daneben und bückt sich vom Rand aus zur Ablage."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "784877d9ca17f5a843bd27d1d80f27da25690e2469a05fbac627682b13a5f929",
-  "version": "0.99.22"
+  "sha256": "057d7293e90953e0ceb0ddf5614667fb128c3867483f2a34bf6ba7fccb79232d",
+  "version": "0.99.23"
 }
