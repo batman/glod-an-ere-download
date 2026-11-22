@@ -1,10 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Der Hinweisbalken über der Leiste ist weg, überall: beim Setzen von Gebäuden und Fahnen, beim Ziel eines Pfads oder Wasserwegs und beim Verschieben einer Fläche. Abbrechen geht mit Rechtsklick.",
-    "Ein Gebäude lässt sich nur noch auf einer Kachel vormerken, so wie eine Fahne nur auf ihren Punkten. Ein Klick daneben, etwa ins Wasser, tut nichts."
+    "Schiefer bricht jetzt wie echter Schiefer: zerklüftete Kanten, an denen dünne Schichten stufig abgebrochen und heller sind. Die Zähne der Waren und die Tafel der Bewohner werfen jetzt auch einen Schatten, und der helle Bogen oben an den Zähnen ist weg.",
+    "Links an der Karte steht jetzt eine Tanne wie auf dem Land. Das Gras liegt nicht mehr auf dem Rand der Karte oder auf einem Zahn und hängt ein wenig über die Kante der Leiste.",
+    "Die Karte zeigt statt des Lichtpunkts den Umriss dessen, was du gerade siehst. So erkennst du Blickrichtung und Zoom.",
+    "Beim Bauen sind die Fahnenkreise blau und die Schutzkreise der Feuer glutorange. Die Fahnenkreise in der Planansicht sind jetzt auch blau.",
+    "Wird gerade niemand gebraucht, verschwindet auf der Tafel der Bewohner auch die Hand."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "b2e062bcece6fa392588c0e9dbecb8bd9ad59aa57a0141ff7caaab75611a2a81",
-  "version": "0.99.27"
+  "sha256": "feedbbcef636f2b91f6c314015bd21d486d153352ec351bcb1f06382ecba191d",
+  "version": "0.99.28"
 }
