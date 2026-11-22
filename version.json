@@ -1,13 +1,10 @@
 {
   "engine": "4.3",
   "notes": [
-    "Der Gebäudedesigner steht jetzt unter „Einstellungen“ und nicht mehr im Hauptmenü. Darin steht nur noch das Gebäude, das du bearbeitest, allein auf einer kleinen Insel. Das Hauptgebäude ist nur da, wenn du es selbst bearbeitest.",
-    "Im Designer bleibt das Gebäude immer in der Mitte: Drehen und Zoomen gehen um das Gebäude herum, verschieben lässt sich die Ansicht nicht mehr. Eine Maustaste, die neben der Karte losgelassen wird, hält nichts mehr fest.",
-    "Der Haken „3D-Gebäude“ blendet die Gebäude aus, dann siehst du nur die Zeichnung mit Kacheln, Plätzen und Umrissen.",
-    "Den Hof der Hütte stellst du jetzt selbst ein: Nachtfeuer, vier Sitzklötze, Fellgestell, Spielzeug und die Zeichen der Berufe lassen sich verschieben. Unter „Wer in der Hütte arbeitet“ wählst du für Mann, Frau, Kind 1 und Kind 2 den Beruf. Im Spiel liegt alles an diesen Stellen, das Fellgestell steht bei jeder Hütte am selben Platz.",
-    "Zwei große Söhne oder zwei große Töchter mit Beruf haben ihr Zeichen nicht mehr übereinander, jedes hat seinen eigenen Platz."
+    "Der Gestaltungsmodus der Leiste (Strg + Umschalt + L) ist aufgeräumt: Das Einstellfeld ist ein kleines Schieferfenster, das du an seiner Kopfzeile verschieben und zusammenklappen kannst. Lage und Zustand bleiben gespeichert.",
+    "Oben im Feld wählst du aus einer Liste das Teil, das du bearbeiten willst. Darunter steht nur, was zu diesem Teil gehört. Klickst du ein Teil auf der Leiste an, springt die Liste mit."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "59a06fe721b55a48db16fe632eace4d2fbd265d5e2291a44b97a382f60853c50",
-  "version": "0.99.29"
+  "sha256": "8144577ab886068d53d5b827f1d9ab56f34ceafebafa322f5327c6f68ee1d5ab",
+  "version": "0.99.30"
 }
