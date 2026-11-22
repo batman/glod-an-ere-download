@@ -1,13 +1,15 @@
 {
   "engine": "4.3",
   "notes": [
-    "Der Gebäudedesigner zeigt jedes Gebäude so, wie es im Spiel aussieht: in 3D auf ebenem Land, mit Ablageplätzen, Stapeln, Mauer, Stammwand, Zaun und Fackeln. Rechts ziehen dreht und kippt die Ansicht, das Mausrad zoomt.",
-    "Teile fasst du mit links an und schiebst sie über den Boden. Rechts unter „Gewählt“ drehst du sie und machst Einfassung oder Bucht breiter, schmaler, tiefer oder flacher. Kacheln schaltest du nur mit dem Häkchen „Kacheln an- und ausschalten“.",
-    "„Prüfen“ zeigt jede Prüfung mit grünem Haken oder rotem Kreuz: Kommen Träger, Bauhelfer und Lagermeister überall hin und wieder hinaus?",
-    "Ein Tor in der Seitenwand eines Lagers lässt jetzt wirklich hinein und hinaus.",
-    "Gebäude haben keine Fahne mehr, auch nicht versteckt im Spiel: Was zu einem Gebäude gehört, heißt Vorderseite. Alte Spielstände lassen sich deshalb nicht mehr laden."
+    "Einen Steinklopfer kannst du nur nahe an Felsen bauen: höchstens 2 Felder zwischen ihm und dem Felsen, wie die Fischerhütte am Wasser.",
+    "Beim Bauen bekommt auch eine Ablage den Haken, die eng zwischen Gebäude und anderen Ablagen liegt: Geprüft wird genau so, wie die Träger wirklich laufen.",
+    "Trampelpfade entstehen erst, wo der Fahnenwart wirklich gegangen ist: von der Fahne zu jeder Ablage ein eigener Pfad, um Mauern, Zäune und Gebäude herum, nie mehr durch eine Mauer. Geht 5 Minuten niemand den Weg, wächst er langsam zu.",
+    "Ist das Banner unten, kommt nur noch selten jemand zum Thron, etwa alle 3 Tage einer, dann aber mit Gaben. Wer viele Leute will, hisst das Banner.",
+    "Die Entscheidungstafel: Foto links, Gaben in der Mitte, Plus und Minus rechts. Unter dem Foto siehst du, ob jemand von außen kommt (Pfad) oder schon im Dorf wohnt (Hütte, Männerhaus, Frauenhaus).",
+    "In den Gebäudekarten stehen die Leute mittig und auf einer Linie, ohne Zeichen, was sie gerade tun; das zeigt nur noch die Karte der Person. Ein Klick auf ihr Foto öffnet diese Karte jetzt wirklich.",
+    "Die Warnung oben in einer Gebäudekarte verschwindet sofort, wenn du sie behebst, zum Beispiel mit dem Plus jemanden einsetzt."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "91eb7bb6261e0a86fddc194cf6fdd7870fbe2bb0f5119d1b3fa41fae81ac1257",
-  "version": "0.99.25"
+  "sha256": "10ed247188f4c443ffb1cf86839ad2f9c4ad473fd2f5ea32a17f2aaccbf6cce0",
+  "version": "0.99.26"
 }
