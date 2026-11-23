@@ -1,12 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Wasserwege und Anlegestellen gibt es nicht mehr. Neu ist der Pier (im Baumenü neben der Fahne, 2 Stämme): ein Steg am Ufer eines Sees oder breiten Flusses. Höchstens zwei Wege führen zu einem Pier, alle Piers am selben Wasser sind von selbst verbunden.",
-    "Jeder Läufer eines Weges zum Pier holt sich einen Stamm und schnitzt daraus sein eigenes Boot. Damit bringt er Waren über das Wasser bis zur Fahne hinter dem anderen Pier oder holt sie von dort, und paddelt wieder heim. Ein Weg zum Pier kann zwei Läufer haben.",
-    "Wer über das Wasser will, wartet am Pier, und ein Läufer fährt ihn hinüber, aber nur, wenn das schneller geht als zu Fuß. Im Boot ist immer nur eine Ware oder eine Person, Waren gehen vor.",
-    "Wird ein Läufer abgezogen, treibt sein Boot ab und ist weg."
+    "Die Lagermeister halten an jedem Ablageplatz der Lager und des Hauptgebäudes 3 Stück jeder Ware bereit: Liegt mehr da, tragen sie eins auf den Stapel, liegt weniger da, holen sie eins nach vorn. So geht keine Ware mehr hinein und gleich wieder heraus.",
+    "Gestelle für Fisch und Fleisch, der Tisch der Früchte, die Pflöcke am Holzstapel und das Speergestell stehen immer da, auch leer.",
+    "Auf der Theke liegen immer 3 Portionen bereit, möglichst von jeder Sorte eine. Wer hungrig ist und nichts zu tun hat, holt sich bei Tag dort selbst eine Portion und isst sie gleich an der Theke.",
+    "Werkstätten bekommen ihren Rohstoff, bis der Platz voll ist.",
+    "Keine Ware springt mehr: Wird sie aufgenommen, wird sie am Platz blasser und erscheint in der Hand. Wird sie abgelegt, wird sie in der Hand blasser und erscheint am neuen Platz. Unterwegs liegt sie nicht mehr zugleich noch am Stapel."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "a403de160f41fa40a9a1ab2a6e274d996f7661852ed1e8260daf948438bf5afc",
-  "version": "0.99.35"
+  "sha256": "41c4a0bf9031880e75bcbc8eadca5c0e79f753862a5604b23b484ede0c40bc2d",
+  "version": "0.99.36"
 }
