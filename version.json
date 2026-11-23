@@ -1,12 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Über Stapel geht niemand mehr, auch kein Lagermeister: Er geht an den Rand des Stapels, bückt sich und geht außen herum weiter. Auch die Theke ist im Weg.",
-    "Ins Lager gehen nur noch seine Lagermeister, und nur durch ein Tor. Ein Lager ohne Tor sagt es im Fenster: Das Tor setzt du im Gebäudedesigner.",
-    "Speere, Baustoff und Opfergaben nimmt man sich nur noch vom Ablageplatz vorne. Liegt eine Ware nur auf dem Stapel, legt ein Lagermeister sie erst vorne hin.",
-    "Kommen die Lagermeister an einen Stapel nicht heran, ohne über etwas zu gehen, bleibt diese Ware auf ihrem Ablageplatz, und der Gebäudedesigner zeigt, wo Platz fehlt."
+    "Die Tiere des Hofs laufen jetzt umher: Hühner picken im Hof, Schweine suhlen sich, die Hofhunde laufen an ihrer Leine, Schafe und Kühe ziehen über die Weide. Alle gehen um Hütte, Unterstand, Tröge, Zaun und Ablageplätze herum, nie hindurch.",
+    "Setzt du ein Gebäude, verschwindet darunter nichts mehr von selbst, auch das Dickicht nicht: Die Bauhelfer roden es.",
+    "Die Sandfläche eines Gebäudes ist genau so groß wie seine Felder. Kein Weg führt darüber, auch nicht über ihren Rand.",
+    "Ein Steg über einen Bach ist jetzt eine kleine Baustelle: Die Bauhelfer tragen die 2 Stämme ans Ufer, einer legt sie über den Bach. Erst dann führt der Weg darüber."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "2ce2b352ffe9d608f2897b5118c72af538d163ebc7e715be1d4ca1a2f6dd57e1",
-  "version": "0.101"
+  "sha256": "c2ac9c4fccbccdd0a8673c1e91108dc65ea52e7d1dea91c6f39e9f7bbcb2e6b5",
+  "version": "0.102"
 }
