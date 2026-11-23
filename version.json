@@ -1,12 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Kinder hungern nie: Bekommt in deinem Dorf ein Kind kein Abendessen, ist das Spiel verloren. Der Anführer hat seine Ehre verloren, und das ganze Volk verlässt das Dorf, auch die Leute des Hauptgebäudes.",
-    "Fällt das Ansehen des Dorfes ganz auf 0, ist das Spiel ebenso verloren.",
-    "Dann liegt in der Mitte eine Tafel, die dir sagt, warum das Dorf verloren ist; mit „Zum Hauptmenü“ beginnst du ein neues Spiel.",
-    "Totempfahl, Steinkreis und Ahnenhügel halten das Ansehen nicht mehr fest: Mit ihnen steigt es schneller und sinkt um ein Zehntel langsamer. Ihr Fenster und das Fenster Ansehen sagen, wie viel."
+    "Dein Wappen: Bei einem neuen Spiel wählst du neben deinem Namen eines von drei Wappen – Bär (Wehr), Hirsch (Wald) oder Fisch (Wasser). Jedes hilft deinem Dorf in einem und kostet in einem anderen.",
+    "Bär: Wilde Tiere kommen seltener, ein Sieg bringt mehr Ansehen, aber ein Reh bringt weniger Fleisch. Hirsch: mehr Fleisch je Reh, die Försterin pflanzt schneller, aber der Steinklopfer ist langsamer. Fisch: Fischer fangen mehr, Boote fahren schneller, aber wilde Tiere kommen öfter.",
+    "Am Hauptgebäude stehen jetzt drei gleich große Fahnen an hohen Masten: deine Fahne mit dem Wappen neben dem Banner, das Banner und die Fahne des Vorratshauses. Im Fenster des Hauptgebäudes steht dein Wappen unter „Hof“.",
+    "Die Bauhelfer werden nicht mehr mitten beim Umräumen weggerufen: Sie legen die Ware erst ab und gehen aus der Nische hinter dem Haus, dann holen sie, was die Baustelle braucht."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "faad0091557fad46d88a9027947a6767b01573dee56c117d22997eb2fd0bb29f",
-  "version": "0.107"
+  "sha256": "3165f6e442111111825cf9f82415b8b3517edc2987e1a38b35bf02e0f110e54b",
+  "version": "0.108"
 }
