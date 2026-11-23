@@ -1,12 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Die Tiere des Hofs laufen jetzt umher: Hühner picken im Hof, Schweine suhlen sich, die Hofhunde laufen an ihrer Leine, Schafe und Kühe ziehen über die Weide. Alle gehen um Hütte, Unterstand, Tröge, Zaun und Ablageplätze herum, nie hindurch.",
-    "Setzt du ein Gebäude, verschwindet darunter nichts mehr von selbst, auch das Dickicht nicht: Die Bauhelfer roden es.",
-    "Die Sandfläche eines Gebäudes ist genau so groß wie seine Felder. Kein Weg führt darüber, auch nicht über ihren Rand.",
-    "Ein Steg über einen Bach ist jetzt eine kleine Baustelle: Die Bauhelfer tragen die 2 Stämme ans Ufer, einer legt sie über den Bach. Erst dann führt der Weg darüber."
+    "Voll ist voll: Ein voller Ablageplatz nimmt nichts mehr an, auch nicht am Feierabend. Wer dann noch eine Ware trägt, legt sie ab, wo er steht, und holt sie am Morgen wieder. Essen darf er mit heimnehmen.",
+    "Neue Bewohner tragen ihre Gaben selbst zum Hauptgebäude, erst dann ziehen sie ein. Reisewaren bringen die Lagermeister zum Thron.",
+    "Ein Kundschafter holt sich Speer, Fell und eine Portion Essen selbst, bevor er losgeht. Das Plus nimmt nichts mehr aus dem Vorrat.",
+    "Zu Spielbeginn wartet kein Paar mehr am Hauptgebäude. Alle vier Lagermeister eines Lagers setzt du selbst ein.",
+    "Das Dickicht wächst überall gleich nach, auch in den Feuerkreisen. Die Roderin rodet es dort, wo sie gerade ist."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "c2ac9c4fccbccdd0a8673c1e91108dc65ea52e7d1dea91c6f39e9f7bbcb2e6b5",
-  "version": "0.102"
+  "sha256": "a6ce98c15a81893bc100374402a7271515c057c5b07c15447ac264d51b95d03a",
+  "version": "0.103"
 }
