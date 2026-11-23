@@ -1,12 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Die Fahne ist jetzt ein kleines Gebäude, der Fahnenplatz: ein Dach mit Fackel und blauem Wimpel, rundherum sieben Ablagen, eine je Ware (Regale mit Körben, eine Leiter für Fisch, ein Eimer für Speere, Armregale für Felle und Stämme, ein Steinstapel). Man geht einfach hindurch.",
-    "Ein Fahnenplatz kostet 2 Stämme und wird gebaut: Die Bauhelfer räumen frei und bringen die Stämme, der Bautrupp baut. Wege dorthin kann man schon vorher bauen, Waren gehen erst darüber, wenn er steht.",
-    "Für 2 weitere Stämme lässt sich ein Fahnenplatz ausbauen, auch der am Hauptgebäude: Er fasst dann 6 je Ware, und ein zweiter Fahnenwart kann dort arbeiten. Für jeden Fahnenwart brennt eine Fackel, und sie hält nachts die Tiere ein Stück fern.",
-    "Im Gebäudedesigner steht der Fahnenplatz (klein und ausgebaut); seine Ablagen lassen sich verschieben."
+    "Wasserwege und Anlegestellen gibt es nicht mehr. Neu ist der Pier (im Baumenü neben der Fahne, 2 Stämme): ein Steg am Ufer eines Sees oder breiten Flusses. Höchstens zwei Wege führen zu einem Pier, alle Piers am selben Wasser sind von selbst verbunden.",
+    "Jeder Läufer eines Weges zum Pier holt sich einen Stamm und schnitzt daraus sein eigenes Boot. Damit bringt er Waren über das Wasser bis zur Fahne hinter dem anderen Pier oder holt sie von dort, und paddelt wieder heim. Ein Weg zum Pier kann zwei Läufer haben.",
+    "Wer über das Wasser will, wartet am Pier, und ein Läufer fährt ihn hinüber, aber nur, wenn das schneller geht als zu Fuß. Im Boot ist immer nur eine Ware oder eine Person, Waren gehen vor.",
+    "Wird ein Läufer abgezogen, treibt sein Boot ab und ist weg."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "0a98b37312e39e323284fc37c011329b099c485202af5a507b53386d3a133aa3",
-  "version": "0.99.34"
+  "sha256": "a403de160f41fa40a9a1ab2a6e274d996f7661852ed1e8260daf948438bf5afc",
+  "version": "0.99.35"
 }
