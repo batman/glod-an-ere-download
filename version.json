@@ -1,15 +1,19 @@
 {
   "engine": "4.3",
   "notes": [
-    "Niemand verschwindet, springt oder taucht plötzlich auf. Unsichtbar ist nur, wer in einem Gebäude ist, und hinein und heraus geht jeder durch den Eingang.",
-    "Bei Tag sind alle draußen zu sehen. Wer nichts zu tun hat, steht an seinem eigenen Platz: Arbeiter vor ihrer Arbeitsstelle, Lagermeister bei ihren Stapeln, Krieger auf dem Übungsplatz, alle anderen am Feuer vor ihrem Haus. Wer sich lange langweilt, setzt sich dort hin. Ins Haus geht man nur zum Schlafen.",
-    "Gearbeitet wird draußen, auch die Speermacherin arbeitet vor ihrem Haus.",
-    "Der Anführer wartet zwischen seinen Runden am Thron, nicht im Hauptgebäude.",
-    "Zum Essen am Feuer geht man zu Fuß auf seinen Platz, danach durch den Eingang ins Haus. Krieger gehen zu Fuß auf ihren Übungsplatz und in den Kreis des Rituals.",
-    "Ein Kundschafter, der nachts nicht zurückkommt, geht weiter ins Dunkel und wird blasser, statt auf einen Schlag weg zu sein.",
-    "Die Beute eines vertriebenen Tieres bleibt liegen, bis ein Bauhelfer sie aufnimmt."
+    "Fahnenwarte tragen jetzt die Ware zuerst, die am längsten wartet – an ihrer Fahne wie auf den Ablageplätzen. So bleibt auf keiner Seite etwas ewig liegen.",
+    "Im Fenster des Hauptgebäudes stellst du ein, was alle Fahnenwarte zuerst tragen: wer am längsten wartet, Nahrung, Baumaterial oder Speere und Felle.",
+    "Hängt ein Ablageplatz an zwei gleich guten Fahnen, nimmt die Ware die Fahne, deren Fahnenwart gerade frei ist. Ein zweiter Fahnenplatz daneben entlastet also wirklich.",
+    "Ist ein Fahnenwart beschäftigt, hilft ein Läufer an seiner Fahne mit, wenn er selbst nichts zu tragen hat.",
+    "Das Fahnenfenster zeigt die Auslastung des Fahnenwarts. Kommt er nicht mehr nach, steht dort, dass er überlastet ist und was hilft.",
+    "Jedes Problem im Fenster eines Gebäudes sagt jetzt auch, was du dagegen tun kannst.",
+    "Alle Fenster sind gleich aufgebaut: oben Name und Problem, dann Arbeiter, Waren als große Kacheln (12 / 30), Einstellungen und ganz unten die Knöpfe, Abreißen als letzter. Die Schrift steht mittig auf den Knöpfen.",
+    "Die Baustelle zeigt nur noch die Waren groß, „Zuerst beliefern“ und „Baustelle abbrechen“. Hungrige Bauarbeiter sind kein Problem der Baustelle mehr – das steht beim Bauarbeiter selbst.",
+    "Das Ansehen ist eine gerade Leiste im Lorbeerkranz.",
+    "Im Baumenü ist die Kostentafel so groß wie der Ring um den Hammer und ganz rot, wenn im Dorf etwas fehlt.",
+    "Nacht überspringen: Mond, Pfeil und Sonne direkt auf der Leiste unten links. Im Gestaltungsmodus lässt sich der Knopf verschieben."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "c7e3bb8bba2c1338736b8c982462dc99e538f14b83ec833087d0562b421a06b2",
-  "version": "0.99.37"
+  "sha256": "402b42cd74e8f61c18de985b1e85b8282f8a86f02dbae3fae0d2a0f812d6fa88",
+  "version": "0.99.38"
 }
