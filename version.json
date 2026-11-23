@@ -1,19 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Fahnenwarte tragen jetzt die Ware zuerst, die am längsten wartet – an ihrer Fahne wie auf den Ablageplätzen. So bleibt auf keiner Seite etwas ewig liegen.",
-    "Im Fenster des Hauptgebäudes stellst du ein, was alle Fahnenwarte zuerst tragen: wer am längsten wartet, Nahrung, Baumaterial oder Speere und Felle.",
-    "Hängt ein Ablageplatz an zwei gleich guten Fahnen, nimmt die Ware die Fahne, deren Fahnenwart gerade frei ist. Ein zweiter Fahnenplatz daneben entlastet also wirklich.",
-    "Ist ein Fahnenwart beschäftigt, hilft ein Läufer an seiner Fahne mit, wenn er selbst nichts zu tragen hat.",
-    "Das Fahnenfenster zeigt die Auslastung des Fahnenwarts. Kommt er nicht mehr nach, steht dort, dass er überlastet ist und was hilft.",
-    "Jedes Problem im Fenster eines Gebäudes sagt jetzt auch, was du dagegen tun kannst.",
-    "Alle Fenster sind gleich aufgebaut: oben Name und Problem, dann Arbeiter, Waren als große Kacheln (12 / 30), Einstellungen und ganz unten die Knöpfe, Abreißen als letzter. Die Schrift steht mittig auf den Knöpfen.",
-    "Die Baustelle zeigt nur noch die Waren groß, „Zuerst beliefern“ und „Baustelle abbrechen“. Hungrige Bauarbeiter sind kein Problem der Baustelle mehr – das steht beim Bauarbeiter selbst.",
-    "Das Ansehen ist eine gerade Leiste im Lorbeerkranz.",
-    "Im Baumenü ist die Kostentafel so groß wie der Ring um den Hammer und ganz rot, wenn im Dorf etwas fehlt.",
-    "Nacht überspringen: Mond, Pfeil und Sonne direkt auf der Leiste unten links. Im Gestaltungsmodus lässt sich der Knopf verschieben."
+    "Ein Klick wählt nur noch den Menschen, der wirklich unter der Maus ist. Ein Klick daneben auf die Wiese wählt niemanden.",
+    "Niemand steht mehr in einem anderen: Wer an derselben Stelle warten würde, stellt sich daneben, auch dicht an Ablageplätzen und Gestellen.",
+    "Wer sitzt, sitzt auf seinem Klotz, die Füße davor auf dem Boden – am Feuer vor der Hütte, auf den Holzklötzen vor dem Thron und der Anführer auf seinem Thron. Bei Tag steht man vor seinem Klotz, nicht darin.",
+    "Waren springen nicht mehr: Beim Aufnehmen erscheint die Ware in der Hand, während sie an ihrem Platz verblasst, beim Ablegen umgekehrt. Erst dann geht der Träger weiter."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "402b42cd74e8f61c18de985b1e85b8282f8a86f02dbae3fae0d2a0f812d6fa88",
-  "version": "0.99.38"
+  "sha256": "eb8944e055dd43428fada6fd37cd14e86cd5452710ff5453df817dba92d84540",
+  "version": "0.100"
 }
