@@ -1,12 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Ein Klick wählt nur noch den Menschen, der wirklich unter der Maus ist. Ein Klick daneben auf die Wiese wählt niemanden.",
-    "Niemand steht mehr in einem anderen: Wer an derselben Stelle warten würde, stellt sich daneben, auch dicht an Ablageplätzen und Gestellen.",
-    "Wer sitzt, sitzt auf seinem Klotz, die Füße davor auf dem Boden – am Feuer vor der Hütte, auf den Holzklötzen vor dem Thron und der Anführer auf seinem Thron. Bei Tag steht man vor seinem Klotz, nicht darin.",
-    "Waren springen nicht mehr: Beim Aufnehmen erscheint die Ware in der Hand, während sie an ihrem Platz verblasst, beim Ablegen umgekehrt. Erst dann geht der Träger weiter."
+    "Über Stapel geht niemand mehr, auch kein Lagermeister: Er geht an den Rand des Stapels, bückt sich und geht außen herum weiter. Auch die Theke ist im Weg.",
+    "Ins Lager gehen nur noch seine Lagermeister, und nur durch ein Tor. Ein Lager ohne Tor sagt es im Fenster: Das Tor setzt du im Gebäudedesigner.",
+    "Speere, Baustoff und Opfergaben nimmt man sich nur noch vom Ablageplatz vorne. Liegt eine Ware nur auf dem Stapel, legt ein Lagermeister sie erst vorne hin.",
+    "Kommen die Lagermeister an einen Stapel nicht heran, ohne über etwas zu gehen, bleibt diese Ware auf ihrem Ablageplatz, und der Gebäudedesigner zeigt, wo Platz fehlt."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "eb8944e055dd43428fada6fd37cd14e86cd5452710ff5453df817dba92d84540",
-  "version": "0.100"
+  "sha256": "2ce2b352ffe9d608f2897b5118c72af538d163ebc7e715be1d4ca1a2f6dd57e1",
+  "version": "0.101"
 }
