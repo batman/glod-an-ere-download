@@ -1,10 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Das Hauptmenü hat ein Logo: Steinschrift mit Glut in den Rissen. Beim Start ist es kalter Stein, dann glimmt die Glut ganz langsam Stelle für Stelle auf und schimmert.",
-    "Weiterspielen, Neues Spiel, Einstellungen und Spiel beenden sind Knöpfe aus weißem Schiefer unter dem Logo, rechts im Bild, bei schmalem Fenster in der Mitte. Die Seiten wie Einstellungen stehen an ihrer Stelle."
+    "An einer Fahne gibt es keine Grenze von 8 Waren mehr: Jede Ware hat ihren eigenen Platz für 3 Stück. Eine Ware, die sich staut, hält keine andere mehr auf.",
+    "Im Fenster der Fahne stehen alle sieben Waren als Zähne wie in der Leiste, mit „x/3“, auch wenn nichts daliegt.",
+    "Am Hauptgebäude helfen Bauhelfer und Lagermeister, die nichts zu tun haben, an der Fahne beim Tragen, wenn der Fahnenwart beschäftigt ist.",
+    "Fahnenwarte tragen jetzt einen kräftig blauen Umhang, Läufer einen hellblauen.",
+    "Das Arbeitsgebiet des Forstgebäudes lässt sich schon setzen, solange es noch Baustelle ist."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "85e76bb085506022fd0230e3ab9988e756e457b29a1fa57835408a8cebe4baa8",
-  "version": "0.99.32"
+  "sha256": "b3d25fbde2533c53fc49fc2dd0b81b9ad220461f906d639c3a567b3294353c72",
+  "version": "0.99.33"
 }
