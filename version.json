@@ -1,12 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Beim Horn gehen alle Frauen und Kinder nach Hause, bei Tag wie bei Nacht. Eine Frau zündet das Feuer vor dem Haus an, dann bleiben sie drinnen, bis das Tier vertrieben ist.",
-    "Nur die Männer holen sich eine Fackel und ziehen gegen das wilde Tier.",
-    "Der Anführer zieht immer mit, auch wenn du eine Anführerin spielst. Eine Leibwache geht mit, die andere bleibt beim Partner im Hauptgebäude; ohne Partner gehen beide mit.",
-    "Ist das Tier fort, geht jeder zurück an das, was er tat: bei Tag an die Arbeit, nachts wieder schlafen."
+    "Neu am Hauptgebäude: das Vorratshaus. Nur dort gibt es Essen, die Theken sind fort. Abends holt der Mann jeder Hütte dort das Essen für alle und trägt es im Sammelkorb heim; niemand steht an, jeder nimmt sich sofort.",
+    "Bei Tag füllen die Lagermeister des Hauptgebäudes das Vorratshaus aus den Nahrungslagern, bis genug für das ganze Dorf darin liegt. Seine Fahne steigt mit der Füllung und wird oben grün.",
+    "Tippe auf das Vorratshaus: Sein Fenster zeigt jede Sorte mit ihrer Zahl, was vorhanden ist und was heute gebraucht wird.",
+    "Wer drei Tage hungert, holt sich dort eine Portion und isst sie daheim; ist nichts da, zieht er mit seiner Familie fort. Nach einem Sieg über ein wildes Tier holt sich jeder Kämpfer dort eine Portion."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "b20e646b06ed00d36ee31d02ae16445b3aa8c964df43c93d11c1085da1bbe6ac",
-  "version": "0.105"
+  "sha256": "da25246f57cf9812a16da1b8be4d4f6359efe7ff2a8090aeed748fb781d56e4b",
+  "version": "0.106"
 }
