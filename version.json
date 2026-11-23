@@ -1,12 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Neu am Hauptgebäude: das Vorratshaus. Nur dort gibt es Essen, die Theken sind fort. Abends holt der Mann jeder Hütte dort das Essen für alle und trägt es im Sammelkorb heim; niemand steht an, jeder nimmt sich sofort.",
-    "Bei Tag füllen die Lagermeister des Hauptgebäudes das Vorratshaus aus den Nahrungslagern, bis genug für das ganze Dorf darin liegt. Seine Fahne steigt mit der Füllung und wird oben grün.",
-    "Tippe auf das Vorratshaus: Sein Fenster zeigt jede Sorte mit ihrer Zahl, was vorhanden ist und was heute gebraucht wird.",
-    "Wer drei Tage hungert, holt sich dort eine Portion und isst sie daheim; ist nichts da, zieht er mit seiner Familie fort. Nach einem Sieg über ein wildes Tier holt sich jeder Kämpfer dort eine Portion."
+    "Kinder hungern nie: Bekommt in deinem Dorf ein Kind kein Abendessen, ist das Spiel verloren. Der Anführer hat seine Ehre verloren, und das ganze Volk verlässt das Dorf, auch die Leute des Hauptgebäudes.",
+    "Fällt das Ansehen des Dorfes ganz auf 0, ist das Spiel ebenso verloren.",
+    "Dann liegt in der Mitte eine Tafel, die dir sagt, warum das Dorf verloren ist; mit „Zum Hauptmenü“ beginnst du ein neues Spiel.",
+    "Totempfahl, Steinkreis und Ahnenhügel halten das Ansehen nicht mehr fest: Mit ihnen steigt es schneller und sinkt um ein Zehntel langsamer. Ihr Fenster und das Fenster Ansehen sagen, wie viel."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "da25246f57cf9812a16da1b8be4d4f6359efe7ff2a8090aeed748fb781d56e4b",
-  "version": "0.106"
+  "sha256": "faad0091557fad46d88a9027947a6767b01573dee56c117d22997eb2fd0bb29f",
+  "version": "0.107"
 }
