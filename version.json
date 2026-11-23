@@ -1,13 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Voll ist voll: Ein voller Ablageplatz nimmt nichts mehr an, auch nicht am Feierabend. Wer dann noch eine Ware trägt, legt sie ab, wo er steht, und holt sie am Morgen wieder. Essen darf er mit heimnehmen.",
-    "Neue Bewohner tragen ihre Gaben selbst zum Hauptgebäude, erst dann ziehen sie ein. Reisewaren bringen die Lagermeister zum Thron.",
-    "Ein Kundschafter holt sich Speer, Fell und eine Portion Essen selbst, bevor er losgeht. Das Plus nimmt nichts mehr aus dem Vorrat.",
-    "Zu Spielbeginn wartet kein Paar mehr am Hauptgebäude. Alle vier Lagermeister eines Lagers setzt du selbst ein.",
-    "Das Dickicht wächst überall gleich nach, auch in den Feuerkreisen. Die Roderin rodet es dort, wo sie gerade ist."
+    "Kein Feuer zündet sich mehr selbst an. Das Feuer vor der Hütte zündet abends an, wer zuerst heimkommt, morgens zum Frühstück wieder einer. Auch Männerhaus und Frauenhaus haben jetzt ein Feuer mit Sitzklötzen.",
+    "Die Feuerstelle: Die Stämme liegen direkt im Steinring und brennen einer nach dem anderen, jeder einen ganzen Spieltag. Ist sie aus, zündet sie an, wer den nächsten Stamm hineinlegt.",
+    "Das große Feuer am Hauptgebäude brennt von seinem Holzstoß. Die Lagermeister tragen die Stämme vom Holzstapel hinüber.",
+    "Am Ritualplatz glüht sonst nur die Glut. Für ein Fest legen die Bauhelfer die Stämme in die Grube, erst dann brennt das hohe Feuer.",
+    "Die Fackeln der Lager zündet ein Lagermeister in der Abenddämmerung an, am Morgen gehen sie aus. Am Fahnenplatz zündet jeder Fahnenwart seine Fackel selbst an."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "a6ce98c15a81893bc100374402a7271515c057c5b07c15447ac264d51b95d03a",
-  "version": "0.103"
+  "sha256": "112b1587d18995ba69439f2cd798000e04d1facb69fbe546b7af3ac0da8a3e57",
+  "version": "0.104"
 }
