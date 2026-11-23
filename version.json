@@ -1,13 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "An einer Fahne gibt es keine Grenze von 8 Waren mehr: Jede Ware hat ihren eigenen Platz für 3 Stück. Eine Ware, die sich staut, hält keine andere mehr auf.",
-    "Im Fenster der Fahne stehen alle sieben Waren als Zähne wie in der Leiste, mit „x/3“, auch wenn nichts daliegt.",
-    "Am Hauptgebäude helfen Bauhelfer und Lagermeister, die nichts zu tun haben, an der Fahne beim Tragen, wenn der Fahnenwart beschäftigt ist.",
-    "Fahnenwarte tragen jetzt einen kräftig blauen Umhang, Läufer einen hellblauen.",
-    "Das Arbeitsgebiet des Forstgebäudes lässt sich schon setzen, solange es noch Baustelle ist."
+    "Die Fahne ist jetzt ein kleines Gebäude, der Fahnenplatz: ein Dach mit Fackel und blauem Wimpel, rundherum sieben Ablagen, eine je Ware (Regale mit Körben, eine Leiter für Fisch, ein Eimer für Speere, Armregale für Felle und Stämme, ein Steinstapel). Man geht einfach hindurch.",
+    "Ein Fahnenplatz kostet 2 Stämme und wird gebaut: Die Bauhelfer räumen frei und bringen die Stämme, der Bautrupp baut. Wege dorthin kann man schon vorher bauen, Waren gehen erst darüber, wenn er steht.",
+    "Für 2 weitere Stämme lässt sich ein Fahnenplatz ausbauen, auch der am Hauptgebäude: Er fasst dann 6 je Ware, und ein zweiter Fahnenwart kann dort arbeiten. Für jeden Fahnenwart brennt eine Fackel, und sie hält nachts die Tiere ein Stück fern.",
+    "Im Gebäudedesigner steht der Fahnenplatz (klein und ausgebaut); seine Ablagen lassen sich verschieben."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "b3d25fbde2533c53fc49fc2dd0b81b9ad220461f906d639c3a567b3294353c72",
-  "version": "0.99.33"
+  "sha256": "0a98b37312e39e323284fc37c011329b099c485202af5a507b53386d3a133aa3",
+  "version": "0.99.34"
 }
