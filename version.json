@@ -1,13 +1,15 @@
 {
   "engine": "4.3",
   "notes": [
-    "Die Lagermeister halten an jedem Ablageplatz der Lager und des Hauptgebäudes 3 Stück jeder Ware bereit: Liegt mehr da, tragen sie eins auf den Stapel, liegt weniger da, holen sie eins nach vorn. So geht keine Ware mehr hinein und gleich wieder heraus.",
-    "Gestelle für Fisch und Fleisch, der Tisch der Früchte, die Pflöcke am Holzstapel und das Speergestell stehen immer da, auch leer.",
-    "Auf der Theke liegen immer 3 Portionen bereit, möglichst von jeder Sorte eine. Wer hungrig ist und nichts zu tun hat, holt sich bei Tag dort selbst eine Portion und isst sie gleich an der Theke.",
-    "Werkstätten bekommen ihren Rohstoff, bis der Platz voll ist.",
-    "Keine Ware springt mehr: Wird sie aufgenommen, wird sie am Platz blasser und erscheint in der Hand. Wird sie abgelegt, wird sie in der Hand blasser und erscheint am neuen Platz. Unterwegs liegt sie nicht mehr zugleich noch am Stapel."
+    "Niemand verschwindet, springt oder taucht plötzlich auf. Unsichtbar ist nur, wer in einem Gebäude ist, und hinein und heraus geht jeder durch den Eingang.",
+    "Bei Tag sind alle draußen zu sehen. Wer nichts zu tun hat, steht an seinem eigenen Platz: Arbeiter vor ihrer Arbeitsstelle, Lagermeister bei ihren Stapeln, Krieger auf dem Übungsplatz, alle anderen am Feuer vor ihrem Haus. Wer sich lange langweilt, setzt sich dort hin. Ins Haus geht man nur zum Schlafen.",
+    "Gearbeitet wird draußen, auch die Speermacherin arbeitet vor ihrem Haus.",
+    "Der Anführer wartet zwischen seinen Runden am Thron, nicht im Hauptgebäude.",
+    "Zum Essen am Feuer geht man zu Fuß auf seinen Platz, danach durch den Eingang ins Haus. Krieger gehen zu Fuß auf ihren Übungsplatz und in den Kreis des Rituals.",
+    "Ein Kundschafter, der nachts nicht zurückkommt, geht weiter ins Dunkel und wird blasser, statt auf einen Schlag weg zu sein.",
+    "Die Beute eines vertriebenen Tieres bleibt liegen, bis ein Bauhelfer sie aufnimmt."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "41c4a0bf9031880e75bcbc8eadca5c0e79f753862a5604b23b484ede0c40bc2d",
-  "version": "0.99.36"
+  "sha256": "c7e3bb8bba2c1338736b8c982462dc99e538f14b83ec833087d0562b421a06b2",
+  "version": "0.99.37"
 }
