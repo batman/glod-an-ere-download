@@ -1,13 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Kein Feuer zündet sich mehr selbst an. Das Feuer vor der Hütte zündet abends an, wer zuerst heimkommt, morgens zum Frühstück wieder einer. Auch Männerhaus und Frauenhaus haben jetzt ein Feuer mit Sitzklötzen.",
-    "Die Feuerstelle: Die Stämme liegen direkt im Steinring und brennen einer nach dem anderen, jeder einen ganzen Spieltag. Ist sie aus, zündet sie an, wer den nächsten Stamm hineinlegt.",
-    "Das große Feuer am Hauptgebäude brennt von seinem Holzstoß. Die Lagermeister tragen die Stämme vom Holzstapel hinüber.",
-    "Am Ritualplatz glüht sonst nur die Glut. Für ein Fest legen die Bauhelfer die Stämme in die Grube, erst dann brennt das hohe Feuer.",
-    "Die Fackeln der Lager zündet ein Lagermeister in der Abenddämmerung an, am Morgen gehen sie aus. Am Fahnenplatz zündet jeder Fahnenwart seine Fackel selbst an."
+    "Beim Horn gehen alle Frauen und Kinder nach Hause, bei Tag wie bei Nacht. Eine Frau zündet das Feuer vor dem Haus an, dann bleiben sie drinnen, bis das Tier vertrieben ist.",
+    "Nur die Männer holen sich eine Fackel und ziehen gegen das wilde Tier.",
+    "Der Anführer zieht immer mit, auch wenn du eine Anführerin spielst. Eine Leibwache geht mit, die andere bleibt beim Partner im Hauptgebäude; ohne Partner gehen beide mit.",
+    "Ist das Tier fort, geht jeder zurück an das, was er tat: bei Tag an die Arbeit, nachts wieder schlafen."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "112b1587d18995ba69439f2cd798000e04d1facb69fbe546b7af3ac0da8a3e57",
-  "version": "0.104"
+  "sha256": "b20e646b06ed00d36ee31d02ae16445b3aa8c964df43c93d11c1085da1bbe6ac",
+  "version": "0.105"
 }
