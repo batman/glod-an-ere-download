@@ -1,11 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Neues Spiel: „Wähle dein Geschlecht“ – die Köpfe von Mann und Frau weiß auf dem Schiefer gezeichnet. Zu Beginn ist nichts gewählt und „Spiel starten“ gesperrt; der gewählte Kopf wird größer und trägt die Krone, der andere wird kleiner.",
-    "Die Kartengröße wählst du mit dem Kiesel in der Laufbahn (klein, mittel, groß), darunter die Zahl der Felder. Wir sprechen von Karten, nicht mehr von Inseln.",
-    "Die gekrakelten Kreideflächen als Hintergrund sind weg; die Kreiderahmen um die Namensfelder bleiben."
+    "Partner frei wählbar: Unter „Neues Spiel“ wählst du „Partner: ohne / mit“. Mit Partner lebt er von Anfang an im Hauptgebäude, nicht erst nach dem Ausbau.",
+    "Mit Partner steigt das Ansehen ein Viertel schneller, denn er geht auch allein durchs Dorf und kümmert sich um die Leute – dann geht eine Leibwache mit ihm. Ohne Partner bleiben beide Wachen immer bei dir.",
+    "Im Hauptgebäude isst jetzt jeder mit: Anführer, Partner, Leibwachen und Bauhelfer. Das Hauptgebäude braucht also mehr Nahrung.",
+    "Neben dem Thron steht mit Partner ein zweiter, schlichterer Sitz – kein Fell mehr am Boden."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "7c6f5e85027ac063297a46bfbe4d807360e83b1132ba97601dbebbb9f62293bc",
-  "version": "0.117"
+  "sha256": "ab0031dbfad25bb5c5ee4e54afa1ffb19813b5f04cd733465c39ca30fc5f2d82",
+  "version": "0.118"
 }
