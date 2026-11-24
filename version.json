@@ -1,14 +1,11 @@
 {
   "engine": "4.3",
   "notes": [
-    "In eine Hütte zieht nur noch ein Paar. Wer allein kommt, zieht in eine Kammer im Männer- oder Frauenhaus. Paare und Familien von außen ziehen in eine leere Hütte.",
-    "Große Kinder ziehen von selbst in eine freie Kammer, ohne den Anführer zu fragen. Ist keine frei, bleiben sie daheim.",
-    "Ein Mann aus dem Männerhaus und eine Frau aus dem Frauenhaus bitten zusammen um eine leere Hütte, ohne Gaben. Ein Ja bringt Ansehen.",
-    "Wer lange ohne Arbeit in einer Kammer lebt, keine Hütte in Aussicht hat und unzufrieden ist, bittet ums Fortziehen: um einen Speer, zwei Felle und etwas Essen. Seine Kammer wird frei.",
-    "Paare in Hütten bekommen ihr Leben lang Kinder, aber selten: etwa alle zehn Tage, solange sie satt sind.",
-    "Das Banner lässt sich jetzt immer hissen, auch wenn keine Hütte frei ist, und holt sich nicht mehr von selbst ein."
+    "Das Fenster „Entscheidung“ spricht jetzt in Worten: oben, was frei ist und wer gesucht wird; für jeden Bittenden eine Kachel mit Überschrift („Ein Mann bittet um Zuflucht“), was er mitbringt (Ware und Zahl), wo er einzieht, und ein Stein in der Rinne Nein/Ja.",
+    "Erst „Entscheidungen übernehmen“ führt aus, was du gewählt hast. Reicht der Platz nicht, steht es rot da und der Knopf bleibt zu. Was du an Ansehen gewinnst oder verlierst, steht darüber.",
+    "Die Bilder der Bewohner sind in allen Fenstern gleich groß, nur Anführer und Partner etwas größer."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "911bae90fd58a096f3a6a4ac577ab2d60d5f48eff83720c9e5934462f5fa105a",
-  "version": "0.124"
+  "sha256": "d5007048ff40fa97e36946a3367a38807afdfae15141dfafa039939a2391f0f8",
+  "version": "0.125"
 }
