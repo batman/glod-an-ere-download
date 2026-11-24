@@ -1,10 +1,14 @@
 {
   "engine": "4.3",
   "notes": [
-    "Männer- und Frauenhaus sind jetzt wie eine große Hütte: sechs Kammern, keine eigene Arbeit, keine Sammlerin und kein Jäger mehr fürs Haus, keine Ablageplätze. Das Fenster zeigt nur noch die Kammern.",
-    "Vorrang statt Verbot: Einfache Berufe bekommen zuerst die Leute aus Männer- und Frauenhaus, alle anderen zuerst die Leute aus den Hütten. Ist dort keiner frei, springt jemand von der anderen Seite ein und wird abgelöst, sobald jemand mit Vorrang frei ist."
+    "In eine Hütte zieht nur noch ein Paar. Wer allein kommt, zieht in eine Kammer im Männer- oder Frauenhaus. Paare und Familien von außen ziehen in eine leere Hütte.",
+    "Große Kinder ziehen von selbst in eine freie Kammer, ohne den Anführer zu fragen. Ist keine frei, bleiben sie daheim.",
+    "Ein Mann aus dem Männerhaus und eine Frau aus dem Frauenhaus bitten zusammen um eine leere Hütte, ohne Gaben. Ein Ja bringt Ansehen.",
+    "Wer lange ohne Arbeit in einer Kammer lebt, keine Hütte in Aussicht hat und unzufrieden ist, bittet ums Fortziehen: um einen Speer, zwei Felle und etwas Essen. Seine Kammer wird frei.",
+    "Paare in Hütten bekommen ihr Leben lang Kinder, aber selten: etwa alle zehn Tage, solange sie satt sind.",
+    "Das Banner lässt sich jetzt immer hissen, auch wenn keine Hütte frei ist, und holt sich nicht mehr von selbst ein."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "5f4c328d534ea2782702fbdaca0e121418178a4c496fddbe0a84133fefcf4d85",
-  "version": "0.123"
+  "sha256": "911bae90fd58a096f3a6a4ac577ab2d60d5f48eff83720c9e5934462f5fa105a",
+  "version": "0.124"
 }
