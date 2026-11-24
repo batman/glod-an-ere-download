@@ -1,10 +1,9 @@
 {
   "engine": "4.3",
   "notes": [
-    "Ein Klick trifft nur noch Menschen, die man auch sieht: Wer hinter einer Tanne, dem Zelt des Hauptgebäudes, dem Thron oder einer Hütte steht, wird nicht mehr gewählt – der Klick geht an das, was davor zu sehen ist.",
-    "Ansehen und Tempo sind wieder in der Leiste, auch wenn der Knopf der Planansicht an einer anderen Stelle liegt."
+    "Neues Spiel: Die Köpfe von Mann und Frau sind jetzt dunkel wie mit Kohle auf eine helle Steinplatte gezeichnet, nicht mehr weiß auf Schwarz."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "a4e19e2d8076353943d8ccf02bcf250397b38bd5d84489b05c3f051773ab5639",
-  "version": "0.121"
+  "sha256": "0ce1e88341e5d35f33d63798bb6f38d9340e93f082aecf0f628eb2bc9f5b82a1",
+  "version": "0.122"
 }
