@@ -1,11 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Bauauftrags-Fahne: An jeder Baustelle steht jetzt ein hoher Mast mit einem weißen Tuch und dem Bau-Hammer. So findest du jede Baustelle wieder, auch mitten im Dickicht.",
-    "Die Fahne zeigt den Fortschritt: Beim Setzen hängt sie oben, beim Bauen sinkt sie, und wenn das Gebäude fertig ist, ist sie weg. Das Baustellenschild gibt es nicht mehr.",
-    "Überall, wo ein Hammer fürs Bauen steht (Bauarbeiter, Übersicht „im Bau“, Willkommen), ist es jetzt der Hammer aus dem Hammerkreis."
+    "Das Fahnenhaus ersetzt den Fahnenplatz: eine Aussichtsplattform auf Stelzen mit Steigbaum und Bank, hinten zwei Kräne für Fisch und Fleisch, oben dein Wappen im Querbalken, davor zwei Fackeln.",
+    "Darunter liegen Holz und Steine, das Sammelkost-Regal, der Speer-Eimer und die Felle. Jedes Fahnenhaus fasst 6 von jeder Ware und hat Platz für zwei Fahnenwarte. Ausbauen gibt es nicht mehr; es kostet 4 Stämme.",
+    "Beim Setzen drehst du das Fahnenhaus mit dem Ring wie ein Gebäude. Hinten (Holz, Regal, Speere) läuft niemand frei herum; ein Weg darf trotzdem von jeder Seite kommen.",
+    "Kommt oder geht ein Fisch oder Fleisch, fahren die Bündel am Kran kurz herunter und wieder hoch.",
+    "Im Gebäudedesigner steht der Fahnenplatz nicht mehr: Das Fahnenhaus ist fest."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "8fa52ff049982b969ea9d511bbf5f9257f8224419e2f9fecabcdb40289191079",
-  "version": "0.132"
+  "sha256": "91f8f3ff5d86a9fe6a993cfd060db9dce5493966918e727e02a4077929480abc",
+  "version": "0.133"
 }
