@@ -1,13 +1,10 @@
 {
   "engine": "4.3",
   "notes": [
-    "Das Fahnenhaus ersetzt den Fahnenplatz: eine Aussichtsplattform auf Stelzen mit Steigbaum und Bank, hinten zwei Kräne für Fisch und Fleisch, oben dein Wappen im Querbalken, davor zwei Fackeln.",
-    "Darunter liegen Holz und Steine, das Sammelkost-Regal, der Speer-Eimer und die Felle. Jedes Fahnenhaus fasst 6 von jeder Ware und hat Platz für zwei Fahnenwarte. Ausbauen gibt es nicht mehr; es kostet 4 Stämme.",
-    "Beim Setzen drehst du das Fahnenhaus mit dem Ring wie ein Gebäude. Hinten (Holz, Regal, Speere) läuft niemand frei herum; ein Weg darf trotzdem von jeder Seite kommen.",
-    "Kommt oder geht ein Fisch oder Fleisch, fahren die Bündel am Kran kurz herunter und wieder hoch.",
-    "Im Gebäudedesigner steht der Fahnenplatz nicht mehr: Das Fahnenhaus ist fest."
+    "Hat ein Fahnenwart eine Weile nichts zu tun, steigt er Sprosse für Sprosse den Steigbaum hinauf und setzt sich oben auf die Bank. Von dort hält er Ausschau.",
+    "Kommt Arbeit, klettert er erst herunter und geht dann los; niemand springt. Der zweite Fahnenwart wartet einen Schritt daneben und sitzt oben neben ihm."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "91f8f3ff5d86a9fe6a993cfd060db9dce5493966918e727e02a4077929480abc",
-  "version": "0.133"
+  "sha256": "65536127ad516c45c50f0818a167b621e0ae33ef9a48dc8d222160bd1658598a",
+  "version": "0.134"
 }
