@@ -1,10 +1,10 @@
 {
   "engine": "4.3",
   "notes": [
-    "Runde Hänge: Der Boden zeigt keine Dreiecke und keine geraden Knicke mehr. Ein Hang beginnt sanft, wird in der Mitte steiler und läuft unten weich aus.",
-    "Die Leute, Bäume und alles andere stehen auf dem runden Boden. Wo man bauen kann und was eben ist, bleibt gleich."
+    "Schieferkante: Jede Schieferplatte besteht jetzt aus drei hauchdünnen Schichten, die aufeinanderliegen. Jede ist für sich gebrochen, in längeren geraden Stücken, und die unteren schauen am Rand ein Stück hervor – so, wie du es auf der Seite „Schieferbruch“ eingestellt hast.",
+    "Die Bruchkanten fangen das Licht oben links und liegen unten rechts im Schatten. Die Oberfläche hat deine Werte für Spaltflächen, Unebenheit, Risse und Sprenkel."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "265efece74cffb4d8533235e4294277161efadf988367d71d8ddf3715ea37b57",
-  "version": "0.129"
+  "sha256": "8e72ad55d52a3bd16e2be6af11823cb029c87119a52d127b6448147dc20ba80e",
+  "version": "0.130"
 }
