@@ -1,11 +1,11 @@
 {
   "engine": "4.3",
   "notes": [
-    "Schatten: Steine, Knochen, liegende Stämme und Waren auf Fahnenplätzen und in den Händen werfen wieder Schatten. Dafür gibt es auf der Seite Grafik den neuen Schalter „Kleine Schatten“.",
-    "Grafik-Stufe: Oben auf der Seite Grafik wählst du minimal, ausbalanciert, maximal oder eigene. Voreingestellt ist ausbalanciert: Ruckelt das Spiel, weil das Zeichnen zu lange dauert, schaltet es selbst nach und nach ab (zuerst die kleinen Schatten, zuletzt die Schatten) und wieder an, wenn Luft ist.",
-    "Stellst du einen Schalter selbst um, gilt deine Wahl, und die Stufe steht auf „eigene“."
+    "Bauauftrags-Fahne: An jeder Baustelle steht jetzt ein hoher Mast mit einem weißen Tuch und dem Bau-Hammer. So findest du jede Baustelle wieder, auch mitten im Dickicht.",
+    "Die Fahne zeigt den Fortschritt: Beim Setzen hängt sie oben, beim Bauen sinkt sie, und wenn das Gebäude fertig ist, ist sie weg. Das Baustellenschild gibt es nicht mehr.",
+    "Überall, wo ein Hammer fürs Bauen steht (Bauarbeiter, Übersicht „im Bau“, Willkommen), ist es jetzt der Hammer aus dem Hammerkreis."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "7d8b15f8c7fb866229548781435a80d8b340a09df67efc8218d88cd168972362",
-  "version": "0.131"
+  "sha256": "8fa52ff049982b969ea9d511bbf5f9257f8224419e2f9fecabcdb40289191079",
+  "version": "0.132"
 }
