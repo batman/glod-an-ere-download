@@ -1,13 +1,11 @@
 {
   "engine": "4.3",
   "notes": [
-    "Neues Spiel ist eine breite Tafel ohne Scrollen: Wen krönst du? Die Krone sitzt auf Mann oder Frau, darunter der Schalter und eure Namen. Wappen und Insel wählst du als Bilder, gestartet wird erst mit „Spiel starten“. Ein Klick ändert nur das Angeklickte.",
-    "Die Namen gehören jetzt zum Spiel: Jedes Dorf hat seine eigenen. Ändern kannst du sie im Spielmenü unter „Namen“; in den Einstellungen des Hauptmenüs stehen sie nicht mehr.",
-    "Auf der Tafel der Bewohner steht jetzt getrennt, wie viele Männer und wie viele Frauen keine Arbeit haben, unter ihrer Zahl mit einem Strich.",
-    "Gestaltungsmodus der Leiste: Jedes Teil bekommt Farbe und Deckkraft und lässt sich nach vorn oder hinten legen. Die Zähne der Waren liegen jetzt über der Kartenscheibe, das Gras vor der Tanne.",
-    "Neben der Karte wächst eine kleine Wiese statt ein paar Halmen."
+    "Vier Völker statt drei Wappen: Weidfolk (Volk der Jäger, je Reh 1 Fleisch mehr), Fiskfolk (Volk der Fischer, ein Viertel mehr Fang), Lisfolk (Volk der Sammler, Sammlerinnen und Farmerinnen bringen ein Viertel mehr) und Herifolk (Volk der Krieger, Leibwachen und Krieger kämpfen ein Viertel stärker). Jedes Volk bringt einen Vorteil und keinen Nachteil.",
+    "Unter „Neues Spiel“ wählst du dein Volk mit einem Karussell: das gewählte Wappen groß vorn, die anderen kleiner dahinter, mit den Pfeilen links und rechts drehst du es weiter.",
+    "Die neuen Wappen – ein Fell an einem Ast – wehen auch auf der Fahne am Haupthaus und stehen im Fenster des Hauptgebäudes."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "5600c8bc1d507276ac43373395ebddb217bc5d77da81382e8f73165dc9765c35",
-  "version": "0.114"
+  "sha256": "f37e0fc128c0cf20f12e8cda4304e4d5e9b2a71d0569fdec180bd665b24a3f8a",
+  "version": "0.116"
 }
