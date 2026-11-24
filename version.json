@@ -1,13 +1,11 @@
 {
   "engine": "4.3",
   "notes": [
-    "Gebäude setzen: Um das Gebäude liegt jetzt ein gezeichneter hellgrüner Ring mit Pfeil, groß genug, dass man das Gebäude darin gut sieht. Der Pfeil zeigt zur Vorderseite; fass den Pfeil an (oder zieh am Ring), um es zu drehen.",
-    "Das Gebäude schaut beim Setzen schon in die beste Richtung: am liebsten so, dass alle Ablageplätze eine Fahne erreichen.",
-    "Unter dem Gebäude ist in der Vorschau alles weg, als wären die Planierer schon da gewesen: kein Dickicht, keine Bäume, kein Kleinkram.",
-    "Die Ablageplätze zeigen sich wie in der Planansicht: eine Farbfläche, und eine gestrichelte Linie zur Fahne, wenn eine sie erreicht. Haken und X sind weg.",
-    "Ein Klick auf eine andere weiße Kachel setzt das Gebäude um, ein Klick ins Gebäude baut es. Das Baumenü bleibt danach offen."
+    "Einspringer: Ist für einen Beruf niemand vom richtigen Geschlecht frei, springt jemand vom anderen Geschlecht ein – zum Beispiel ein Mann als Sammler oder eine Frau als Holzfällerin. Er arbeitet nur halb so schnell, eine Kriegerin kämpft halb so stark.",
+    "Sobald jemand Passendes frei ist, löst er den Einspringer ab. Öffnet sich ein Posten, der zum Einspringer passt, wechselt er von selbst dorthin.",
+    "Im Fenster der Person steht hinter dem Beruf „springt ein“."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "279bd691702cd4d56e5204c6fd1be2c364e04a6b05e9482f07a6947eeee495bf",
-  "version": "0.127"
+  "sha256": "4b0087545e16b5b7de0065b1cb270c1901f5a954d2966fe20f2f39c3ffcd1a03",
+  "version": "0.128"
 }
