@@ -1,12 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Noch flüssiger: Dein Dorf zeigt wieder etwa ein Viertel mehr Bilder pro Sekunde, große Dörfer ein Drittel mehr. Der Schatten der Sonne wird in zwei Stufen statt vier gezeichnet – nah bleibt er so scharf wie bisher.",
-    "Ablageplätze, Hütten-Höfe und die Ausrüstung der Menschen (Tasche, Krone, Bärenhaube, Speer, Ehrenfell) werden je als ein Stück gezeichnet; kleine Waren auf Fahnenplätzen und in den Händen werfen keinen eigenen Schatten mehr.",
-    "Wer nicht im Bild ist, wird einfacher behandelt: Erst wenn er ins Bild kommt, bekommt er seine Haltung und seine Last.",
-    "Das Arbeitsgebiet eines Forstgebäudes setzt du jetzt schon, solange es Baustelle ist: im Fenster der Baustelle mit „Fläche wählen“."
+    "Neues Spiel ist eine breite Tafel ohne Scrollen: Wen krönst du? Die Krone sitzt auf Mann oder Frau, darunter der Schalter und eure Namen. Wappen und Insel wählst du als Bilder, gestartet wird erst mit „Spiel starten“. Ein Klick ändert nur das Angeklickte.",
+    "Die Namen gehören jetzt zum Spiel: Jedes Dorf hat seine eigenen. Ändern kannst du sie im Spielmenü unter „Namen“; in den Einstellungen des Hauptmenüs stehen sie nicht mehr.",
+    "Auf der Tafel der Bewohner steht jetzt getrennt, wie viele Männer und wie viele Frauen keine Arbeit haben, unter ihrer Zahl mit einem Strich.",
+    "Gestaltungsmodus der Leiste: Jedes Teil bekommt Farbe und Deckkraft und lässt sich nach vorn oder hinten legen. Die Zähne der Waren liegen jetzt über der Kartenscheibe, das Gras vor der Tanne.",
+    "Neben der Karte wächst eine kleine Wiese statt ein paar Halmen."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "e9b84b7f9b4308564fe53ba1fa345dbdf1487975e183e2ff0139e632edb19e59",
-  "version": "0.113"
+  "sha256": "5600c8bc1d507276ac43373395ebddb217bc5d77da81382e8f73165dc9765c35",
+  "version": "0.114"
 }
