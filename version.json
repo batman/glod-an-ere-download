@@ -1,11 +1,18 @@
 {
   "engine": "4.3",
   "notes": [
-    "Sammelkost: Die Früchte heißen jetzt Sammelkost – alles Essbare aus Wald und Beet. Ihr Korb ist bunt gemischt: Beeren, Wildäpfel, Pilze, Kräuter, Möhren und Honigwaben.",
-    "Fisch ist ein einzelner großer Fisch statt eines Bündels, Fleisch eine Rehkeule mit Knochen statt eines Korbs. Beide sehen überall gleich aus: getragen, auf den Stufen der Ablageplätze, auf dem Fahnenplatz und am Trockengestell im Lager.",
-    "Im Lager steht das Trockengestell für Fisch und Fleisch immer da, mit beiden Querstangen, auch wenn nichts daran hängt."
+    "Arbeit nach Zeit, ohne Glück: Jeder Gang bringt etwas. Ein Fischer bringt etwa 5 Fische am Tag, eine Sammlerin etwa 7 Körbe Sammelkost; wer nah an seiner Arbeit wohnt, schafft etwas mehr, wer weit läuft, etwas weniger.",
+    "Der Fischer sitzt nicht nur am Wasser: Er hebt eine Reuse heraus, wirft das Netz und hockt sich zum Fang.",
+    "Der Jäger holt ein Reh am Tag: Er pirscht sich etwa einen halben Arbeitstag heran, erlegt es jedes Mal und trägt es ganz auf den Schultern heim.",
+    "Daheim hängt er es an seinen Zerlegeplatz, ein Gestell aus zwei Pfählen mit Querstange und Fackel; jeder Jägerplatz hat seinen eigenen. Mit dem Steinmesser löst er zuerst das Fell und bringt es zum Fellplatz, dann Keule um Keule zum Fleischplatz, 5 Fleisch und 1 Fell. Das Bündel wird mit jedem Stück kleiner.",
+    "Solange am Zerlegeplatz noch etwas hängt, jagt er nicht; ist der Platz für das nächste Stück voll, wartet er. Am Abend hört er auf und macht am Morgen weiter. Im Wald bleibt nichts liegen, und kein Fleisch lockt mehr wilde Tiere an.",
+    "Der Jäger hat seinen eigenen Speer: Er holt ihn sich einmal und trägt ihn bei der Jagd in der Hand. Wird er abgezogen, ist der Speer verloren.",
+    "Wo Wald ist, gibt es von Anfang an genug Rehe; mit einer Försterin sind 3 Sammlerinnen voll beschäftigt.",
+    "Verteilung am Vorratshaus: Ist die Nahrung knapp, teilt das Spiel aus. Die erste Portion bekommen Kinder, dann Frauen, dann Männer mit Familie, dann alleinstehende Männer; die zweite Portion zuerst die Familien, dann die Alleinstehenden, wer mehr Ehre hat zuerst. Reicht es für alle doppelt, bekommt jeder zwei. Jeder, der Essen holt, nimmt nur, was seinen Leuten zusteht.",
+    "Zufriedenheit: Jeder hat jetzt eine Laune, die langsam steigt und sinkt. 2 Portionen am Tag machen sehr zufrieden, 1 Portion normal gelaunt, keine sehr schlecht gelaunt; alle drei Sorten Nahrung machen zufriedener. Im Fenster der Person steht, wie zufrieden sie ist und wie viele Portionen sie zuletzt am Tag bekam.",
+    "Sehr Zufriedene arbeiten etwas schneller. Kinder bekommt nur ein Paar, das etwa vier Tage lang sehr zufrieden war; bei knapper Nahrung gibt es keine."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "b7afc80c418787d316eb3ec24f49989bdd6a0dc6f086b8c99091dd65c6a5470f",
-  "version": "0.110"
+  "sha256": "b1fa762f79737017a3f78540b2d56c06d9e2b9d46cdce0403ae3cfab89c0ab11",
+  "version": "0.111"
 }
