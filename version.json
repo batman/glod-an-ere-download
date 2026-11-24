@@ -1,12 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Neues Spiel: Die Gesichter von Mann und Frau sind groß und stehen nah beieinander. Wer gewählt ist, trägt eine glänzende goldene Krone wie der Anführer im Spiel.",
-    "Beim Umschalten wandert die Krone langsam: Der Neue bekommt sie, während der andere seine langsam verliert.",
-    "Die letzte Seite heißt jetzt „Spiel bereit“. Zurück und Weiter tragen spitze Klammern.",
-    "Laden: Zuerst ist alles schwarz, zwei Fackeln brennen, und im Willkommensfenster läuft ein Ladebalken. Karte und Leiste werden dahinter fertig gebaut. „Los geht's“ geht erst, wenn alles bereit ist, dann blendet das Schwarz langsam aus."
+    "Mehr Essen zum Start: 20 Sammelkost, 30 Fleisch und 30 Fisch.",
+    "Jeder Lagerstapel fasst jetzt, was sichtbar darauf passt, am Hauptgebäude wie in den Lagern: Stämme 36, Steine 48, Felle 60, Sammelkost 20, Fisch 80, Fleisch 80, Speere 24.",
+    "Stämme liegen als Dreieck zwischen niedrigen Pflöcken mit Stütze und Lederriemen. Speere lehnen abwechselnd von vorn und hinten. Sammelkost steht in einem Regal statt auf einem Tisch.",
+    "Fisch und Fleisch haben je vier Trockengestelle, die von Anfang an dastehen."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "f8c336330ed03645334ac16c96a3cb9b3a30315e9c21a4e9daf4bc5b0747b05a",
-  "version": "0.141"
+  "sha256": "1a105afc906a9a3f0b741fe9b2873a0de1ac4fbae66f69ed60715f3b8d23f43e",
+  "version": "0.142"
 }
