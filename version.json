@@ -1,13 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Das Fenster des Hauptgebäudes hat vier Reiter: Hof, Leute (mit Bau, Lager, Vorhut), Tausch und Aktionen (Ausbauen, Banner, Entscheidung). Es ragt nicht mehr über den Bildschirm und behält seine Größe.",
-    "Tauschaufträge: Unter Tausch → „Auftrag erstellen“ stempelst du bis zu 4 Aufträge mit großen Warenbildern. Sie laufen der Reihe nach; ein fertiger verschwindet, und der nächste hisst seine Fahne. Unter „Aufträge“ löschst du jeden einzeln.",
-    "Alle Fahnen und Banner hängen jetzt still an einer Querstange und sehen aus wie Tuch: mit Falten, etwas durchhängend, mit ausgefranstem Saum.",
-    "Das Aufnahme-Banner zeigt eine Hütte, das Sperrbanner ist weiß mit rotem X (beides vorläufig, bis die gemalten Bilder kommen).",
-    "Der Knopf „Hauptgebäude ausbauen“ ist jetzt weiß wie alle anderen."
+    "Löschen hat jetzt überall einen Mülleimer (Abreißen, Baustelle abbrechen, Weg entfernen, Auftrag löschen).",
+    "Alle Berufe haben gemalte Bilder: der Jäger einen Speer, die Speermacherin Spitze, Band und Schaft noch getrennt, der Steinklopfer Stein auf Stein, Holzfäller und Holzzubereiter die Axt, und so weiter.",
+    "Wo es um Ansehen geht, steht der Lorbeerkranz statt der Flamme. Die Krone ist jetzt gemalt.",
+    "Die runden Bilder der Leute stehen in jedem Fenster mittig, bei dreien als Dreieck.",
+    "Neu in der Leiste: das Thronzeichen. Wartet jemand am Thron, erscheint ein kleiner Thron mit Ausrufezeichen; antippen öffnet die Entscheidung. Seinen Platz legst du im Gestaltungsmodus fest (Strg + Umschalt + L)."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "90552db6a4b7622f8d5f0e124e25d909a5b3dda1386b903fc078bba5b9907af0",
-  "version": "0.138"
+  "sha256": "9dcb6f9bf4819ce470701e95d57ab740b5d74ca079ac9b611f6e95f7fe697166",
+  "version": "0.139"
 }
