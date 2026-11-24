@@ -1,13 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Löschen hat jetzt überall einen Mülleimer (Abreißen, Baustelle abbrechen, Weg entfernen, Auftrag löschen).",
-    "Alle Berufe haben gemalte Bilder: der Jäger einen Speer, die Speermacherin Spitze, Band und Schaft noch getrennt, der Steinklopfer Stein auf Stein, Holzfäller und Holzzubereiter die Axt, und so weiter.",
-    "Wo es um Ansehen geht, steht der Lorbeerkranz statt der Flamme. Die Krone ist jetzt gemalt.",
-    "Die runden Bilder der Leute stehen in jedem Fenster mittig, bei dreien als Dreieck.",
-    "Neu in der Leiste: das Thronzeichen. Wartet jemand am Thron, erscheint ein kleiner Thron mit Ausrufezeichen; antippen öffnet die Entscheidung. Seinen Platz legst du im Gestaltungsmodus fest (Strg + Umschalt + L)."
+    "Bauen mit Haken: Ist ein Gebäude vorgemerkt, liegen unten im Baumenü ein Haken (bauen) und ein X (abbrechen). Rechtsklick bricht weiter ab.",
+    "Ein Klick auf eine Kachel baut nie mehr: Er stellt das Gebäude dorthin, auch direkt daneben.",
+    "Der Ring um das Gebäude ist klein, liegt eng um seine Kacheln und besteht aus kleinen Doppelpfeilen; eine kleine Spitze zeigt die Vorderseite.",
+    "Nach dem Haken fällt die Baufahne vom Himmel, und der Platz leuchtet ein paar Sekunden, auch weit herausgezoomt gut zu sehen."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "9dcb6f9bf4819ce470701e95d57ab740b5d74ca079ac9b611f6e95f7fe697166",
-  "version": "0.139"
+  "sha256": "4a910d06a6f45e689d242105794c58db2e1182a757e82763f0fdcf7d0229c5de",
+  "version": "0.140"
 }
