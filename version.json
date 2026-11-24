@@ -1,13 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Die Viehzucht heißt jetzt Farm, die Hirtinnen sind Farmerinnen (bis zu 4, nur Frauen). Jede erntet an den Beeten Sammelkost, etwa 7 Körbe am Tag; nach 14 Körben schlachtet sie ein Tier der Herde, trägt es an ihren Zerlegeplatz und zerlegt es wie der Jäger sein Reh: 1 Fell und 5 Fleisch. Das Tier wächst in der Herde nach.",
-    "Die Beete liegen im Zaun auf dem Teil der Fläche, der der Farm am nächsten liegt: dunkle, gehackte Erde mit Erbsen, Linsen, Getreide, blauem Lein und rotem Mohn, mit Steinen eingefasst, dazwischen ein paar Sträucher. Das Vieh grast auf dem Rest.",
-    "Die Schweine haben ihren Koben: einen niedrigen Flechtzaun um Schlammpfütze und Trog. Die Ablageplätze hinter dem Tor liegen links und rechts des Wegs, der Weg hinein bleibt frei.",
-    "Gebäudedesigner: Für jedes Gebäude stellst du unter „Baukosten“ ein, was es kostet, und unter „Auf jeden Ablageplatz passen“, wie viel auf jeden Ablageplatz passt; am Hauptgebäude und an den Lagern auch, wie viel auf der Lagerfläche liegt. Das Spiel nimmt diese Zahlen, sobald du speicherst.",
-    "Die Zerlegeplätze stehen im Designer als eigene Teile und lassen sich verschieben wie ein Ablageplatz."
+    "Noch flüssiger: Dein Dorf zeigt wieder etwa ein Viertel mehr Bilder pro Sekunde, große Dörfer ein Drittel mehr. Der Schatten der Sonne wird in zwei Stufen statt vier gezeichnet – nah bleibt er so scharf wie bisher.",
+    "Ablageplätze, Hütten-Höfe und die Ausrüstung der Menschen (Tasche, Krone, Bärenhaube, Speer, Ehrenfell) werden je als ein Stück gezeichnet; kleine Waren auf Fahnenplätzen und in den Händen werfen keinen eigenen Schatten mehr.",
+    "Wer nicht im Bild ist, wird einfacher behandelt: Erst wenn er ins Bild kommt, bekommt er seine Haltung und seine Last.",
+    "Das Arbeitsgebiet eines Forstgebäudes setzt du jetzt schon, solange es Baustelle ist: im Fenster der Baustelle mit „Fläche wählen“."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "e7b37bd9bdf697fc69805e6abb4a70fe765661d62718887d6f713acb2883b23d",
-  "version": "0.112"
+  "sha256": "e9b84b7f9b4308564fe53ba1fa345dbdf1487975e183e2ff0139e632edb19e59",
+  "version": "0.113"
 }
