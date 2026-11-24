@@ -1,12 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Mehr Essen zum Start: 20 Sammelkost, 30 Fleisch und 30 Fisch.",
-    "Jeder Lagerstapel fasst jetzt, was sichtbar darauf passt, am Hauptgebäude wie in den Lagern: Stämme 36, Steine 48, Felle 60, Sammelkost 20, Fisch 80, Fleisch 80, Speere 24.",
-    "Stämme liegen als Dreieck zwischen niedrigen Pflöcken mit Stütze und Lederriemen. Speere lehnen abwechselnd von vorn und hinten. Sammelkost steht in einem Regal statt auf einem Tisch.",
-    "Fisch und Fleisch haben je vier Trockengestelle, die von Anfang an dastehen."
+    "Anführer und Partner gehen nie mehr ohne Leibwache. Am Thron stehen die Wachen daneben, und die Wachen laufen nicht mehr über Stapel.",
+    "Anführer und Partner essen immer zusammen im Hauptgebäude, nicht mehr draußen am Feuer.",
+    "„Weg bauen“ zeigt jetzt einen gemalten, geschlängelten Pfad mit Bäumchen statt der Straße.",
+    "Die Krone ist neu gemalt wie die Krone des Anführers im Spiel: schlicht, ohne Steine, glänzend.",
+    "Menschen erscheinen überall nur noch als gezeichnete Medaillen, die alten Strichfiguren sind weg."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "1a105afc906a9a3f0b741fe9b2873a0de1ac4fbae66f69ed60715f3b8d23f43e",
-  "version": "0.142"
+  "sha256": "7ab37c6032cc3846bfbba7ffdd5c4878ea5bc0ecdd30153cdff8b4457bfd7c65",
+  "version": "0.143"
 }
