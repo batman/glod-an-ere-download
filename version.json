@@ -1,11 +1,10 @@
 {
   "engine": "4.3",
   "notes": [
-    "Einspringer: Ist für einen Beruf niemand vom richtigen Geschlecht frei, springt jemand vom anderen Geschlecht ein – zum Beispiel ein Mann als Sammler oder eine Frau als Holzfällerin. Er arbeitet nur halb so schnell, eine Kriegerin kämpft halb so stark.",
-    "Sobald jemand Passendes frei ist, löst er den Einspringer ab. Öffnet sich ein Posten, der zum Einspringer passt, wechselt er von selbst dorthin.",
-    "Im Fenster der Person steht hinter dem Beruf „springt ein“."
+    "Runde Hänge: Der Boden zeigt keine Dreiecke und keine geraden Knicke mehr. Ein Hang beginnt sanft, wird in der Mitte steiler und läuft unten weich aus.",
+    "Die Leute, Bäume und alles andere stehen auf dem runden Boden. Wo man bauen kann und was eben ist, bleibt gleich."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "4b0087545e16b5b7de0065b1cb270c1901f5a954d2966fe20f2f39c3ffcd1a03",
-  "version": "0.128"
+  "sha256": "265efece74cffb4d8533235e4294277161efadf988367d71d8ddf3715ea37b57",
+  "version": "0.129"
 }
