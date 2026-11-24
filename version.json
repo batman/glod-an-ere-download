@@ -1,12 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Dein Wappen: Bei einem neuen Spiel wählst du neben deinem Namen eines von drei Wappen – Bär (Wehr), Hirsch (Wald) oder Fisch (Wasser). Jedes hilft deinem Dorf in einem und kostet in einem anderen.",
-    "Bär: Wilde Tiere kommen seltener, ein Sieg bringt mehr Ansehen, aber ein Reh bringt weniger Fleisch. Hirsch: mehr Fleisch je Reh, die Försterin pflanzt schneller, aber der Steinklopfer ist langsamer. Fisch: Fischer fangen mehr, Boote fahren schneller, aber wilde Tiere kommen öfter.",
-    "Am Hauptgebäude stehen jetzt drei gleich große Fahnen an hohen Masten: deine Fahne mit dem Wappen neben dem Banner, das Banner und die Fahne des Vorratshauses. Im Fenster des Hauptgebäudes steht dein Wappen unter „Hof“.",
-    "Die Bauhelfer werden nicht mehr mitten beim Umräumen weggerufen: Sie legen die Ware erst ab und gehen aus der Nische hinter dem Haus, dann holen sie, was die Baustelle braucht."
+    "Flüssiger: Dein Dorf zeigt etwa ein Viertel mehr Bilder pro Sekunde, große Dörfer noch mehr. Die festen Teile der Gebäude und Fahnenplätze werden als ein Stück gezeichnet, kleine Blumen, Gräser und Schilf werfen keinen Schatten, und das Spiel rechnet vieles nur noch, wenn sich etwas ändert.",
+    "Gehende dürfen sich streifen und durcheinander hindurchgehen; nur wer länger in dieselbe Richtung auf demselben Fleck läuft, rückt zur Seite. Wer steht oder sitzt, steht nie in einem anderen.",
+    "Bauhelfer holen ihr Material zuerst von anderen Ablageplätzen und nehmen das Lager nur, wenn die Ware sonst nirgends liegt oder der Weg dorthin mehr als doppelt so lang ist.",
+    "Wer eine Ware aufnimmt oder ablegt, geht erst weiter, wenn sie ganz zu sehen oder ganz verschwunden ist.",
+    "Der Pier hat keinen blauen Kreis mehr und keinen Knopf „Weg bauen“: Den Weg zum Pier baust du vom Fahnenplatz aus."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "3165f6e442111111825cf9f82415b8b3517edc2987e1a38b35bf02e0f110e54b",
-  "version": "0.108"
+  "sha256": "ccbf20ad5b3ce530eb0509cbf913fa24d4a7c92f5259b4933b38b74a97fd62a5",
+  "version": "0.109"
 }
