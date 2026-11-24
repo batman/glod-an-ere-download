@@ -1,11 +1,10 @@
 {
   "engine": "4.3",
   "notes": [
-    "Alle Ablageplätze sehen jetzt aus wie am Fahnenhaus, an jedem Gebäude, am Hauptgebäude und an den Lagern gleich:",
-    "Fisch und Fleisch hängen an einem Kran direkt am Haus, in zwei Bündeln über den Köpfen. Felle stehen auf einem Brett, vier hochkant, zwei liegen oben drauf. Speere stecken im Eimer, Sammelkost steht im Regal. Steine liegen auf zwei kleinen Ablagen zu je drei.",
-    "Holz bleibt, wie es ist. Die großen Lagerflächen in den Lagern ändern sich nicht."
+    "Dein Wappen hängt jetzt auch groß am Haupthaus: an einem Ast zwischen den beiden hohen Zeltspitzen.",
+    "Im Gebäudedesigner (Haupthaus) kannst du den Mast mit dem Wappen frei verschieben (Teil „Wappen“) und das Wappen am Ast ein- und ausschalten."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "71624eb82320dbdb6c5733c3622bbf555bcf2028264ae2ca7bd6a569ce4c8335",
-  "version": "0.135"
+  "sha256": "8edd4655a894f8b5d7975e29782ddb892e5711c5b7de4b297bc29a8af6fa2676",
+  "version": "0.136"
 }
