@@ -1,12 +1,12 @@
 {
   "engine": "4.3",
   "notes": [
-    "Bauen mit Haken: Ist ein Gebäude vorgemerkt, liegen unten im Baumenü ein Haken (bauen) und ein X (abbrechen). Rechtsklick bricht weiter ab.",
-    "Ein Klick auf eine Kachel baut nie mehr: Er stellt das Gebäude dorthin, auch direkt daneben.",
-    "Der Ring um das Gebäude ist klein, liegt eng um seine Kacheln und besteht aus kleinen Doppelpfeilen; eine kleine Spitze zeigt die Vorderseite.",
-    "Nach dem Haken fällt die Baufahne vom Himmel, und der Platz leuchtet ein paar Sekunden, auch weit herausgezoomt gut zu sehen."
+    "Neues Spiel: Die Gesichter von Mann und Frau sind groß und stehen nah beieinander. Wer gewählt ist, trägt eine glänzende goldene Krone wie der Anführer im Spiel.",
+    "Beim Umschalten wandert die Krone langsam: Der Neue bekommt sie, während der andere seine langsam verliert.",
+    "Die letzte Seite heißt jetzt „Spiel bereit“. Zurück und Weiter tragen spitze Klammern.",
+    "Laden: Zuerst ist alles schwarz, zwei Fackeln brennen, und im Willkommensfenster läuft ein Ladebalken. Karte und Leiste werden dahinter fertig gebaut. „Los geht's“ geht erst, wenn alles bereit ist, dann blendet das Schwarz langsam aus."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "4a910d06a6f45e689d242105794c58db2e1182a757e82763f0fdcf7d0229c5de",
-  "version": "0.140"
+  "sha256": "f8c336330ed03645334ac16c96a3cb9b3a30315e9c21a4e9daf4bc5b0747b05a",
+  "version": "0.141"
 }
