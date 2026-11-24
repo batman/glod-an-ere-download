@@ -1,10 +1,11 @@
 {
   "engine": "4.3",
   "notes": [
-    "Schieferkante: Jede Schieferplatte besteht jetzt aus drei hauchdünnen Schichten, die aufeinanderliegen. Jede ist für sich gebrochen, in längeren geraden Stücken, und die unteren schauen am Rand ein Stück hervor – so, wie du es auf der Seite „Schieferbruch“ eingestellt hast.",
-    "Die Bruchkanten fangen das Licht oben links und liegen unten rechts im Schatten. Die Oberfläche hat deine Werte für Spaltflächen, Unebenheit, Risse und Sprenkel."
+    "Schatten: Steine, Knochen, liegende Stämme und Waren auf Fahnenplätzen und in den Händen werfen wieder Schatten. Dafür gibt es auf der Seite Grafik den neuen Schalter „Kleine Schatten“.",
+    "Grafik-Stufe: Oben auf der Seite Grafik wählst du minimal, ausbalanciert, maximal oder eigene. Voreingestellt ist ausbalanciert: Ruckelt das Spiel, weil das Zeichnen zu lange dauert, schaltet es selbst nach und nach ab (zuerst die kleinen Schatten, zuletzt die Schatten) und wieder an, wenn Luft ist.",
+    "Stellst du einen Schalter selbst um, gilt deine Wahl, und die Stufe steht auf „eigene“."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "8e72ad55d52a3bd16e2be6af11823cb029c87119a52d127b6448147dc20ba80e",
-  "version": "0.130"
+  "sha256": "7d8b15f8c7fb866229548781435a80d8b340a09df67efc8218d88cd168972362",
+  "version": "0.131"
 }
