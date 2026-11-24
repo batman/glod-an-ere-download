@@ -1,10 +1,16 @@
 {
   "engine": "4.3",
   "notes": [
-    "Dein Wappen hängt jetzt auch groß am Haupthaus: an einem Ast zwischen den beiden hohen Zeltspitzen.",
-    "Im Gebäudedesigner (Haupthaus) kannst du den Mast mit dem Wappen frei verschieben (Teil „Wappen“) und das Wappen am Ast ein- und ausschalten."
+    "Wohnen: Ist keine Kammer im Männer- oder Frauenhaus frei, zieht ein Einzelner allein in eine leere Hütte. Ein Ja am Thron ist nie mehr gesperrt – fehlt der Platz, warnt eine rote Zeile, und die Neuen warten bis zu 2½ Tage als Gäste.",
+    "Zusammenziehen: Wohnt jemand allein in einer Hütte und findet einen Partner, ziehen beide ohne Frage zusammen; es zieht, wer den längeren Weg zur Arbeit hätte. Eine Hütte oder Kammer wird frei.",
+    "Fortziehen: Wer einen Grund hat (großes Kind ohne Platz, lange ohne Arbeit in der Kammer, Hunger), bittet am Thron um ein Bündel. Ja bringt Ansehen, ein Nein kostet nichts – er geht dann trotzdem, nur ohne Bündel. In seinem Fenster steht schon vorher: „überlegt fortzuziehen“, und mit wem.",
+    "Das Banner hat drei Stellungen: Aufnahme (es kommen nur Leute, für die Platz ist oder gebaut wird), Normal und Gesperrt (kein Fremder kommt mehr, auch keine Flüchtlinge; deine eigenen Leute fragen weiter).",
+    "Den Bauarbeiter gibt es nicht mehr: Holzzubereiter und Steinmetz bauen ihr Material selbst ein, und auf eine Baustelle geht nur, wer gebraucht wird (zum Fahnenhaus nur der Holzzubereiter).",
+    "Der Pfeil am Ring bleibt stehen, wo du ihn loslässt – nur das Gebäude rastet ein. Ring und Pfeil sind eine glatte Linie ohne Knicke.",
+    "Hauptmenü: Einstellungen, Neuigkeiten und Updates öffnen sich als Fenster in der Mitte mit X. Neues Spiel ist eine weiße Karte zum Durchklicken: Volk, Geschlecht, Namen, Karte, Zusammenfassung.",
+    "Neue Karteneinstellungen: viele Steinvorkommen, viele Seen, Seen, Flüsse, Wölfe und Bären an oder aus."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "8edd4655a894f8b5d7975e29782ddb892e5711c5b7de4b297bc29a8af6fa2676",
-  "version": "0.136"
+  "sha256": "036720db23a38c3351cd44a5fee16857e126f7e2cb9d9c5383e32d96399e7c82",
+  "version": "0.137"
 }
