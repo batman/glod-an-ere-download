@@ -1,11 +1,11 @@
 {
   "engine": "4.3",
   "notes": [
-    "Vier Völker statt drei Wappen: Weidfolk (Volk der Jäger, je Reh 1 Fleisch mehr), Fiskfolk (Volk der Fischer, ein Viertel mehr Fang), Lisfolk (Volk der Sammler, Sammlerinnen und Farmerinnen bringen ein Viertel mehr) und Herifolk (Volk der Krieger, Leibwachen und Krieger kämpfen ein Viertel stärker). Jedes Volk bringt einen Vorteil und keinen Nachteil.",
-    "Unter „Neues Spiel“ wählst du dein Volk mit einem Karussell: das gewählte Wappen groß vorn, die anderen kleiner dahinter, mit den Pfeilen links und rechts drehst du es weiter.",
-    "Die neuen Wappen – ein Fell an einem Ast – wehen auch auf der Fahne am Haupthaus und stehen im Fenster des Hauptgebäudes."
+    "Neues Spiel: „Wähle dein Geschlecht“ – die Köpfe von Mann und Frau weiß auf dem Schiefer gezeichnet. Zu Beginn ist nichts gewählt und „Spiel starten“ gesperrt; der gewählte Kopf wird größer und trägt die Krone, der andere wird kleiner.",
+    "Die Kartengröße wählst du mit dem Kiesel in der Laufbahn (klein, mittel, groß), darunter die Zahl der Felder. Wir sprechen von Karten, nicht mehr von Inseln.",
+    "Die gekrakelten Kreideflächen als Hintergrund sind weg; die Kreiderahmen um die Namensfelder bleiben."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "f37e0fc128c0cf20f12e8cda4304e4d5e9b2a71d0569fdec180bd665b24a3f8a",
-  "version": "0.116"
+  "sha256": "7c6f5e85027ac063297a46bfbe4d807360e83b1132ba97601dbebbb9f62293bc",
+  "version": "0.117"
 }
