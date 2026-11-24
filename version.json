@@ -1,13 +1,13 @@
 {
   "engine": "4.3",
   "notes": [
-    "Neu am Hauptgebäude: das Tauschhaus, ein offener Stand mit flachem Felldach und Theke. Im Fenster des Hauptgebäudes gibt es dafür den Reiter „Tausch“: Wähle, was du gibst, was du suchst und wie viel. Das Fenster rechnet aus, was es kostet.",
-    "Händler kommen nach und nach aus dem Dunkel, bringen die gesuchte Ware und nehmen ihren Teil mit. Die Lagermeister tragen die Ware ins Tauschhaus und das Eingetauschte ins Lager.",
-    "Solange getauscht wird, weht am Tauschhaus eine Fahne, auf der steht, was gegen was getauscht wird. Ist alles getauscht, holt sie sich von selbst ein.",
-    "Wo das Tauschhaus steht und wie viel hineinpasst, legst du im Gebäudedesigner fest.",
-    "Beim Setzen eines Gebäudes setzt ein Tipp das Gebäude, auch wenn dort gerade jemand steht."
+    "Gebäude setzen: Um das Gebäude liegt jetzt ein gezeichneter hellgrüner Ring mit Pfeil, groß genug, dass man das Gebäude darin gut sieht. Der Pfeil zeigt zur Vorderseite; fass den Pfeil an (oder zieh am Ring), um es zu drehen.",
+    "Das Gebäude schaut beim Setzen schon in die beste Richtung: am liebsten so, dass alle Ablageplätze eine Fahne erreichen.",
+    "Unter dem Gebäude ist in der Vorschau alles weg, als wären die Planierer schon da gewesen: kein Dickicht, keine Bäume, kein Kleinkram.",
+    "Die Ablageplätze zeigen sich wie in der Planansicht: eine Farbfläche, und eine gestrichelte Linie zur Fahne, wenn eine sie erreicht. Haken und X sind weg.",
+    "Ein Klick auf eine andere weiße Kachel setzt das Gebäude um, ein Klick ins Gebäude baut es. Das Baumenü bleibt danach offen."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "4d79043f26cc070f934852bd8a0e88978f5f23e6704e6e62409b3ffede832438",
-  "version": "0.126"
+  "sha256": "279bd691702cd4d56e5204c6fd1be2c364e04a6b05e9482f07a6947eeee495bf",
+  "version": "0.127"
 }
