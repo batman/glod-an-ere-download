@@ -1,10 +1,11 @@
 {
   "engine": "4.3",
   "notes": [
-    "Hat ein Fahnenwart eine Weile nichts zu tun, steigt er Sprosse für Sprosse den Steigbaum hinauf und setzt sich oben auf die Bank. Von dort hält er Ausschau.",
-    "Kommt Arbeit, klettert er erst herunter und geht dann los; niemand springt. Der zweite Fahnenwart wartet einen Schritt daneben und sitzt oben neben ihm."
+    "Alle Ablageplätze sehen jetzt aus wie am Fahnenhaus, an jedem Gebäude, am Hauptgebäude und an den Lagern gleich:",
+    "Fisch und Fleisch hängen an einem Kran direkt am Haus, in zwei Bündeln über den Köpfen. Felle stehen auf einem Brett, vier hochkant, zwei liegen oben drauf. Speere stecken im Eimer, Sammelkost steht im Regal. Steine liegen auf zwei kleinen Ablagen zu je drei.",
+    "Holz bleibt, wie es ist. Die großen Lagerflächen in den Lagern ändern sich nicht."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "65536127ad516c45c50f0818a167b621e0ae33ef9a48dc8d222160bd1658598a",
-  "version": "0.134"
+  "sha256": "71624eb82320dbdb6c5733c3622bbf555bcf2028264ae2ca7bd6a569ce4c8335",
+  "version": "0.135"
 }
