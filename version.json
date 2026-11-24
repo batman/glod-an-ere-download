@@ -1,13 +1,11 @@
 {
   "engine": "4.3",
   "notes": [
-    "Flüssiger: Dein Dorf zeigt etwa ein Viertel mehr Bilder pro Sekunde, große Dörfer noch mehr. Die festen Teile der Gebäude und Fahnenplätze werden als ein Stück gezeichnet, kleine Blumen, Gräser und Schilf werfen keinen Schatten, und das Spiel rechnet vieles nur noch, wenn sich etwas ändert.",
-    "Gehende dürfen sich streifen und durcheinander hindurchgehen; nur wer länger in dieselbe Richtung auf demselben Fleck läuft, rückt zur Seite. Wer steht oder sitzt, steht nie in einem anderen.",
-    "Bauhelfer holen ihr Material zuerst von anderen Ablageplätzen und nehmen das Lager nur, wenn die Ware sonst nirgends liegt oder der Weg dorthin mehr als doppelt so lang ist.",
-    "Wer eine Ware aufnimmt oder ablegt, geht erst weiter, wenn sie ganz zu sehen oder ganz verschwunden ist.",
-    "Der Pier hat keinen blauen Kreis mehr und keinen Knopf „Weg bauen“: Den Weg zum Pier baust du vom Fahnenplatz aus."
+    "Sammelkost: Die Früchte heißen jetzt Sammelkost – alles Essbare aus Wald und Beet. Ihr Korb ist bunt gemischt: Beeren, Wildäpfel, Pilze, Kräuter, Möhren und Honigwaben.",
+    "Fisch ist ein einzelner großer Fisch statt eines Bündels, Fleisch eine Rehkeule mit Knochen statt eines Korbs. Beide sehen überall gleich aus: getragen, auf den Stufen der Ablageplätze, auf dem Fahnenplatz und am Trockengestell im Lager.",
+    "Im Lager steht das Trockengestell für Fisch und Fleisch immer da, mit beiden Querstangen, auch wenn nichts daran hängt."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "ccbf20ad5b3ce530eb0509cbf913fa24d4a7c92f5259b4933b38b74a97fd62a5",
-  "version": "0.109"
+  "sha256": "b7afc80c418787d316eb3ec24f49989bdd6a0dc6f086b8c99091dd65c6a5470f",
+  "version": "0.110"
 }
