@@ -1,12 +1,9 @@
 {
   "engine": "4.3",
   "notes": [
-    "Partner frei wählbar: Unter „Neues Spiel“ wählst du „Partner: ohne / mit“. Mit Partner lebt er von Anfang an im Hauptgebäude, nicht erst nach dem Ausbau.",
-    "Mit Partner steigt das Ansehen ein Viertel schneller, denn er geht auch allein durchs Dorf und kümmert sich um die Leute – dann geht eine Leibwache mit ihm. Ohne Partner bleiben beide Wachen immer bei dir.",
-    "Im Hauptgebäude isst jetzt jeder mit: Anführer, Partner, Leibwachen und Bauhelfer. Das Hauptgebäude braucht also mehr Nahrung.",
-    "Neben dem Thron steht mit Partner ein zweiter, schlichterer Sitz – kein Fell mehr am Boden."
+    "Haupthaus: Der schwarze Stein im Eingang ist weg – der Eingang steht offen, drinnen ist es dunkel. Zwischen den dicken Pfählen der Wand stehen dünnere Stämme, man sieht nicht mehr hindurch."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "ab0031dbfad25bb5c5ee4e54afa1ffb19813b5f04cd733465c39ca30fc5f2d82",
-  "version": "0.118"
+  "sha256": "f59e9c2290628346984c0a0e381bd769b2dcdd48162011b0ad2fa0f657f610e4",
+  "version": "0.119"
 }
