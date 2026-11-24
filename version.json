@@ -1,9 +1,10 @@
 {
   "engine": "4.3",
   "notes": [
-    "Haupthaus: Der schwarze Stein im Eingang ist weg – der Eingang steht offen, drinnen ist es dunkel. Zwischen den dicken Pfählen der Wand stehen dünnere Stämme, man sieht nicht mehr hindurch."
+    "Ein Klick trifft nur noch Menschen, die man auch sieht: Wer hinter einer Tanne, dem Zelt des Hauptgebäudes, dem Thron oder einer Hütte steht, wird nicht mehr gewählt – der Klick geht an das, was davor zu sehen ist.",
+    "Ansehen und Tempo sind wieder in der Leiste, auch wenn der Knopf der Planansicht an einer anderen Stelle liegt."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "f59e9c2290628346984c0a0e381bd769b2dcdd48162011b0ad2fa0f657f610e4",
-  "version": "0.119"
+  "sha256": "a4e19e2d8076353943d8ccf02bcf250397b38bd5d84489b05c3f051773ab5639",
+  "version": "0.121"
 }
