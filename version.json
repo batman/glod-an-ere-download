@@ -1,17 +1,16 @@
 {
   "engine": "4.3",
   "notes": [
-    "Alle Schrift ist fett und mindestens so groß wie auf den Knöpfen. Die Erklärungen der Grafik-Seite stehen im Hinweis beim Drüberhalten.",
-    "Zurück ist kein Knopf mehr: der Winkel ‹ oben links im Fenster, gegenüber dem X. Hinter Fenstern, die alles sperren, wird es dunkel.",
-    "Neues Spiel: Mann und Frau, Ja und Nein stehen groß neben dem Schalter, An und Aus fallen weg; „Spiel bereit“ ist übersichtlich nebeneinander.",
-    "Die Krone der gezeichneten Köpfe ist wieder die gezeichnete Krone, golden eingefärbt und leise leuchtend.",
-    "Der Holzzubereiter heißt jetzt Zimmermann. Bauen geht vor: Hat eine Baustelle alles Material, baut der Bautrupp dort zuerst.",
-    "Felsen sind kantig und zerklüftet, mit Erde, Geröll, Moos und Gras. Das Feuer am Hauptgebäude hat doppelt so viele, halb so große Steine.",
-    "Die Bewohner tragen ihr Fell ohne Ärmel und Schulterpolster. Die Leibwachen stehen am Thron auf beiden Seiten gleich nah.",
-    "Die Hausfahne zeigt das Lager mit den echten Zahlen: Ablageplätze und Stapel. Am Hauptgebäude kannst du einen zweiten Fahnenwart einsetzen.",
-    "Keine schwarzen Risse mehr in und an Seen. Der Fahnenwart nimmt auf dem Platz des Hauptgebäudes den kurzen Weg statt eines Umwegs."
+    "Das Haupthaus ist ein neues, großes 3D-Modell: Fellzelt mit Geweih, bemalten Pfosten und Steinsockel. Der Eingang ist so hoch, dass alle bequem hindurchgehen; das Wappen sitzt auf dem Fell zwischen den Spitzen.",
+    "Für das größere Haus rücken Feuer, Vorratshaus, Fleisch, Speerpyramide und die seitlichen Ablageplätze auf dem Hof weiter nach außen. Im Gebäude-Designer kannst du alles nachjustieren.",
+    "Jeder isst eine Portion am Tag, abends; ein Frühstück gibt es nicht mehr. Morgens geht jeder gleich an die Arbeit.",
+    "Jeder holt sein Essen selbst am Vorratshaus, auch König, Partner und Kinder. Die Familie wartet am Feuer, bis alle daheim sind, und geht dann gemeinsam. Die Leibwache geht mit dem König und nimmt ihre Portion dort.",
+    "Der Fahnenwart füllt das Vorratshaus zuerst aus den Stapeln, dann vom Überschuss der Ablageplätze und erst zuletzt von ihrem Soll.",
+    "Auch an den Lagern kannst du an der Hausfahne einen zweiten Fahnenwart einsetzen.",
+    "Über eine Hausfahne kann man hindurchgehen: Von ihr aus geht es in jede Richtung, ohne Umweg.",
+    "An der Tempo-Rinne steht für die Pause einfach „0“."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "9c4ea315ad846ebc19299053d18dae4dd07664ce58e5931bcfbfb4dc8c1d09aa",
-  "version": "0.145"
+  "sha256": "3ceb5590125a0c89014e790e85ebc9e80759840cbf36989c3bd1cf7951f77aab",
+  "version": "0.146"
 }
