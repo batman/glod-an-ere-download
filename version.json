@@ -1,18 +1,17 @@
 {
   "engine": "4.3",
   "notes": [
-    "Lager und Hauptgebäude haben eine Hausfahne ohne eigene Ablagen: Läufer legen direkt auf die Ablageplätze, der Umweg über die Fahne fällt weg.",
-    "Den Lagermeister gibt es nicht mehr: Seine Arbeit macht der Fahnenwart, einer je Lager. Im Hauptgebäude wohnen zu Beginn nur noch 8 Leute.",
-    "Holzzubereiter und Steinmetz holen ihr Material selbst, ein Bauhelfer reicht.",
-    "Zu Beginn sind die Stapel voll, Felle und Speere halb voll. Wie viel Nahrung, wählst du beim neuen Spiel.",
-    "Kein Knopf ist mehr gesperrt: Geht etwas gerade nicht, sagt ein Fenster warum. „Entscheidung“ geht immer.",
-    "Fenster bleiben nach einer Einstellung offen, auf demselben Reiter. Männer- und Frauenhaus zeigen ihre Bewohner.",
-    "Fahnen setzt du wie Gebäude mit Haken und X, ein Doppelklick baut sofort. Beim Bauen siehst du die Schutzkreise der Feuer.",
-    "Ein Speer überall: dünn, mit flacher Steinklinge und Lederriemen. Der Sitz deiner Frau ist so prächtig wie dein Thron, beide im Schatten.",
-    "Vier Sitzklötze vor dem Thron, im Designer einzeln setzbar, dazu „Begehbar“ für Thron, Klötze und Speere.",
-    "Sammelkost zeigt einzelne Beeren und Früchte statt einer grünen Haube; das Regal fasst 30 Körbe."
+    "Alle Schrift ist fett und mindestens so groß wie auf den Knöpfen. Die Erklärungen der Grafik-Seite stehen im Hinweis beim Drüberhalten.",
+    "Zurück ist kein Knopf mehr: der Winkel ‹ oben links im Fenster, gegenüber dem X. Hinter Fenstern, die alles sperren, wird es dunkel.",
+    "Neues Spiel: Mann und Frau, Ja und Nein stehen groß neben dem Schalter, An und Aus fallen weg; „Spiel bereit“ ist übersichtlich nebeneinander.",
+    "Die Krone der gezeichneten Köpfe ist wieder die gezeichnete Krone, golden eingefärbt und leise leuchtend.",
+    "Der Holzzubereiter heißt jetzt Zimmermann. Bauen geht vor: Hat eine Baustelle alles Material, baut der Bautrupp dort zuerst.",
+    "Felsen sind kantig und zerklüftet, mit Erde, Geröll, Moos und Gras. Das Feuer am Hauptgebäude hat doppelt so viele, halb so große Steine.",
+    "Die Bewohner tragen ihr Fell ohne Ärmel und Schulterpolster. Die Leibwachen stehen am Thron auf beiden Seiten gleich nah.",
+    "Die Hausfahne zeigt das Lager mit den echten Zahlen: Ablageplätze und Stapel. Am Hauptgebäude kannst du einen zweiten Fahnenwart einsetzen.",
+    "Keine schwarzen Risse mehr in und an Seen. Der Fahnenwart nimmt auf dem Platz des Hauptgebäudes den kurzen Weg statt eines Umwegs."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "abe145d934d524214c90a9470973db9567e194d7314e1c6079dd858db7912263",
-  "version": "0.144"
+  "sha256": "9c4ea315ad846ebc19299053d18dae4dd07664ce58e5931bcfbfb4dc8c1d09aa",
+  "version": "0.145"
 }
