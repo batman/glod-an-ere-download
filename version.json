@@ -1,11 +1,11 @@
 {
   "engine": "4.3",
   "notes": [
-    "Das Haupthaus ist feiner: doppelt so viele Flächen, Fell und Holz wirken weniger matschig.",
-    "Die Fischerhütte ist jetzt ein 3D-Modell: eine Hütte aus Stämmen mit Vorbau, getrockneten Fischen und Fischkorb. Solange sie gebaut wird, steht dort eine Baustelle.",
-    "Gebäude-Modelle stehen im Boden statt darauf: Die harte Erdscheibe unter ihnen ist weg, am Fuß liegt ein weicher, dunkler Saum."
+    "Gäste essen mit: Wer vor dem Thron auf eine Antwort wartet oder mit einem Ja auf seine Hütte, holt abends seine Portion und isst am großen Feuer. Gäste zählen beim Bedarf mit und bekommen bei Knappheit als Letzte.",
+    "Die Zahlen in den Zähnen der Leiste sind nicht mehr fett und einen Punkt kleiner.",
+    "Weniger Hänger: Die Wegsuche merkt sich, wie schwer jeder Schritt ist, und ist bei vielen Suchen auf einmal etwa doppelt so schnell."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "ffdc37f7fa0d47be294d2daa1bf9c2de94fc3194b050badff7e15c92e5584c0c",
-  "version": "0.147"
+  "sha256": "488ef60bb37361f2613fc9ffefc15ad0b7250345a5dfc8519e78c47a3d38e946",
+  "version": "0.148"
 }
