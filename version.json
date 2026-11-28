@@ -1,0 +1,53 @@
+{
+  "engine": "4.3",
+  "notes": [
+    "Neue Felsen: Sie sind aus sechs echten Steinstücken gebaut, die auf jedem Feld neu gedreht, gekippt und gestreckt werden – kantig, grau, jeder anders und anders groß. Das Moos ist dunkel direkt auf den Stein gemalt, in Ritzen, an Kanten und oben, wo Regen liegen bleibt. Gras und Erde liegen am Fuß auf dem Boden.",
+    "Die Findlinge und kleinen Steingruppen auf der Wiese sind dieselben Steine, nur kleiner.",
+    "Updates kommen jetzt in Teilen: das Spiel, jedes Modell und die Musik für sich. Ein Update lädt nur, was sich geändert hat, oft nur wenige MB. Beim ersten Mal wird alles einmal geladen."
+  ],
+  "parts": {
+    "fels": {
+      "file": "fels-c1fb9c7cda72.pck",
+      "sha256": "c1fb9c7cda727787ef8c3c23cd38e860b469bc5dbd002e6c1441b781b560b892",
+      "size": 17892800
+    },
+    "fischerhuette": {
+      "file": "fischerhuette-c749e3ad38f6.pck",
+      "sha256": "c749e3ad38f62203a2788ce90e9c8bb58fcbcd158dcf7202b3d4eac14760c3ac",
+      "size": 20826432
+    },
+    "forsthuette": {
+      "file": "forsthuette-a79d4c94187e.pck",
+      "sha256": "a79d4c94187e00e9d4bba5f26b164791c88ec93c62308a7e9dde1c0a8854893c",
+      "size": 3690016
+    },
+    "frau": {
+      "file": "frau-e545bf590a0a.pck",
+      "sha256": "e545bf590a0a444fc82a242b0bca95b5050f0edf3f1dbdf56da9c98bce9d73b7",
+      "size": 3000736
+    },
+    "haupthaus": {
+      "file": "haupthaus-f3e43cc39a71.pck",
+      "sha256": "f3e43cc39a71e372034f81948faa8743e6b767ea9fed0ebe500fda0083cdf95a",
+      "size": 21446784
+    },
+    "neandertaler": {
+      "file": "neandertaler-09dc77adbd97.pck",
+      "sha256": "09dc77adbd97f22e5cecc027445c566aa8df55147fc0227a0be30d00c9e4261e",
+      "size": 2732256
+    },
+    "spiel": {
+      "file": "spiel-c5b207c5112f.pck",
+      "sha256": "c5b207c5112f24565ad4c1e6b8ad79b454fb9c5e85a2ba27bd649813e83a0afa",
+      "size": 27951712
+    },
+    "ton": {
+      "file": "ton-bba8bf08d9d9.pck",
+      "sha256": "bba8bf08d9d97f63b96e1fbda467dc8a9b82d494079623edc2beeaba16368bc4",
+      "size": 6639872
+    }
+  },
+  "pck": "GlodAnEre.pck",
+  "sha256": "c5b207c5112f24565ad4c1e6b8ad79b454fb9c5e85a2ba27bd649813e83a0afa",
+  "version": "0.158"
+}
