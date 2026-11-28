@@ -1,10 +1,9 @@
 {
   "engine": "4.3",
   "notes": [
-    "Musik: Im Hauptmenü und im Spiel läuft jetzt Hintergrundmusik, beim Start kommt sie sanft herauf und läuft beim Wechsel ins Spiel einfach weiter.",
-    "Im Hauptmenü unter Einstellungen: Musik an/aus und je ein Kiesel für die Lautstärke von Musik und Geräuschen. Im Spielmenü dasselbe auf der neuen Seite „Ton“. Die Einstellung bleibt gespeichert."
+    "Der Lichtschein über einer neuen Baustelle hat jetzt genau die Form und Größe der Bodenplatte, mit weich gerundeten Ecken. Er bleibt stehen, bis der Boden bereit ist: Wo die Bauhelfer das Dickicht weggeräumt und den Boden eingeebnet haben, verschwindet sein Stück, bis der ganze Schein weg ist."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "345e692a3682b9d6fd46bfd813644e9798f45041f2eafaa9a793dab9747287b6",
-  "version": "0.150"
+  "sha256": "1aaf1eb554dbcbe52cf8e1ed718ee7419b455eb72308dc24cbdcf33a6ca949d8",
+  "version": "0.151"
 }
