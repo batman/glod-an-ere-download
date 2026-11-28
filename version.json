@@ -1,10 +1,9 @@
 {
   "engine": "4.3",
   "notes": [
-    "Das Aktualisieren klappt auch bei großen Updates: Es bricht nur noch ab, wenn 30 Sekunden lang gar nichts mehr ankommt. Wer noch eine ältere Version hat, muss dafür einmal den Installer nehmen.",
-    "Schneller mit vielen Leuten: Wer weit weg so klein ist, dass man seine Arme und Beine nicht erkennt, gleitet nur noch an seinen Ort. Entfernte Neandertaler bewegen sich jedes zweite Bild, und ihr Bewegen ist etwa dreimal so schnell gerechnet."
+    "Der Installer ist neu und bringt die aktuelle Version mit. Er liegt jetzt bei den Veröffentlichungen im Download-Bereich; der Link im Download-Bereich führt immer zum neuesten."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "8d7061f433f98cdc8b2a8cecc89ef75a6fc493eb7014fc6a785d9be7226ce1df",
-  "version": "0.152"
+  "sha256": "0e6adc2faf46620ea26e8690add49901c5391be300ece520063c74d26c3ae098",
+  "version": "0.153"
 }
