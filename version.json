@@ -1,9 +1,10 @@
 {
   "engine": "4.3",
   "notes": [
-    "Der Lichtschein über einer neuen Baustelle hat jetzt genau die Form und Größe der Bodenplatte, mit weich gerundeten Ecken. Er bleibt stehen, bis der Boden bereit ist: Wo die Bauhelfer das Dickicht weggeräumt und den Boden eingeebnet haben, verschwindet sein Stück, bis der ganze Schein weg ist."
+    "Das Aktualisieren klappt auch bei großen Updates: Es bricht nur noch ab, wenn 30 Sekunden lang gar nichts mehr ankommt. Wer noch eine ältere Version hat, muss dafür einmal den Installer nehmen.",
+    "Schneller mit vielen Leuten: Wer weit weg so klein ist, dass man seine Arme und Beine nicht erkennt, gleitet nur noch an seinen Ort. Entfernte Neandertaler bewegen sich jedes zweite Bild, und ihr Bewegen ist etwa dreimal so schnell gerechnet."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "1aaf1eb554dbcbe52cf8e1ed718ee7419b455eb72308dc24cbdcf33a6ca949d8",
-  "version": "0.151"
+  "sha256": "8d7061f433f98cdc8b2a8cecc89ef75a6fc493eb7014fc6a785d9be7226ce1df",
+  "version": "0.152"
 }
