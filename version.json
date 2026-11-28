@@ -1,0 +1,77 @@
+{
+  "engine": "4.3",
+  "notes": [
+    "Der Jäger jagt auch, wenn genug Fleisch da ist: Fehlen Felle, holt er das Fell und lässt das Reh im Wald liegen. Das lockt Tiere an. Die Farmerin macht ebenso Felle, wenn kein Platz für Fleisch ist.",
+    "Neu in der Leiste: die Gefahr im Wald. Sie steigt mit liegen gelassenem Fleisch und mit Dickicht nah am Dorf und sinkt mit Kriegern, Licht und gerodetem Land. Jede Tierart kommt höchstens einmal in 3 Tagen.",
+    "Nach einem Sieg über ein wildes Tier gibt der Anführer ein Fest: Das ganze Dorf feiert am Feuer bis in die Nacht. Gegessen wird wie immer am Abend.",
+    "Ein hungerndes Kind kostet 25 Ansehen und macht die Eltern sehr unzufrieden, das Spiel geht aber weiter. Kinder bekommen immer zuerst, auch die Kinder der Gäste.",
+    "Ab Mittag zeigt das Hauptgebäude, wenn das Vorratshaus heute Abend nicht für alle reicht.",
+    "Das Plus an einem freien Platz öffnet eine kleine Auswahl der Berufe (Forstgebäude, Kaserne). Die Rufknöpfe sind weg.",
+    "Die Zahlen in der Leiste laufen nicht mehr ineinander. Die Lager behalten ihre Hausfahne nach dem Laden."
+  ],
+  "parts": {
+    "fels": {
+      "file": "fels-c0fe4cd45d0d.pck",
+      "sha256": "c0fe4cd45d0d595bb548b40f87ee41ba5d09a88a8d01b79d1722c6dcac840f36",
+      "size": 18519872
+    },
+    "feuerstelle": {
+      "file": "feuerstelle-d34cc7ff96aa.pck",
+      "sha256": "d34cc7ff96aa921cea37ec2af39281d3bcd1de91b4d1e27d046fcdca38c5d347",
+      "size": 19742592
+    },
+    "fisch": {
+      "file": "fisch-fa1070fcd275.pck",
+      "sha256": "fa1070fcd27553f2597ec1717dfbbebe9265df712c41d81044810f4f139498c9",
+      "size": 776192
+    },
+    "fischerhuette": {
+      "file": "fischerhuette-45025268daeb.pck",
+      "sha256": "45025268daeb48c8b50f582b5ffa8eed60a53a518f6725b0c8a74552a4b51aed",
+      "size": 20826432
+    },
+    "forsthuette": {
+      "file": "forsthuette-32c6bce3163f.pck",
+      "sha256": "32c6bce3163f9a7bd79767ff8ef4b0417d2bff615e91d96bd7140bb48f4e42b3",
+      "size": 22016000
+    },
+    "frau": {
+      "file": "frau-f681ccc3448b.pck",
+      "sha256": "f681ccc3448ba798dbadf0ee323dd28232ad2fd2fa21e2c60778ad84623b603d",
+      "size": 3000736
+    },
+    "frauenhaus": {
+      "file": "frauenhaus-e7935401309a.pck",
+      "sha256": "e7935401309a3c9dd6ced3f13eedaaea38339b2609e654f031e1895bb5485fea",
+      "size": 19426400
+    },
+    "haupthaus": {
+      "file": "haupthaus-1b39e4351ebb.pck",
+      "sha256": "1b39e4351ebb82adf49032c756a22485381c62291162420d038c0e49c3d7e6f4",
+      "size": 21446784
+    },
+    "maennerhaus": {
+      "file": "maennerhaus-7fa22b7610fc.pck",
+      "sha256": "7fa22b7610fcf0c2d7377b754dfd193cdd705fd80671ea0a4cdf32807c520b49",
+      "size": 18976384
+    },
+    "neandertaler": {
+      "file": "neandertaler-71a382da1793.pck",
+      "sha256": "71a382da1793b6d670571a90bc3ad21d677a1fcde8999c380c23d3a4a152f09d",
+      "size": 2732256
+    },
+    "spiel": {
+      "file": "spiel-1c65f938fa70.pck",
+      "sha256": "1c65f938fa70e27af4efc52790c0db5231a98319f76f26c6d056781793374ae4",
+      "size": 27991312
+    },
+    "ton": {
+      "file": "ton-68e0a36aea22.pck",
+      "sha256": "68e0a36aea22f4a0079ba3ed520c8b8183e028ff6f8465349070f364d9021751",
+      "size": 6639872
+    }
+  },
+  "pck": "GlodAnEre.pck",
+  "sha256": "c5b207c5112f24565ad4c1e6b8ad79b454fb9c5e85a2ba27bd649813e83a0afa",
+  "version": "0.173"
+}
