@@ -1,12 +1,10 @@
 {
   "engine": "4.3",
   "notes": [
-    "Probe: Die erwachsenen Männer sind jetzt das 3D-Modell des Neandertalers. Arme und Beine bewegen sich wie bisher, Krone und Bärenhaube sitzen auf seinem Kopf. Frauen und Kinder bleiben vorerst, wie sie sind.",
-    "Neue Modelle: das Haupthaus und die Fischerhütte in der feinen Fassung ohne Bodenplatte, dazu die Forsthütte. Sie stehen einfach auf dem Boden, ohne Saum.",
-    "Alle Modelle haben jetzt dieselbe gedämpfte Farbgebung, keins ist heller oder bunter als die anderen.",
-    "Das Wappen hängt als Fell an der Querstange zwischen den beiden Spitzen des Haupthauses."
+    "Musik: Im Hauptmenü und im Spiel läuft jetzt Hintergrundmusik, beim Start kommt sie sanft herauf und läuft beim Wechsel ins Spiel einfach weiter.",
+    "Im Hauptmenü unter Einstellungen: Musik an/aus und je ein Kiesel für die Lautstärke von Musik und Geräuschen. Im Spielmenü dasselbe auf der neuen Seite „Ton“. Die Einstellung bleibt gespeichert."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "6ccdb659905ad6af028bc6648f9bd03dca4ff7c95553503f5b98cf3175c411e4",
-  "version": "0.149"
+  "sha256": "345e692a3682b9d6fd46bfd813644e9798f45041f2eafaa9a793dab9747287b6",
+  "version": "0.150"
 }
