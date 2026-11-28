@@ -1,9 +1,9 @@
 {
   "engine": "4.3",
   "notes": [
-    "Der Installer ist neu und bringt die aktuelle Version mit. Er liegt jetzt bei den Veröffentlichungen im Download-Bereich; der Link im Download-Bereich führt immer zum neuesten."
+    "Seen, Bäche und Flüsse liegen jetzt flach auf dem Boden, wie der Sand: keine schwebenden Wasserflächen, keine Stufen und kein Blick darunter. Das Wasser ist vorerst ruhig und blau, am Ufer heller, in der Mitte dunkler, und weiß, wo es steil hinabläuft."
   ],
   "pck": "GlodAnEre.pck",
-  "sha256": "0e6adc2faf46620ea26e8690add49901c5391be300ece520063c74d26c3ae098",
-  "version": "0.153"
+  "sha256": "02e41dcdae9861cf4fa3491d99fd696c08a096fa91ce67b051ebbd974fe61835",
+  "version": "0.156"
 }
